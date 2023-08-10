@@ -1,0 +1,259 @@
+/* Import Google font - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+
+/* body styling */
+body {
+  background-color: #343541;
+}
+
+/* Sidebar styling */
+.sidebar{
+  position: fixed; 
+  border: 0px solid ;
+  outline: 0px solid;
+  width: 20%;
+  display: inline-block;
+  height: 99vh;
+  background-color: #202123;
+  box-shadow: 3px 6px 10px black, 3px 6px 10px black  ;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.show-sidebar{
+  display: none;
+  background-color: unset;
+  color: white;
+  outline: none;
+  border: none;
+}
+.hide-sidebar{
+  display: none;
+  color: white;
+  outline: none;
+  border: none;
+  position: absolute;
+  top: 10px;
+  right: -40px;
+  background-color: #343541;
+}
+
+@media (max-width : 902px ) {
+  .show-sidebar, .hide-sidebar{
+    display: block;
+  }
+  .sidebar{
+    width: 90%;
+    max-width: 300px;
+    z-index: 100;
+    left: -100%;
+  }
+  .sidebar.show{
+    left: 0;
+  }
+  .chat-block{
+    width: 100% !important;
+    left: 0 !important;
+    height: 100vh;
+  }
+}
+
+.sidebar .Logout{
+  border: none;
+  padding: 10px 10px;
+  margin-top: 30%;
+  text-align: center;
+}
+.sidebar .Logout:active{
+  background-color: #2A2B32;
+}
+.sidebar #Logout-btn{
+    display: inline-block;
+    color: #fff;
+    vertical-align: bottom;
+    padding-right: 10px;
+    
+}
+.Logout p{
+  display: inline;
+  font-size: 0.9em;
+}
+.Logout a{
+  color: #fff;
+  text-decoration: none;
+}
+.sidebar .history{
+  border: none;
+  padding: 10px 10px;
+  margin-top: 30%;
+  text-align: center;
+}
+.sidebar .history:active{
+  background-color: #2A2B32;
+}
+.sidebar #history-btn{
+    display: inline-block;
+    color: #fff;
+    vertical-align: bottom;
+    padding-right: 10px;
+}
+.history p{
+  display: inline;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.9em;
+}
+
+
+.sidebar .chat{
+  border: 1px solid #555659;
+  padding: 10px 10px;
+  margin-top: 3%;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.sidebar #chat-btn{
+    display: inline-block;
+    color: #fff;
+    vertical-align: bottom;
+    padding-right: 10px;
+    
+}
+.chat p{
+  display: inline;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.9em;
+}
+
+.sidebar hr{
+  border: 1px solid #555659;
+  width: 100%;
+  margin-top: 12em;
+ 
+}
+
+
+/* Chats area styling */
+.chat-block{
+  width: 79%;
+  border: none;
+  position: relative;
+  left: 20.62%;
+  height: 100vh;
+  padding-top: -2%;
+  
+}
+/* Chats container styling */
+.chat-container {
+  overflow-y: auto;
+  max-height: 100vh;
+  padding-bottom: 150px;
+  border: none;
+}
+
+:where(.chat-container, textarea)::-webkit-scrollbar {
+  width: 6px;
+}
+:where(.chat-container, textarea)::-webkit-scrollbar-track {
+  background: var(--incoming-chat-bg);
+  border-radius: 25px;
+}
+:where(.chat-container, textarea)::-webkit-scrollbar-thumb {
+  background: var(--icon-color);
+  border-radius: 25px;
+}
+
+.user-container{
+  border: 1px solid #202123;
+  padding: 25px 10px;
+  justify-content: center;
+  background-color: #202123;
+}
+.chat-container img{
+  width: 40px;
+  height: 35px;
+  border-radius: 2px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.chatbot-container{
+  border: 1px solid #40414F;
+  padding: 25px 10px;
+  justify-content: center;
+  color: white;
+  background-color: #444654;
+}
+.chat-container p{
+  font-size: 1.05rem;
+  padding: 0 50px 0 25px;
+  color:#fff;
+  display: inline;
+}
+
+/* Typing container styling */
+.typing-container {
+  position: fixed;
+  bottom: 0;
+  width: inherit;
+  display: flex;
+  padding: 20px 10px;
+  justify-content: center;
+  border-top: 1px solid ;
+  border: none;
+}
+ .typing-container .typing-content {
+  display: flex;
+  max-width: 950px;
+  width: 100%;
+  align-items: flex-end;
+ 
+}
+.typing-container .typing-textarea {
+  width: 100%;
+  display: flex;
+  position: relative;
+ 
+}
+.typing-textarea input {
+  resize: none;
+  height: 55px;
+  width: 100%;
+  border: none;
+  padding: 15px 45px 15px 20px;
+  font-size: 1rem;
+  border-radius: 10px;
+  max-height: 250px;
+  background: #40414F;
+  outline: 0px solid ;
+  color: white;
+}
+.typing-textarea input::placeholder {
+  color: white;
+}
+.typing-content span {
+  width: 55px;
+  height: 55px;
+  display: flex;
+  border-radius: 4px;
+  font-size: 1.35rem;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.typing-textarea span {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  visibility: hidden;
+}
+.typing-textarea input:valid ~ span {
+  visibility: visible;
+}
+

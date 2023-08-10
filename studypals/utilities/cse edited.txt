@@ -1,0 +1,364 @@
+CSC101: INTRODUCTION TO COMPUTING I (2 UNIT [2-0-0])(HARMATHAN)
+Definition of computer and computer related concepts such as programme, computer software: Systems and application programmes; minicomputers, mainframes and supercomputer.
+Discussion of selected application of personal computers: word processing, database management, spreadsheet, graphics, data analysis.
+Comprehensive history of modern computer technology. Evolution of microcomputer systems. History of computer programme.
+Number system: Binary, Decimal, Hexadecimal. Binary arithmetic; Addition, subtraction, multiplication, division.
+Social impact of computers: positive impacts, negative impacts.
+
+CSC 102: INTRODUCTION TO COMPUTING II (2 UNIT [1-0-3])(RAIN)
+An introduction to computing with emphasis on the practical usage of the personal computers; concepts of computer hardware, software.
+Definition of the following terms: bits, bytes, word, word length, data, information, records, database, datatypes and organization. 
+Data coding: ASCII Problem-solving process. Algorithms; flowcharting.
+Basic logic gates and their operation: Examples with elementary logic circuits.
+Introduction to a scripting programming language.
+
+CSC 201: COMPUTER PROGRAMMING I (3 UNITS [2-0-3])(HARMATHAN)
+Brief survey of programming paradigms Procedural programming Object-oriented programming, Functional programming Declarative programming, non-algorithmic programming Scripting languages. 
+The effects of scale on programming methodology.
+Programming the computer in current version of FORTRAN: 
+Declarative statements; Input and Output statements; Program compilation and execution; Control and conditional statements; Loops and iteration; Functions, Routines and Sub-programmes.
+Input/Output; File processing; Port addressing.
+Program testing and debugging techniques.
+
+CSC 202: COMPUTER PROGRAMMING II (2 UNITS [0-0-6]) (Pre; CSC 201)(RAIN)
+This is a programming laboratory course consisting of applications of programming, through case study problems. Students are expected to carry out four laboratory assignments and make two oral
+presentations after the completion of the second and the fourth assignments. Programmes will be developed using FORTRAN 90 or latest version of FORTRAN.
+Laboratory Assignment I: Programming basics- Data type, basic programme structure; Compiling and executing programmes in text and graphics environment.
+Laboratory Assignment II: Loop, arrays, searching and sorting.81
+Laboratory Assignment III: Function, Routine, Subroutine subprogramme: multiple procedure calls from a main programme
+Laboratory Assignment IV: Extensive programming problem with Application to students field of study and interest.
+
+CPE 203: INTRODUCTION TO DIGITAL COMPUTER SYSTEMS I (2 UNITS [2-0-0])(HARMATHAN)
+Binary arithmetic operations addition, subtraction, multiplication, division. Binary point. Floating point and mixed point. Basic logic gates, symbols, truth tables. Boolean Algebra; Theorems, Minimization methods, Karnaugh maps (up to six variables) etc.
+Logic expressions, minimization, sum of product forms.
+Physical considerations (gate delays, fan-in, fan-out).
+Error correlation, parity.
+Introduction to type of circuits- combinatorial and sequential.
+Introduction to instruction format: OPCODE OPERAND.
+Binary representation: bits, nibbles, bytes: character representation: numeric, non-numeric, alphanumeric, EBCDIC, BCD, ASCII, ANSI.
+
+CPE 204: INTRODUCTION TO DIGITAL COMPUTER SYSTEMS II (2 UNITS [2-0-0]) (Pre; CSE 203)(RAIN)
+Fundamental building blocks (logic gates, ip-ops, counters,registers, PLA/PAL)
+Design of combinatorial circuits with emphasis on application.
+Design of sequential circuits, synchronous and asynchronous.
+Design of simple CPU, peripheral devices (I/O), memory/storage devices stored-program concept.
+
+CPE 206: DIGITAL LABORATORY (2 UNITS [0-0-6]) (Pre; CSE 203)(HARMATHAN)
+Experience with digital systems design tools: Truth tables, Karnaugh maps (up to six variables).
+Experience with the use of Programmable Array Logic and Programmable Logic Array.
+Design, implementation, and testing of the following: Circuits using basic logic operations; devices based on Combinational logic: Devices using simple latches and ip-op (Using, for example, TTL devices).
+Experiments with Binary adders, synchronous counters, up-down counters.
+
+CSC 221: COMPUTER APPRECIATION (3 UNIT [1-1-3]) (Pre; NONE)(RAIN)
+(Specifically design for students in Social Sciences, and Arts)
+Definition and attributes of computers: What computers can do and cannot do. Overview of milestone in the history of computers.
+Types of computer: -analogue, digital, hybrid; classification/categorization: mainframes, minis, mirco, super computers.
+The structure, components, and operation of computer system: components of micro-computer systems; input devices, output devices, extra memory; serial access stores, random access stores; software, etSystem and application programmes. 
+Computer operation; text manipulation, calculation, logical functions; text and data analysis; computer instruction etc.
+Binary number system and binary arithmetic
+Process of problem solving with computers: flowcharting, etc.
+Introduction to Programming in BASIC.
+Computer application: Wordprocessing (Ms Word or CorelWord perfect) , Statistical analysis(EPI info, SPSS or SAS), database management(DBASE or Ms Access) Desktop publishing(Corel Draw/ Harvard graphics).
+
+CPE 301: LOW LEVEL LANGUAGES (3 UNITS [2-0-3]) (Pre: CPE204)(HARMATHAN)
+Bits, bytes, and words, Numeric data representation and number bases, Fixed- and floating-point systems, Signed andntwos-complement representations, Representation of non-numeric data (character codes, graphical data), Representation of records and arrays
+Basic organization of the von Neumann machine detailed architecture of a microprocessor (Intel, Zilog, or Motorola)
+Control unit; instruction fetch, decode, and execution, Instruction sets and types (data manipulation, control, I/O)
+Assembly/machine language programming, Instruction formats, Addressing modes Subroutine call and return mechanisms.
+Controls-Loops and Switches. Macro Instructions. Interrupts and modular programming, Input/Output. 
+File Structures and Storage Control Relocatable Code, Linking/LoadinDevice driver writing.
+Introduction to C programming language as modern tools for low level programminPort addressing in Bit slicing, Bit concatenation. Advanced memory management in C.
+
+CSC 302 OBJECT-ORIENTED PROGRAMMING (3 UNITS [2-0-3]) (Pre: CSC 201)(RAIN)
+Definition of alphabet, syntax and semantics as used in selected higher-level languagExplanation of the terms; Variables, data types, expressions, and assignment statements, Simple I/O, Conditional and iterative control structures.
+Multidimensional arrays; pointers, pointer to pointer, dynamic data structures and memory allocation functions and parameter passing, Structured decomposition.
+Development of programmes for solving basic economic, engineering and scientific problems.
+Programming with relevant and current OOP languages.
+Implementation of object-oriented concepts; encapsulation and information-hiding, Separation of behavior and implementation, classes and subclasses, Inheritance (overriding, dynamic dispatch), Polymorphism (subtype polymorphism vs inheritance), Class hierarchies.
+Control structures, Arrays, Methods, Applets.
+Graphics and event handling programme testing and exception handling.
+
+CPE 303: INTRODUCTION TO COMPUTER ENGI-NEERING (3 UNITS [3-0-0])(HARMATHAN)
+Definition of computer hardware engineering: Scientific basis of computer engineering, hardware components of computer system, factors influencing computer hardware design, Electronics of computer engineering: Basic active logic circuits, Integrated Circuit families. 
+ECL, MOS, CMOS, TTL, DRL, etc. description Characteristics and circuit, parameter.
+Fan-in/Fan-out, Speed/Power factor, logic levels, noise immunity and General operating principles of circuits.
+Description Application of Boolean algebra to the design and analysis of combinational logic networks. 
+Synchronous and asynchronous operations. 
+Analysis and synthesis of sequential switching circuits, Registers.
+Description Design of firmmware: ROM, PROM, EPROM, EEP-ROM technologies, design and development of devices drives.
+descriptionHardware development tools: Hardware specification/definition language (HDL/HSL).
+
+CSC 304: BUSINESS AND COMMERCIAL PROGRAMMING (3 UNITS [1-1-3])(RAIN)
+Application: separation of Data and Processing, File Manipulation - Sorting, searching, merging techniques and procedures - common data structure programme libraries, utilities and support software.
+File maintenancFile Processing: Overview of I/O system architecture, logic file organizations, mapping logical organization onto physical storage, Back-up procedure, file recovery.
+Higher level language data management facilities.
+Introduction to structured programming concepts, overview of SP theory, well-formed and proper programs, design components for structured programs, introduction of a class style.
+VISUAL BASIC (or COBOL) Language: Input data and form definition - record and file descriptions, processing - record selection, file manipulations, calculation, store minimization. 
+User interface design, event driven process implementation.
+
+CSC 305: INTRODUCTION TO DATABASE SYSTEMS (3 UNITS [2-1-0])(HARMATHAN)
+Database and databases users
+Database system concepts and architecture; data modeling using Entity-Relationship (ER) and Enhanced Entity-Relationship (EER) model, Record storage and primary file organization, index structures for files
+Overview of database languages; SQL (data denition, query formulation, update sublanguage, constraints, integrity); Query optimization QBE and 4th-generation environments, Embedding non-procedural queries in a procedural language
+Database security and authorization
+Data warehousing and data mining
+Introduction to Object Query Language
+
+CSC 306: INTRODUCTION TO HUMAN-COMPUTER INTERACTION DESIGN (3 UNITS [2-1-0])(RAIN)
+An introduction to the concepts underlying the design of human-computer interaction: usability and ordances, systemic design methods, user conceptual models and interface metaphors, human cognitive and physical ergonomics, information and inter activity structures, design tools and environments. 
+Structured around a set of case studies in which notable interface designs, and/or projects are analyzed as illustrative of underlying principles. 
+Discussion of cases and interface analysis and design exercises.
+
+CSC 307: NUMERICAL COMPUTATIONS I (3 UNITS [2-0-3])(Pre: CSC201)(HARMATHAN)
+Numerical Data representation on computer, Computer as a number crunching tool Floating-point number representation and arithmetic.
+Error, stability, convergence.
+Theory of computational solution to problem: numerical algorithm formulation and design, numerical software systems.
+Introduction to use of Octave or Matlab in numerical computation and engineering applications. Emphasis is on the use of software to solve real problems.
+Iterative solutions of non-linear systems: (Newtons Method)
+Numerical solution of linear systems.
+Numerical computation of Eigenvalues and eigenvectors.
+
+CSC 308: NUMERICAL COMPUTATIONS II (3 UNITS[2-0-3]) (Pre: CSC 307)(RAIN)
+Curve fitting; function approximation Numerical diferentiation and integration (Simpsons Rule,etc.)
+Explicit and implicit methods
+Diferential equations (Eulers Method, etc.)
+Linear algebra Finite dierences.
+
+CPE 309: COMPUTER ENGINEERING LABORATORY I (1 UNIT [0-0-3])(HARMATHAN)
+Computer Engineering Design and implementation techniques; Safety and operational integrity; Hardware Circuits valuation and evaluation. Computer circuit packaging.
+Design and implementation laboratories: Basic logic operations; Combinational logic; Asynchronous counters; Synchronous counters; Up-down counters; Codes and code converters.
+Design and implementation of a microprocessor.
+Introduction to embedded systems.
+
+CPE 310: INTRODUCTION TO AGENT BASED SYSTEM (2 UNITS 1-0-3)(RAIN)
+Introduction to agent based technology: Denition of agents, Successful applications and state-of-the-art agent-based systems; Agent architectures: Simple reactive agents, Reactive, planners, Layered architectures, Example architectures and applications.
+Agent theory, Commitments, Intentions, Decision-theoretic agents, Markov decision processes (MDP).
+Software agents, personal assistants, and information access, Collaborative agents, Information gathering agents, Believable agents (synthetic characters, modeling emotions in agents) Learning agents, Multi-agent systems, Economically inspired multi-agent systems, Collaborating agents, Agent teams, Agent modeling, Multi-agent learning, Introduction to robotic agents, Mobile agents.
+
+CSC: 311: INTRODUCTION TO INFORMATION SYSTEM (2 UNITS [2-0-0])(HARMATHAN)
+History of information communication and information system , Definitions and basic concepts of IS.
+Component, Structure, Configuration and management of Information System
+The Internet and Internet based services; Internet base application development
+The World Wide Web(WWW) and Website development:page design and development (MS Outlook)
+Fundamentals of HTTP based programming.
+
+CSC 312: SYSTEMS ANALYSIS AND DESIGN METHODOLOGIES (3 UNITS [2-1-0])(RAIN)
+Vital steps in systems analysis: Techniques of systems analysis.
+General Systems.
+Considerations: Data capture; Data management; Data security; Communications systems Maintenance, User involvement; Project handling and control.
+
+CPE 314: COMPUTER ENGINEERING LABORATORY II (1 UNITS [0-0-3]) (Pre: CPE 309)(HARMATHAN)
+Interfacing with personal computers: ADC/DAC configuration, port addressing, device driver coding, RS-232C.
+Tuned circuits; Single-stage transistor amplifier; I-C operational amplifier
+Microcomputer based control and co-ordination.
+Environment signal Sensors and actuator interfacing
+Robotic system interfacing
+
+CSC 315: DATA STRUCTURES & ANALYSIS OF ALGORITHMS (3 UNITS [2-1-0]) (Pre: CSC 202)(RAIN)
+Basic structures for data representation, data definition languages.
+Sequential and linked storage allocation, for linear lists, for multi-linked structures, for string processing techniques, Trees implementation, traversal, mathematical properties, balanced, trees, heaps, hash tables 
+Efficient algorithms for sorting, searching, and selection. 
+Algorithm analysis: worst and average, case analysis. 
+Recurrences and asymptotic
+Algorithm design techniques: divide-and-conquer, dynamic programming, greedy algorithms, amortized analysis 
+Primitive types, Arrays, Records, Strings and string processing, Data representation in memory, Static, stack, and heap allocation, Runtime storage management, Pointers and references, Linked structures, Implementation strategies for stacks, queues, and hash tables
+Algorithms for fundamental graph problems such as depth first search, connected components, topological sort, and shortest paths. Possible additional topics: network flow, string searching, parallel computation
+C/C++ Programme to implement basic data structure and their manipulation.
+
+CPE 316: INTRODUCTION TO ARTIFICIAL INTELLIGENCE (2 UNITS [1-0-3])(HARMATHAN)
+History of artificial intelligence, Philosophical questions: Definition of AI, The Turing test Searles Chinese Room thought experiment, Ethical issues in AI, Fundamental definitions Optimal vs. human-like reasoning, Optimal vs. human-like behavior.
+Modeling the world; the role of heuristics.
+Knowledge representation and reasoning: Review of propositional and predicate logic Resolution and theorem proving, Nonmonotonic inference, Structured representation, Frames and objects, Description logics, Inheritance systems, Non-monotonic reasoning, Non classical logics, Default reasoning, Belief revision, Preference logics, Integration of knowledge sources, Aggregation of conicting belief, Reasoning on action and change, Situation calculus, Event calculus, Temporal and spatial reasoning(breadth-first, depth-first, depth-first with iterative deepening).
+Softcompuring: Fuzzy sets and possibility theory, neural networks, genetic algorithm.
+Two-player games (minimax search, alpha-beta pruning; illustration with Ayo).lmku79
+Introduction to robotics and AI planning.
+Developments in artificial intelligence, natural language understanding, knowledge representation, expert systems, pattern recognition, the language LISP or PROLOG.
+
+CSC 317: AUTOMATA THEORY AND COMPUTABILITY (2 UNITS [1-0-3])(RAIN)
+Finite-state machines, Context-free grammars, Tractable and intractable problems Uncomputable functions, the halting problem, Implications of uncomputability Deterministic Finite automata (DFAs),
+Non-deterministic nite automata (NFAs) Equivalence of DFAs and NFAs, Regular expressions.
+The pumping lemma for regular expressions, Push-down automata (PDAs), Relationship of PDAs and context-free grammars,Properties of context-free grammars, Turing machines, Non-deterministic Turing machines, Sets and languages, Chomsky hierarchy, The Church-Turing thesis.
+
+CSC 333: COMPUTER APPLICATIONS (2 UNITS [2-0-0])(HARMATHAN)
+Review of Computer Systems: et- Fundamental concepts: Boolean algebra; codes BCD, EBCDIC, ASCII, Extended ASII, code convention, terminologies, etcompiler, information technology, information systems, computer program, data, information, knowledge, files and databases, etc.
+Overviews of business information systems: How business firms use information systems, basic business systems, manufacturing and production systems, sales and marketing, human resources, finance and accounting.
+Management Support Systems. Management information systems; decision support systems, etc.
+What Computers are used for: Oce automation - Wordprocessing, desktop publishing and optical disk storage, scanner, disk-stored document, facsimile machine (fax), groupware;
+Banking, airline seat reservation, hotel reservation systems: computers and the police, health informatics, information retrieval, statistical literary research; keywords, signatures, identification, access control, file access: future trends, etc.
+The computer threat: Ethical, social and organizational issues, the computer virus crisis.
+Standard Packages - Database and le management, Spreadsheet, Statistical packages, Windows.
+
+CPE 401: COMPUTER ARCHITECTURE AND ORGANIZATION (3 UNITS [3-0-0])(RAIN)
+Definition. Structural and functional characteristics of computer system components.
+Organization and design of digital computing systems; description of current typical computing structure, processor micro-architecture and pipelining; cache and virtual memory organizations CPU configuration and possible architecture software/ hardware tradeos.
+Introduction to SIMD, MIMD, VLIW, EPIC, Systolic architecture, Interconnection networks (hypercube, shue-exchange, mesh, crossbar), Shared memory systems, Cache coherence, Memory models and memory consistency.
+Superscalar architecture, Branch prediction, Pre-fetching, Speculative execution, multithreaded architecture, Scalability, symmetric multiprocessors; and parallel computers.
+
+CSC 403: PRINCIPLES OF COMPILERS (3 UNITS [3-0-0])(HARMATHAN)
+Definition; Basic concepts of compiler.
+Application of regular expressions in lexical scanners, Parsing (concrete and abstract syntax, abstract syntax trees).
+Application of context-free grammars in table-driven and recursive descent parsing Symbol table management, code generation by tree walking Compilation approaches - Multipass, Single Pass, Load and Go; Compiler implementation - Scanning, syntax directed table driven.
+Architecture-specific operations: instruction selection and register allocation
+Optimization techniques
+The use of tools in support of the translation process and the advantages thereof Program libraries and separate compilation Building syntax-directed tools
+
+CPE 405: INTRODUCTION TO MICROPROCESSOR TECHNOLOGY AND MICRO-PROGRAMMING (3 UNITS[3-0-0])(RAIN)
+I/O fundamentals: handshaking, buffering, programmed I/O, interrupt-driven I/O 
+Interrupt structures: vectored and prioritized, interrupt acknowledgment
+External storage, physical organization, and drives
+Buses: bus protocols, arbitration, direct-memory access (DMA)
+Introduction to multiprocessor configuration and parallel processing
+Multimedia support
+RAID architectures
+Microprocessor architecture and microprogramming model.
+Design requirements for microinstructions and instruction repertoire.
+
+CSC 407: TECHNIQUES IN SOTFWARE DEVELOPMENT (2 UNITS [1-0-3])(HARMATHAN)
+Software Design Concepts and principles, design of software quality, abstraction, renement, modularity, software architecture, control hierarchy, structural partitioning, data structure.
+Design methodology, data, architectural, transformation mappinPost processing design; optimization; interface design, Foundations of human-computer interaction: Human-centered development and evaluation.
+Procedural design: structure programming, graphical notation, tabular notation. Program Design Language (PDL), A PDL example.
+Object-oriented design: Concept of patterns and the use of APIs; modeling tools such as class diagrams, CRC cards, and UML use cases.
+Software: re-use and re-engineering
+Client/server Software Development
+Computer aided Software Development.
+
+CPE 409: MICROPROCESSOR DESIGN LABORATORY (2 UNITS [0-0-6])(RAIN)
+Students are expected to undertake a number of tasks in microcontroller design and implementation projects, designed to apply knowledge gained in microprocessor architecture and microprogramming course.
+
+CSC 415: OPERATING SYSTEMS AND SYSTEM PROGRAMMING (3 UNITS [3-0-0])(HARMATHAN)
+Role and purpose of the operating system.
+History of operating system development.
+Functionality of a typical operating system.
+Mechanisms to support client-server models, hand-held devices.
+Design issues (eciency, robustness, exibility, portability, security, compatibility)
+Influences of security, networking, multimedia, windows: Structuring methods (monolithic, layered, modular, micro-kernel models): Abstractions, processes, and resources: Concepts of application program interfaces (APIs): Application needs and the evolution of hardware/software techniques: Device organization: Interrupts: methods and implementations: Concept of user/system state and protection, transition to kernel mode
+File systems: Management of secondary stores, Examples of operating systems VM, OS, DOS/VS, WINDOWS, UNIX, LINUX, etc A detailed study of two systems most commonly used in the country.
+
+CSC 501: INTRODUCTION TO OPERATIONS RESEARCH (2 UNITS [2-0-0])(RAIN)
+Linear programming.
+Integer programming.
+The Simplex method.
+Probabilistic modeling.
+Queuing theory, Petri nets Markov models and chains optimization, Network analysis and routing algorithms.
+Prediction and estimation, Decision analysis, Forecasting, Risk management, Econometrics, microeconomics, Sensitivity analysis, Dynamic programming, Sample applications, Software tools.
+
+CPE 502: HARDWARE SYSTEM STUDIES (3 UNITS [1-1-3])(HARMATHAN)
+Design and implementation of simple systems that utilize the following devices: Multiplexer/Demultiplexer; MODEMS, ADC, DAC.
+Hardware circuit reliability: Graceful degradation; MTTR, MTBF, etc.
+Computer selection for a given application, economic versus technical considerations.
+A survey of fundamentals with emphasis on hardware and systems concepts.
+Interfaces and configurations.
+
+CSC 503/504: (CPE 503/504) INDIVIDUAL PROJECT I/II ((3 UNITS [0-0-9]) each)(RAIN)
+This offers an opportunity for graduating year students to apply theoretical, conceptual and practical knowledge gained to solve selected problem, either within the Technology itself or any other area of application subject to approval of the Department of Computer Science and Engineering and viability of adequate supervision. 
+At the end of the project, the student submits a report. This course is a compulsory requirement for the three programmes offered in the Department.
+
+CSC 505: OBJECT-ORIENTED SYSTEMS DESIGN (2 UNITS [2-0-0])(HARMATHAN)
+Software design and construction in context of large OOP libraries.
+Taught in JavTopics: review of OOP, the structure of Graphical User Interface (GUI) OOP libraries, GUI application design and construction, OOP Software Development strategies, approaches to programming in teams.
+
+CSC 506: INDUSTRIAL APPLICATION STUDIES (3 UNITS)(RAIN)
+These are special application courses arranged with industry for the students in-depth experience of industrial type problems. 
+A mini-system is defined and solution proposeStudents are required to apply knowledge acquired over the course of their training in proposing solution to industrial type problems. At the end of each course the student submits a detailed system report. 
+The student gives one seminar on each problem solve different seminar is organized with speakers from the Industry to intimate the students
+with Industry requirements and expectations. 
+Also, postgraduate research works are presented to expose students to possible research areas for future endeavours.
+
+CSC 507: COMPUTERS IN SOCIETY (2 UNITS [2-0-0])(HARMATHAN)
+Introduction to the effects of the application of computers on social life: in education, medicine, business, science and research, etc 
+Effects on skills evaluation and employment.
+Social implications of networked communication (WWW).
+Growth of, control of, and access to the Internet and International issues
+Computer usage appropriate for education; Promises and achievements of artificial intelligence; the computerized society; limitations of computers; human failures; Professional responsibility.
+Computer crime; history and examples of computer crime cracking (hacking) and its effects. 
+Viruses, worms, and Tro-jan horses Crime prevention strategies
+
+CSC 508: COMPUTER SYSTEM PROJECT MANAGEMENT (2 UNITS [2-0-0])(RAIN)
+Definition of computer project and project management.
+Components and features of a good computer based project management techniquComputer network administration.
+Function of members and team management, team processes,team organization and decision-making, roles and responsibilities in a software team, role identification and assignment, team problem resolution.
+Project tracking
+Software Project scheduling, Budgeting and Planning; Project organization.
+Software measurement and estimation techniques, Risk analysis.
+Software quality assurance.
+Software configuration management.
+Project management tools.
+
+CPE 509: HARDWARE DESIGN LABORATORY (2 UNITS[0-0-6])(HARMATHAN)
+Students are expected to undertake a number of mini projects, designed to apply knowledge in digital computer systems design and implementation.
+
+CPE 510: NATURAL LANGUAGE PROCESSING & APPLICATION (2 UNITS [2-0-0])(RAIN)
+Deterministic and stochastic grammars, Parsing algorithms, Corpus-based methods, Information retrieval, Language translation.
+Fundamentals of natural language modeling (using a local language; Yoruba, Hausa, Igbo, or any other African Language).
+Speech recognition; isolate, connected and continuous speech; definition, methods, problems, examples; speaker recognition.
+Speech synthesis; articulatory, format, concatinative, defnition, methods, problems, examples.
+Speech understanding; definition, methods, problems, examples.
+Natural language based interface to intelligent systems.
+Web based speech interface design.
+
+CPE 511: COMPUTER BASED REAL-TIME SYSTEMS (3 UNITS [3-0-0])(HARMATHAN)
+Definition of real-time systems; soft real-time and hard real-time systems, Configuration of real-time systems.
+Simple Physical Analogue: Basic elements; Adder, coefficient multiplier, integrator; Effects of constants; Solution of simple equations; Arm gains on adders and integrators. 
+Electronics of basic analogue computers: Passive computer circuits; Direct-coupled amplifiers; The di-erentiator; Magnitude and time scaling.
+Real-time process and task scheduling, Memory/disk management requirements in a real-time environment, Failures, risks, and recovery special problems in real-time systems design and implementation
+
+CSC 513: PRINCIPLES & APPLICATIONS OF DATA MINING (2 UNITS [2-0-0])(RAIN)
+Introduction to Data MininWhat is data mining? Directed and undirected data mining Models. Profiling and prediction.
+Data Mining Methodology. Why has a methodology?
+Developing intuition about data, Decision Trees, Neural Networks, Origins of neural networks, Neural networks compared with regression. The algorithms used to train neural networks
+Data preparation requirements for neural networks. 
+Picking appropriate inputs for neural networks. 
+Creating neural network models using SAS Enterprise Miner Memory Based ReasoninSurvival Analysis. 
+Link analysis
+
+CSC 514: COMPUTER GRAPHICS (2 UNITS [2-0-0])(HARMATHAN)
+Hierarchy of graphics software using a graphics API Simple color models (RGB, HSB, CMYK)
+Homogeneous coordinates
+Alined transformations (scaling, rotation, translation)
+Viewing transformation, Clipping Programming examples in the creation and manipulation of graphics object.
+Animation (2D and 3D)
+
+CSC 515: DATABASE DESIGN AND MANAGEMENT (2 UNITS [2-0-0])(RAIN)
+Functional dependency; Normal forms (1NF, 2NF, 3NF, BCNF); Multivalued dependency (4NF); Join dependency (PJNF, 5NF) Data modeling; Conceptual models (including entity-relationship and UML) Object-oriented model.
+Relational data model. Mapping conceptual schema to a relational schema Entity and referential integrity Relational algebra and relational calculus.
+Distributed data storage, Distributed query processing, Distributed transaction model, Concurrency control, Homogeneous and heterogeneous solutions, Client-server
+
+CPE 517: DIGITAL COMPUTER NETWORKS (3 UNITS[3-0-0])(HARMATHAN)
+History of computer networks, principles of computer network: definitions, micro-computer networks Network classification; Topology.
+Introduction to LANs and WANs Layered protocol design, ISO/OSI, IEEE 802 Reference model. Case studies: ARPANET, DECNET, SNA; Network Communication media: Twisted pair; cable; satellite; Voice communication, Digital communication. 
+Radio communication
+Network computing, Distributed multimedia
+Improvements in World Wide Web (WWW) technology.
+
+CSC 520: EXPERT SYSTEMS (2 UNITS [2-0-0])(RAIN)
+Expert systems: definition; Basic concepts; basic architecture of expert system, expert system development life cycle, construction of expert systems.
+Tools for building expert systems: Object oriented tools, expert system shell.
+Reasoning and Knowledge engineering in expert system development, Structured representation, Frames and objects, Description logics, Inheritance systems, Non-monotonic reasoning: Non-classical logics, Default reasoning, Belief revision, Preference logics, Integration of knowledge sources, Aggregation of conicting belief, Reasoning on action and change, Knowledge representation for diagnosis, qualitative representation.
+Knowledge Elicitation in expert system
+Practical implementation of expert system using PROLOG or LISP.
+
+CPE 521: MODELLING AND SIMULATION (2 UNITS [2-0-0])(HARMATHAN)
+Simulation Programming environments, Requirements analysis and design modeling tools Testing tools.
+Configuration management tools 
+Tool integration mechanisms 
+Basic concepts in computer simulation, methodology, experimental design, simulation languages.
+
+CSC 522: INFORMATION STORAGE AND RETRIEVAL (2 UNITS [2-0-0])(RAIN)
+Characters, strings, coding, text Documents, electronic publishing, markup, and markup languages Tries, inverted files, PAT trees, signature files, indexing Morphological analysis, stemming, phrases, stop lists Term frequency distributions, uncertainty, fuzziness, weighting Vector space, probabilistic, logical, and advanced models Information needs, relevance, evaluation, efectiveness Thesauri, Tontologies, classification and categorization, metadata Bibliographic information, bibliometrics, citations Routing and (community) filtering Search and search strategy, information seeking behaviour, user modeling, feedback Information summarisation and visualization. 
+Digital libraries.
+Integration of citation, keyword, classication scheme, and other terms
+Protocols and systems (including Z39.50, OPACs, WWW engines, research systems)
+
+CSC 523: MATHEMATICAL PROGRAMMING (2 UNITS [2-0-0])(HARMATHAN)
+Counting arguments Sum and product rule, Inclusion-exclusion principle, Linear programming: Convex sets and linear forms.
+Graphical solution of linear programming problems. 
+The basic simplex algorithm. The dual problems. Integer linear programming.
+Arithmetic and geometric progressions, Fibonacci numbers, The pigeon hole principle, Permutations and combinations, Basic definitions, Pascals identity, The binomial theorem, Solving recurrence relations, Common examples, The Master theorem.
+
+CSC 524: TECHNIQUES IN DATA ANALYSIS (2 UNITS [2-0-0])(RAIN)
+Data collection and codinData cleaning - completeness, range, consistency.
+Design of algorithms for statistical analysis; count, sum, mean, standard deviation, analysis of variance, Frequency, cross-tabulation, multiple regression.
+Design of algorithm for implementing Non parametric statistical test. 
+Case studies using SPSS or PSTAT or SAS packages.
+Software implementation of statistical algorithms.
+Interpretation of results.
