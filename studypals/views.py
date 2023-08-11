@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from django.shortcuts import render
 
 from .models import Text
@@ -30,11 +29,3 @@ def chat(request):
         
     context = {'response': response, 'form': form}
     return render(request, 'studypals/chat.html', context)
-=======
-from django.shortcuts import render
-
-# Create your views here.
-def index(request):
-    """The home page for Learning Log."""
-    return render(request, 'studypals/index.html')
->>>>>>> 8370b914406d0e7e6cc81cdd76708d4004b83da8

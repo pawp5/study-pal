@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from django.db import models
 
 
@@ -27,6 +26,30 @@ class Course(models.Model):
 
     def __str__(self):
         return self.code
+    
+class CSC(Course):
+    pass
+
+class CVE(Course):
+    pass
+
+class CHE(Course):
+    pass
+
+class AEE(Course):
+    pass
+
+class MEE(Course):
+    pass
+
+class MSC(Course):
+    pass
+
+class EEE(Course):
+    pass
+
+class FST(Course):
+    pass
 
 class TimeTable(models.Model):
     mon = models.TextField()
@@ -34,8 +57,3 @@ class TimeTable(models.Model):
     wed = models.TextField()
     thu = models.TextField()
     fri = models.TextField()
-=======
-from django.db import models
-
-# Create your models here.
->>>>>>> 8370b914406d0e7e6cc81cdd76708d4004b83da8

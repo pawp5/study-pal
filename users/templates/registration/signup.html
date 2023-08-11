@@ -1,13 +1,12 @@
 {% extends "studypals/base.html" %}
 {% load bootstrap4 %}
 
-<div class="container">
-  {% block page_header %}
-    <h2>Sign Up</h2>
-  {% endblock page_header %}
+{% block page_header %}
+<h2>Sign Up</h2>
+{% endblock page_header %}
 
-  {% block content %}
-
+{% block content %}
+  <div class="container">
     <form method="post" action="{% url 'users:signup' %}" class="form">
       {% csrf_token %}
       {% bootstrap_form form %}
@@ -17,5 +16,5 @@
       
       <input type="hidden" name="next" value="{% url 'studypals:index' %}"/>
     </form>
-  {% endblock content %}
-</div>
+  </div>
+{% endblock content %}
