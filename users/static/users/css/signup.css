@@ -1,0 +1,717 @@
+html {
+  font-size: 62.5%;
+  box-sizing: inherit;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+}
+
+/* COLOR PALETTE */
+/* #17594a 
+#5ca850
+#f2ee9d
+#7a9d54
+gainsboro */
+
+/* ENDDDD */
+
+body {
+  box-sizing: border-box;
+  letter-spacing: 1px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  background-color: #17594a;
+  width: 100%;
+  color: gainsboro;
+}
+
+.nav__bar {
+  margin: 1.5rem 5rem;
+  display: flex;
+  flex-direction: row-reverse;
+  height: 7rem;
+  border-bottom: 1px solid gainsboro;
+  position: relative;
+}
+
+.nav__links {
+  display: flex;
+}
+
+.nav__link,
+.nav__link:link,
+.nav__link:visited {
+  margin: 0.5rem 1rem;
+  height: 2rem;
+  width: 2rem;
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  display: block;
+  width: inherit;
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 1.5rem;
+  color: gainsboro;
+  transition: 0.3s;
+  background-color: transparent;
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  z-index: 10;
+}
+
+.nav__link:hover {
+  background-image: linear-gradient(45deg, rgb(23, 89, 74), rgb(92, 168, 80));
+  color: gainsboro;
+  border: none;
+  cursor: pointer;
+}
+.nav__logo {
+  margin-right: auto;
+  display: flex;
+}
+#icon {
+  height: 8rem;
+  width: 8rem;
+  position: absolute;
+  bottom: 3px;
+}
+#logo__text {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: gainsboro;
+  padding:1.5rem 1rem 0.5rem;
+  font-size: 3rem;
+  margin-left: 8rem;
+}
+
+.maindiv{
+   width: 90%;
+   margin:0 auto;
+   margin-top: calc(2%);
+} 
+
+
+.div2{
+   position: relative;
+   float: right;
+   height: 74vh;
+   width: 73%;
+   background-color:transparent;
+   cursor: pointer;
+}
+.animate {
+    -webkit-animation: animatezoom 1.5s;
+    animation: animatezoom 1.5s
+}
+  
+ @-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)}
+    to {-webkit-transform: scale(1)}
+}
+  
+@keyframes animatezoom {
+    from {transform: scale(0)}
+    to {transform: scale(1)}
+}
+.div2 form{
+    position: relative;
+    top: 20%;
+    margin-left: 30%;
+    width: fit-content;
+}
+.div2 form h1{
+     position: relative;
+     top: -60px;
+}
+.div2 form h3{
+    position: relative;
+    top: -55px;
+}
+
+.div2 form input[type=text]{
+    width: 80%;
+    padding: 7px 10px;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    border: 1px solid hsl(270, 3%, 87%);
+    outline: 1px solid hsl(270, 3%, 87%) ;
+}
+.div2 form input[type=email]{
+    padding: 7px 5px;
+    width: 82%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    border: 1px solid hsl(270, 3%, 87%);
+    outline: 1px solid hsl(270, 3%, 87%) ;
+    
+}
+.div2 form ::-webkit-input-placeholder{
+    color: hsl(260, 2%, 70%); 
+}
+.div2 form input[type=tel]{
+    padding: 7px 5px;
+    width: 21%;
+    margin-top: 1%;
+    border-radius: 5px;
+    border: 1px solid hsl(270, 3%, 87%);
+    outline: 1px solid hsl(270, 3%, 87%) ;
+}
+.div2 form input[type=password]{
+    width: 21.5%;
+    padding: 7px 10px;
+    margin-top: 1%;
+    border-radius: 5px;
+    border: 1px solid hsl(270, 3%, 87%);
+    outline: 1px solid hsl(270, 3%, 87%) ;
+}
+
+
+.div2 form label{
+    font-weight: 900;
+    color:rgba(255, 255, 255, 1);
+}
+.div2 form input[type=submit] {
+    width: 84%;
+    padding: 7px 10px;
+    margin-top: 5%;
+    border-radius: 5px;
+    background-color:transparent;
+    color:rgba(255, 255, 255, 1);
+    outline:none;
+    border: 1px solid gainsboro;
+    box-shadow: 3px 6px 10px black, 3px 6px 10px black  ;
+    cursor: pointer;
+}
+.div2 form input[type=submit]:hover{
+  background-image: linear-gradient(45deg, rgb(23, 89, 74), rgb(92, 168, 80));
+  color: gainsboro;
+  border: 1px solid gainsboro;
+  cursor: pointer;
+    
+}
+.div2 p{
+  color: gainsboro;
+    text-align: center;
+    margin-top: 3%;
+}
+.div2 p a{
+    text-decoration: none;
+    color:#5ca850;
+}
+.div2 p a:hover{
+  color: #7a9d54;
+}
+
+
+
+.div1{
+    width: 25%;
+    height: 80vh;
+    position: relative;
+    left: 1%;
+    display: inline-block;
+    background-color:  #f2ee9d;
+    box-shadow: 3px 6px 10px black, 3px 6px 10px black  ;
+    border-radius: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 10px;
+} 
+.div1:before{
+    content: '';
+    position:absolute;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(45deg, rgb(23, 89, 74), rgb(92, 168, 80));
+    transition:0.5s;
+    pointer-events: none;
+}
+  
+.div1:hover:before{
+    transform: skewX(-30deg);
+}
+
+.div1 span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    box-sizing: border-box;
+    
+}
+  
+.div1 span:nth-child(1)
+  {
+    transform:rotate(0deg);
+  }
+  
+.div1 span:nth-child(2)
+  {
+    transform:rotate(90deg);
+  }
+  
+.div1 span:nth-child(3)
+  {
+    transform:rotate(180deg);
+  }
+  
+.div1 span:nth-child(4)
+  {
+    transform:rotate(270deg);
+  }
+  
+.div1 span:before
+  {
+    content: '';
+    position: absolute;
+    width:100%;
+    height: 2px;
+    background: white;
+    animation: animate 4s linear infinite;
+  }
+  
+@keyframes animate {
+    0% {
+    transform:scaleX(0);
+    transform-origin: left;
+    }
+    50%
+    {
+      transform:scaleX(1);
+    transform-origin: left;
+    }
+    50.1%
+    {
+      transform:scaleX(1);
+    transform-origin: right;
+      
+    }
+    
+    100%
+    {
+      transform:scaleX(0);
+    transform-origin: right;
+      
+    }
+    
+    
+} 
+
+
+
+
+
+
+
+
+/* box animation */
+.box{
+    width: 23%;
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    height: 25vh;
+    background-color:  #f2ee9d;
+    cursor: pointer; 
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 3px 6px 10px black, 3px 6px 10px black  ;
+}
+
+.box:before{
+    content: '';
+    position:absolute;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(45deg, rgb(23, 89, 74), rgb(92, 168, 80));
+    transition:0.5s;
+    pointer-events: none;
+}
+  
+.box:hover:before{
+    transform: skewX(-30deg);
+}
+
+.box span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    box-sizing: border-box;
+    
+}
+  
+.box span:nth-child(1)
+  {
+    transform:rotate(0deg);
+  }
+  
+.box span:nth-child(2)
+  {
+    transform:rotate(90deg);
+  }
+  
+.box span:nth-child(3)
+  {
+    transform:rotate(180deg);
+  }
+  
+.box span:nth-child(4)
+  {
+    transform:rotate(270deg);
+  }
+  
+.box span:before
+  {
+    content: '';
+    position: absolute;
+    width:100%;
+    height: 2px;
+    background: white;
+    animation: animate 4s linear infinite;
+  }
+  
+@keyframes animate {
+    0% {
+    transform:scaleX(0);
+    transform-origin: left;
+    }
+    50%
+    {
+      transform:scaleX(1);
+    transform-origin: left;
+    }
+    50.1%
+    {
+      transform:scaleX(1);
+    transform-origin: right;
+      
+    }
+    
+    100%
+    {
+      transform:scaleX(0);
+    transform-origin: right;
+      
+    }
+    
+    
+} 
+
+
+/* div4 animation*/
+
+.div4{
+    width: 23%;
+    position: absolute; 
+    top: 60%; 
+    left: 18%;
+    height: 25vh;
+    background-color:  #f2ee9d;
+    box-shadow: 3px 6px 10px black, 3px 6px 10px black  ;
+    border-radius: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.div4:before{
+   content: '';
+   position:absolute;
+   top:0;
+   width: 100%;
+   height: 100%;
+   background-image: linear-gradient(45deg, rgb(23, 89, 74), rgb(92, 168, 80));
+   transition:0.5s;
+   pointer-events: none;
+}
+ 
+.div4:hover:before{
+   transform: skewX(-30deg);
+}
+
+.div4 span{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   display: block;
+   box-sizing: border-box;
+   
+}
+ 
+.div4 span:nth-child(1)
+ {
+   transform:rotate(0deg);
+ }
+ 
+.div4 span:nth-child(2)
+ {
+   transform:rotate(90deg);
+ }
+ 
+.div4 span:nth-child(3)
+ {
+   transform:rotate(180deg);
+ }
+ 
+.div4 span:nth-child(4)
+ {
+   transform:rotate(270deg);
+ }
+ 
+.div4 span:before
+ {
+   content: '';
+   position: absolute;
+   width:100%;
+   height: 2px;
+   background: white;
+   animation: animate 4s linear infinite;
+ }
+ 
+@keyframes animate {
+   0% {
+   transform:scaleX(0);
+   transform-origin: left;
+   }
+   50%
+   {
+     transform:scaleX(1);
+   transform-origin: left;
+   }
+   50.1%
+   {
+     transform:scaleX(1);
+   transform-origin: right;
+     
+   }
+   
+   100%
+   {
+     transform:scaleX(0);
+   transform-origin: right;
+     
+   }
+   
+   
+ }  
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+.div1, .box, .div4{
+            display: none;
+    } 
+.div2{
+        position: relative;
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+    }
+.div2 form{
+        position: relative;
+        margin:0 auto;
+        width: fit-content;
+    }
+    .div2 form input[type=password]{
+      width: 16.5%;
+  }
+      
+    
+    }
+@media (max-width: 768px) {
+.div1, .box, .div4{
+            display: none;
+    } 
+    .div2{
+        position: relative;
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+    
+    }
+.div2 form{
+        position: relative;
+        margin:0 auto;
+        width: fit-content;
+    }
+    
+    }
+    @media (max-width: 576px) {
+        .div1, .box, .div4{
+            display: none;
+    } 
+    
+.div2{
+        position: relative;
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+    
+    }
+.div2 form{
+        position: relative;
+        margin:0 auto;
+        width: fit-content;
+    }
+    
+} 
+   
+@media screen and (max-width: 480px) {
+  .nav__content {
+    margin: 0 auto;
+  }
+  .nav__bar {
+    height: 5rem;
+    border-bottom: 1px solid gainsboro;
+    width: 100%;
+    margin: -0.1rem;
+  }
+  .nav__link,
+  .nav__link:link,
+  .nav__link:visited {
+    font-size: 1rem;
+    padding: 0.8rem 1rem;
+    height: 1rem;
+    margin-top: 1rem;
+  }
+  #logo__text {
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+  }
+  #icon {
+    height: 5rem;
+    width: 5rem;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 700px) {
+  .nav__content {
+    margin: 0 auto;
+  }
+  .nav__bar {
+    height: 5rem;
+    border-bottom: 1px solid gainsboro;
+    width: 100%;
+    margin: -0.1rem;
+  }
+  .nav__link,
+  .nav__link:link,
+  .nav__link:visited {
+    font-size: 1rem;
+    padding: 0.8rem 1rem;
+    height: 1rem;
+    margin-top: 1rem;
+  }
+  #logo__text {
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+  }
+  #icon {
+    height: 5rem;
+    width: 5rem;
+  }
+}
+@media (min-width: 701px) and (max-width: 850px) {
+  .nav__content {
+    margin: 0 auto;
+  }
+  .nav__bar {
+    height: 5rem;
+    border-bottom: 1px solid gainsboro;
+    width: 100%;
+    margin: -0.1rem;
+  }
+  .nav__link,
+  .nav__link:link,
+  .nav__link:visited {
+    font-size: 1rem;
+    padding: 0.8rem 1rem;
+    height: 1rem;
+    margin-top: 1rem;
+  }
+  #logo__text {
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+  }
+  #icon {
+    height: 5rem;
+    width: 5rem;
+  }
+}
+
+@media (min-width: 851px) and (max-width: 1000px) {
+  .nav__content {
+    margin: 0 auto;
+  }
+  .nav__bar {
+    height: 5rem;
+    border-bottom: 1px solid gainsboro;
+    width: 100%;
+    margin: -0.1rem;
+  }
+  .nav__link,
+  .nav__link:link,
+  .nav__link:visited {
+    font-size: 1rem;
+    padding: 0.8rem 1rem;
+    height: 1rem;
+    margin-top: 1rem;
+  }
+  #logo__text {
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+  }
+  #icon {
+    height: 5rem;
+    width: 5rem;
+  }
+}
+@media (min-width: 1001px) and (max-width: 1199px) {
+  .nav__content {
+    margin: 0 auto;
+  }
+  .nav__bar {
+    height: 5rem;
+    border-bottom: 1px solid gainsboro;
+    width: 100%;
+    margin: -0.1rem;
+  }
+  .nav__link,
+  .nav__link:link,
+  .nav__link:visited {
+    font-size: 1rem;
+    padding: 0.8rem 1rem;
+    height: 1rem;
+    margin-top: 1rem;
+  }
+  #logo__text {
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+  }
+  #icon {
+    height: 5rem;
+    width: 5rem;
+  }
+
+}
+
+/* #393E46  #222831 #252B48 #2B2730  #20262e*/

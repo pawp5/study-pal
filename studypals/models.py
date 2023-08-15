@@ -26,30 +26,6 @@ class Course(models.Model):
 
     def __str__(self):
         return self.code
-    
-class CSC(Course):
-    pass
-
-class CVE(Course):
-    pass
-
-class CHE(Course):
-    pass
-
-class AEE(Course):
-    pass
-
-class MEE(Course):
-    pass
-
-class MSC(Course):
-    pass
-
-class EEE(Course):
-    pass
-
-class FST(Course):
-    pass
 
 class TimeTable(models.Model):
     mon = models.TextField()

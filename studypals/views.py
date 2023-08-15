@@ -1,31 +1,36 @@
+import json
+from django.http import JsonResponse
 from django.shortcuts import render
+from django.contrib.auth.decorators import login_required
 
-from .models import Text
-from .forms import TextForm
+from .utils.web_scraper import main
+from .utils.gpt import gpt_response
 
-from .utilities.web_scraper import main
 
-# Create your views here.
+@login_required
 def index(request):
     """The home page for Study Pal."""
     return render(request, 'studypals/index.html')
 
+@login_required
 def dashboard(request):
     """The home page for Study Pal."""
     return render(request, 'studypals/dashboard.html')
 
+@login_required
 def chat(request):
     """Chat page"""
     response = None
     if request.method == 'POST':
-        prompt = request.POST.get('user_input')
-        response = main(prompt)
+        data = json.loads(request.body.decode('utf-8'))
+        query = data.get('message', '')
+        # response = main(query)
+        print(query)
 
-        form = TextForm(request.POST)
-        if form.is_valid():
-            form.save()
-    else:
-        form = TextForm()
+        chat_response = gpt_response(query)
+        print(chat_response)
+        return JsonResponse({'response': chat_response})
+
         
-    context = {'response': response, 'form': form}
+    context = {}
     return render(request, 'studypals/chat.html', context)

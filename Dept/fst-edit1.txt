@@ -1,13 +1,13 @@
-FST 201: INTRODUCTION TO FOOD SCIENCE (2 0 0 = 2 Units) (Harmattan)
+FST 201: INTRODUCTION TO FOOD SCIENCE (2 0 0 = 2 UNITS) 
 Man and his food: past and present.  
 Composition of foods: protein, starch, sugar, fat, vitamins, minerals, and food enzymes.
-Food spoilage. Principles of food preservation – sun-drying, artificial drying, smoking, canning, cold storage, chemical preserves.  
+Food spoilage. Principles of food preservation  sun-drying, artificial drying, smoking, canning, cold storage, chemical preserves.  
 Bread -making and confectionery. 
 Milk and dairy products.  
 Nutritional background to food consumption. 
  
 
-FST 206: INTRODUCTORY FOOD TECHNOLOGY (2 0 0 = 2 Units) (Rain) 
+FST 206: INTRODUCTORY FOOD TECHNOLOGY (2 0 0 = 2 UNITS)  
 Units and Dimensions.  
 Material and Energy Balance.  
 Laws of Conservation of mass, momentum and energy.  
@@ -18,27 +18,27 @@ Dimensional Analysis.
 Similarity Theory.  
 
  
-FST 301: PROCESSING OF FOOD COMMODITIES (1 0 3 = 2 Units) (Harmattan) 
+FST 301: PROCESSING OF FOOD COMMODITIES (1 0 3 = 2 UNITS)  
 Chemical composition and nutritional values, processing, preservation and storage of: fruits and vegetables, cereal, edible oils , meat, egg, fish, milk and milk products.
  
 
-FST 302: POST-HARVEST TECHNOLOGY (2 0 0 = 2 UNITS) (Rain)
+FST 302: POST-HARVEST TECHNOLOGY (2 0 0 = 2 UNITS) 
 Classification of agricultural produce.  
 Raw products maturity evaluation.  
-Harvesting techniques and post -harvest handling practices – washing, sorting, cooling, post -harvest loss prevention method.
+Harvesting techniques and post -harvest handling practices  washing, sorting, cooling, post -harvest loss prevention method.
 Waste disposal and by -product utilization.
 Technical details, economic considerations and maintenance of food stores.  
 Packaging of fresh produce.
 Low temperature systems.  
 
  
-FST 303: INTRODUCTION OF FOOD ENGINEERING (2 0 0 = 2 UNITS) (Harmattan)
+FST 303: INTRODUCTION OF FOOD ENGINEERING (2 0 0 = 2 UNITS) 
 Process Flow Sheet: Examples of Food Production Processes, Logical sequential order of processes, block process representation. 
 Process calculation: Macro Material and Energy balance.
 Theory of Food Plant: Criteria for Food Plant Location, consideration of the structure of selected food plants, distribution of equipment, electrical load distribution, safety precaution in food plant. Examples are Food canneries, bakeries, breweries.
  
 
-FST 304: FOOD CHEMISTRY AND BIOCHEMISTRY (2 1 0 = 3 UNITS) (Rain)
+FST 304: FOOD CHEMISTRY AND BIOCHEMISTRY (2 1 0 = 3 UNITS) 
 Surfactants, pectic substances foams and emulsions.   
 Naturally occurring constituents of foods: Their structure, chemical, physical properties and significance.  
 Food additives.  
@@ -49,7 +49,7 @@ Chemical, physical and biochemical changes that occur in food during handling, p
 Toxicants in foodstuffs and their mode of degradation in the body. 
 
  
-FST 305: INTRODUCTORY FOOD MICROBIOLOGY AND BASIC TECHNIQUES (2 0 0 = 2 UNITS) (Harmattan)
+FST 305: INTRODUCTORY FOOD MICROBIOLOGY AND BASIC TECHNIQUES (2 0 0 = 2 UNITS) 
 Microorganisms and their function in food spoilage, preservation and in food production.
 Classification of bacteria, fungi and yeast important in foods.  
 Relation between structure and function of eukaryotic and prokaryotic protist.  
@@ -58,30 +58,30 @@ Microbial metabolism.
 Mechanism of pathogenecity.
 
   
-FST 306: FOOD MICROBIOLOGY I (2 0 0 = 2 UNITS) (Rain)
+FST 306: FOOD MICROBIOLOGY I (2 0 0 = 2 UNITS) 
 Important microorganisms in food microbiology 
 Role of microorganisms in food industry.
 Production and preservation of foods by 
 microorganisms.  
-Microorganisms’ role in food contamination. 
+Microorganisms role in food contamination. 
 Physiological characteristics of molds, yeast and bacteria. 
 Factors that influence microbial activity (moisture, oxide-reduction potential, temperature). 
 Food Preservation: Principles and methods of food preservation (high temperature, low temperature, drying, preservatives, radiation).  
 
  
-FST 307: FOOD PROCESS TECHNOLOGY I (2 0 0 = 2 UNITS) (Harmattan)
+FST 307: FOOD PROCESS TECHNOLOGY I (2 0 0 = 2 UNITS) 
 Preparatory operations.
 Conversion Operations: Size reduction, Mixing, Emulsification. 
 Water: Process water, Boiler water.
 
  
-FST 308: FOOD ENGINEERING I (3 0 0 = 3 UNITS) (Rain)
+FST 308: FOOD ENGINEERING I (3 0 0 = 3 UNITS) 
 Fundamentals of fluid mechanics including fluid statics and fluid flow.
 Heat transfer processes including conduction, convection and radiation. 
 Head transfer during change of phase.
 
  
-FST 309: PRINCIPLES OF NUTRITION I (2 0 0 = 2 UNITS) (Harmattan)
+FST 309: PRINCIPLES OF NUTRITION I (2 0 0 = 2 UNITS) 
 Calorie and energy requirements.
 Digestion, absorption and metabolic functions of individual nutrients.
 Protein requirements and factors affecting the requirements.  
@@ -92,14 +92,14 @@ Nutrition and Infection.
 Nutrition and mental retardation. 
 
 
-FST 311: INTRODUCTORY FOOD BIOCHEMISTRY (2 0 0= 2 UNITS) (Harmattan)
+FST 311: INTRODUCTORY FOOD BIOCHEMISTRY (2 0 0= 2 UNITS) 
 The reactivity of proteins, carbohydrates and lipids from the standpoint to food science. 
-Enzymes – their role in food deterioration and use in foods.  Biochemistry of food fermentations.
+Enzymes  their role in food deterioration and use in foods.  Biochemistry of food fermentations.
 Post-harvest changes in plant tissues.
 Flavours.  
 
 
-FST 312: PRINCIPLES OF NUTRITION II (2 0 0 = 2 UNITS) (Rain)
+FST 312: PRINCIPLES OF NUTRITION II (2 0 0 = 2 UNITS) 
 Nutritional Status and Assessment.
 Nutrition in times of disaster and emergency feeding.
 Regulation of food intake.
@@ -110,7 +110,7 @@ Bioassay and its significance.
 Experimental nutrition and Animal diets.
 
  
-FST 314: ELEMENTS OF MASS TRANSFER (2 1 0 = 3 UNITS) (Rain)
+FST 314: ELEMENTS OF MASS TRANSFER (2 1 0 = 3 UNITS) 
 Diffusion.  
 Mass transfer coefficients for liquid and vapour phases.
 Analogy between Heat and Mass Transfer.
@@ -123,11 +123,11 @@ Extraction.
 Washing.  
 Mass Transfer equipment. 
  
- 
-FST 316: PRINCIPLES OF FOOD ENGINEERING I (1 0 3 = 2 UNITS) (Rain)
+
+FST 316: PRINCIPLES OF FOOD ENGINEERING I (1 0 3 = 2 UNITS) 
 The strength of food materials: tensile, compressive and shear stress measurements of food sections or tissues.  
-The use of Young’s modulus, the shear modulus, the bulk modulus, and poisson’s ratio in the evaluation of food strength.
-Food Emulsion: Basic emulsion types – oil in water, water in oil; emulsifying agents, hydrophilic – lyophilic balance values. 
+The use of Youngs modulus, the shear modulus, the bulk modulus, and poissons ratio in the evaluation of food strength.
+Food Emulsion: Basic emulsion types  oil in water, water in oil; emulsifying agents, hydrophilic  lyophilic balance values. 
 Methods of preparing food emulsions. 
 Foams: Formation, stability.  
 Food Rheology: Newtonian and Non- Newtonian fluids.  Viscosity. 
@@ -138,22 +138,22 @@ Food Texture: Relationship between sensory perceptibility of textural attributes
 Physico-chemical properties of food materials: Density, specific heat, thermal conductivity, etc.
 
  
-FST 392: PRINCIPLES OF NUTRITION LABORATORY (0 0 3 = 1 UNIT) (Rain)  
+FST 392: PRINCIPLES OF NUTRITION LABORATORY (0 0 3 = 1 UNITS)   
  
 
-FST 396: FOOD MICROBIOLOGY LAB. I (0 0 3 = 1 UNIT) (Rain) 
+FST 396: FOOD MICROBIOLOGY LAB. I (0 0 3 = 1 UNITS)  
  
 
-FST 397: FOOD PROCESS TECHNOLOGY LAB. I (0 0 3 = 1 UNIT) (Harmattan)  
+FST 397: FOOD PROCESS TECHNOLOGY LAB. I (0 0 3 = 1 UNITS)   
  
 
-FST 401: FOOD ANALYSIS (2 0 0 = 2 UNITS) (Harmattan)
+FST 401: FOOD ANALYSIS (2 0 0 = 2 UNITS) 
 Detailed analysis of moisture, carbohydrates, lipids, proteins and amino acids; vitamins; food additives and contaminants.
 Paper chromatography; thin-layer chromatography.
 Elementary ideas of spectrophotometry.
 
 
-FST 403: FOOD MICROBIOLOGY II (2 0 0 = 2 UNITS) (Harmattan)  
+FST 403: FOOD MICROBIOLOGY II (2 0 0 = 2 UNITS)   
 Fermentation of Food Products
 Source of fermentation energy.
 Detailed energy formation. 
@@ -167,7 +167,7 @@ Food Sanitation, Control and Inspection: Sterilization, disinfection methods, Co
 Food Microbiological Standards: Basis of standardization, Application of standards in food industries.
  
 
-FST 405: CEREAL TECHNOLOGY (2 0 0 = 2 UNITS) (Harmattan)
+FST 405: CEREAL TECHNOLOGY (2 0 0 = 2 UNITS) 
 Chemistry of the principal cereals.
 Conventional milling processes. 
 Use of products and by-products.
@@ -178,23 +178,23 @@ Malting and Brewing.
 Nutritional considerations.
 
  
-FST 407: FOOD ENGINEERING II (2 1 0 = 3 UNITS) (Harmattan)
+FST 407: FOOD ENGINEERING II (2 1 0 = 3 UNITS) 
 Psychrometry and the principles of refrigeration.
 Mass transfer including application in contact.
 Equilibrium separation processes: absorption; crystallization; distillation; extraction and washing.
 
  
-FST 409: FOOD PROCESS TECHNOLOGY II (2 0 0 = 2 UNITS) (Harmattan)  
+FST 409: FOOD PROCESS TECHNOLOGY II (2 0 0 = 2 UNITS)   
 Mechanical Separation Processes: Filtration, Sedimentation, Expression, Centrifugation. 
 Food Machinery: Materials of construction of food equipment, Design features and functions of food manufacturing equipment.  
 Fuel Utilisation: Types of fuels, calculation involving fuel combustion; other sources of energy; steam generation and use; instrumentation and control.
 
  
-FST 411: FOOD ENGINEERING LAB (0 0 6 = 2 UNITS) (Harmattan)  
+FST 411: FOOD ENGINEERING LAB (0 0 6 = 2 UNITS)   
 Experiments will cover instrumentation and measurements; fluid flow; heat transfer including heat penetration into containers; mass transfer including contact equilibrium separation processes; measurement of the physico-chemical properties of food materials; measurement of the mechanical properties of food materials; rheology; freezing and canning.  
 
 
-FST 413: THERMAL ENGINEERING (2 0 0 = 2 UNITS) (Harmattan)  
+FST 413: THERMAL ENGINEERING (2 0 0 = 2 UNITS)   
 Heat Transfer: Basic theory of steady state and transient conduction, convection, and radiation.  
 Heat transfer with change of phase.  
 Heat exchanger: parallel, counter current and across flow heat exchange. 
@@ -205,24 +205,23 @@ Climatisation: Psychrometry at low temperatures.  Low temperature applications: 
 Effect of freezer burn.  
 Freeze-drying: calculations and freeze -drying system.  Cold storage and cold room design calculations.
  
- 
-FST 415: FOOD MACHINERY (1 0 3 = 2 UNITS) (Harmattan)  
+
+FST 415: FOOD MACHINERY (1 0 3 = 2 UNITS)   
 Studies on the design of equipment based on models and prototypes from the knowledge of dimensional analysis, similarity theory and inter -relationships between materials of construction and food materials.
 Emphasis will be laid on safety and sanitary designs.  Types and application of electrical motors in food machines.
 
  
-FST 491: FOOD ANALYSIS LABORATORY (0 0 3 = 1 UNIT) (Harmattan)
+FST 491: FOOD ANALYSIS LABORATORY (0 0 3 = 1 UNITS) 
 
  
-FST 493: FOOD MICROBIOLOGY LAB. II (0 0 3 = 1 UNIT) (Harmattan)
+FST 493: FOOD MICROBIOLOGY LAB. II (0 0 3 = 1 UNITS) 
  
- 
-FST 499: FOOD PROCESS TECHNOLOGY LAB II  
-(0 0 3 = 1 UNIT) (Harmattan)
-  
+
+FST 499: FOOD PROCESS TECHNOLOGY LAB II  (0 0 3 = 1 UNITS) 
+
  
 FST 501: UNIT OPERATIONS IN FOOD PRESERVATION  
-(2 0 3 = 3 UNITS) (Harmattan)
+(2 0 3 = 3 UNITS) 
 Thermobacteriology.  
 The thermal resistance of bacteria.  
 Heat penetration in food cans and packages.  
@@ -235,8 +234,8 @@ Food dehydration processes and equipment including the dryer types.
 Food irradiation process and equipment.  
 The applied aspects of contact equilibrium separation processes.
  
- 
-FST 502: FOOD PACKAGING (2 0 3 = 3 UNITS) (Rain)  
+
+FST 502: FOOD PACKAGING (2 0 3 = 3 UNITS)   
 Packaging materials.
 Food / Container interactions.
 Packaging systems.
@@ -244,17 +243,17 @@ Packaging requirements for fresh and processed foods for local and export market
 Packaging and environmental pollution.
 
  
-FST 503: PILOT-SCALE FOOD PROCESSING (2 0 0 = 2 UNITS) (Harmattan)  
+FST 503: PILOT-SCALE FOOD PROCESSING (2 0 0 = 2 UNITS)   
 Pilot-scale manufacture of a selection of the following: Canned foods, Concentrated foods, Dehydrated foods, Frozen foods, Sugar and salt preserves, Soft drinks, Cocoa, Tea, Coffee, Fats and Oils.  
  
- 
-FST 504: FOOD PROCESS PLANT DESIGN (2 1 0 = 3 UNITS) (Rain)  
+
+FST 504: FOOD PROCESS PLANT DESIGN (2 1 0 = 3 UNITS)   
 Plant layout in the food industry.  
 Economics of process design and optimization techniques.
 Optimum design of food processing plants.  Industrial visitation to food industries to help draw attention to certain aspects of food plant location, layout, design and sanitation.
 
   
-FST 505: FOOD STANDARDS AND QUALITY ASSESSMENT (2 0 0 = 2 UNITS) (Harmattan)  
+FST 505: FOOD STANDARDS AND QUALITY ASSESSMENT (2 0 0 = 2 UNITS)   
 Principles and methods of food quality control, sampling, recording and use of quality control charts.
 Quantitative measurements of quality attributes:  colour, gloss, texture and flavour.
 Statistical methods used in evaluating o rganoleptic tests and methods of analysis of taste panel data.  
@@ -264,8 +263,8 @@ Food standards and legislation of Nigeria.
 Toxicology and food additives.  
 Methods of detecting adulteration and misbranding in foods.  
  
- 
-FST 506: FRUITS AND VEGETABLES PROCESSING (2 0 3 = 3 UNITS) (Rain)
+
+FST 506: FRUITS AND VEGETABLES PROCESSING (2 0 3 = 3 UNITS) 
 Harvesting and preprocessing operations. 
 Use of chemicals to control enzymatic and non- enzymatic changes in processed vegetables.
 Processing of fruits into nectars, drinks, concentrates, powder, tablets, preservation of vegetables by dehydration and freezing methods, chemical and sugar preservatives. 
@@ -273,13 +272,13 @@ Roots and tubers storage and processing.
 Production of beverage from cocoa, coffee, etc.
 
  
-FST 507: ASSIGNED PROJECT (0 0 9 = 3 UNITS) (Harmattan) 
+FST 507: ASSIGNED PROJECT (0 0 9 = 3 UNITS)  
  
+
+FST 508: ASSIGNED PROJECT (0 0 9 = 3 UNITS) 
  
-FST 508: ASSIGNED PROJECT (0 0 9 = 3 UNITS) (Rain)
- 
- 
-FST 510: MILK AND DAIRY TECHNOLOGY (2 0 3 = 3 UNITS) (Rain)  
+
+FST 510: MILK AND DAIRY TECHNOLOGY (2 0 3 = 3 UNITS)   
 Composition of cow and goat milks. 
 Milking methods; manually, machine milking. 
 Technology of liquid milk processing.  
@@ -289,7 +288,7 @@ Dairy waste management and processing.
 Dairy plant sanitation.
 
  
-FST 511: PRINCIPLES OF FOOD ENGINEERING II (2 0 3   = 3 UNITS) (Harmattan)  
+FST 511: PRINCIPLES OF FOOD ENGINEERING II (2 0 3   = 3 UNITS)   
 Kinetics: Basic theory of kinetics.  
 Rate of reaction.
 Order of reaction.
@@ -307,12 +306,12 @@ Food irradiation: Sterilization of food materials and equipment through irradiat
 Safety precautions.
 
  
-FST 512: PROCESSING OF MISCELLANEOUS PRODUCTS (2 0 3 = 2 UNITS) (Rain)
+FST 512: PROCESSING OF MISCELLANEOUS PRODUCTS (2 0 3 = 2 UNITS) 
 Processing of cocoa seeds into cocoa butter, cake and other applications in confectioneries.  
 Extraction and crystallization of sugar beets or roots; processing of tea and coffee and production of soft drinks.
 
  
-FST 513: PROCESS CONTROL (2 0 0 = 2 UNITS) (Harmattan)  
+FST 513: PROCESS CONTROL (2 0 0 = 2 UNITS)   
 Process dynamics.
 Transfer functions.
 Frequency response analysis.
@@ -321,13 +320,13 @@ Feed forward and feedback control.
 The control valve.
 
  
-FST 514: BIOTECHNOLOGY (2 0 3 = 3 UNITS) (Rain) 
+FST 514: BIOTECHNOLOGY (2 0 3 = 3 UNITS)  
 The emergence of biotechnology and its application in basic and applied science disciplines.  
 Genetical modification of microorganisms, plant and animal cells: gene mapping, gene transfer, recombinant DNA techniques, protoplasm fusion, etc.  
 Biotechnology as applied to food related problems, e.g. fermentation, post-harvest technology, unit operations and food processing, food product development.
  
- 
-FST 515: FOOD CHEMISTRY AND ANALYSIS (2 0 3 = 3 UNITS) (Harmattan)  
+
+FST 515: FOOD CHEMISTRY AND ANALYSIS (2 0 3 = 3 UNITS)   
 Advanced aspect s of the analysis of lipids, proteins, polysaccharides and toxicants.
 Consideration of special techniques in food analysis with specific examples from the 
 literature.
@@ -335,32 +334,29 @@ Gas liquid chromatography, column chromatography, including gel permeation and i
 spectrophotometry (visible, ultraviolet, infrared), fluorimetry, radioisotope tracer techniques.
 
  
-FST 516: FOOD ENGINEERING LABORATORY II (0 0 3 = 1 UNIT) (Rain)  
+FST 516: FOOD ENGINEERING LABORATORY II (0 0 3 = 1 UNITS)   
 Pilot scale experiments on: Dehydration, Concentrating, Canning, Food irradiation, Separation processes, Extrusion, Food packaging. A variety of food commodities will be processed.
 
  
-FST 517: SIMULATION AND MODELLING IN FOOD PROCESSING (2 1 0 = 3 UNITS) (Harmattan)  
+FST 517: SIMULATION AND MODELLING IN FOOD PROCESSING (2 1 0 = 3 UNITS)   
 Review of simulation and modeling theories; use of computers packages in, simulation and modeling of food processing operations. 
  
- 
-FST 518: SEPARATION PROCESSES (2 0 3 = 3 UNITS) (Rain)  
+
+FST 518: SEPARATION PROCESSES (2 0 3 = 3 UNITS)   
 Mechanical separations including centrifugation, filtration, and floatation.  
 Contact equilibrium separation processes involving liquid-liquid, liquid-solid extractions, and multi-component distillation.
 Membrane separation processes such as ultra-filtration, reverse osmosis and electro-dialysis.
  
- 
-FST 519: STUDIES IN NUTRITION (2 0 3 = 3 UNITS) (Harmattan)
+
+FST 519: STUDIES IN NUTRITION (2 0 3 = 3 UNITS) 
 Two out of these FOUR (4) topics in each year:  
-VITAMINS: Metabolic and cellular roles of vitamins; Existing and potential courses of vitamins; Vitamins in fortification programmes.  
- 
-MINERALS: Role of minerals in intermediary metabolism; Minerals include – iron, phosphorus, calcium, sodium, chloride, fluorine, zinc, copper, molybdenum, magnesium, arsenic; Industrial application of these minerals.  
- 
+VITAMINS: Metabolic and cellular roles of vitamins; Existing and potential courses of vitamins; Vitamins in fortification programmes.
+MINERALS: Role of minerals in intermediary metabolism; Minerals include  iron, phosphorus, calcium, sodium, chloride, fluorine, zinc, copper, molybdenum, magnesium, arsenic; Industrial application of these minerals.  
 PROTEIN-CALORIE: Causes of malnutrition; Role of amino acids in protein synthesis degradation; Inborn errors of metabolism; Gluconeogenesis; Protein deficiency and infection; Protein deficiency and mental retardation; Disposal of body energy; Calorie under and over nutrition; Work efficiency and energy requirements.  
- 
 FATS AND LIPIDS: Hormonal influences of lipid mobilization, lipid transport and depot; Fat in mitochondrial and non- mitochondrial systems; Lipogenesis and Fatty acid oxidative systems; Hepatic role in cholesterol and other lipo- proteins metabolism; Atherosclerosis and obesity.
 
  
-FST 520: FERMENTATION TECHNOLOGY (2 0 3 = 3 UNITS) (Rain)
+FST 520: FERMENTATION TECHNOLOGY (2 0 3 = 3 UNITS) 
 The range and types of fermentation processes.  
 Microorganisms involved in fermentation.  
 Biochemical basis of fermentation nature and types of fermentation substrates.
@@ -372,7 +368,7 @@ Product recovery and purification.
 Fermentation economics, selected examples of industrial fermentations.  
 
 
-FST 521: FISH AND MEAT PROCESS TECHNOLOGY (2 0 3 = 3 UNITS) (Harmattan)  
+FST 521: FISH AND MEAT PROCESS TECHNOLOGY (2 0 3 = 3 UNITS)   
 Biology of sea and fresh water fish production; handling methods and assessment of quality, fish microbiology; preservation techniques; freezing, smoking and salting, canning, irradiation.  Fish-protein concentrates and other fish products.  
 Abattoir practice including pre-slaughter examination of animals, inspection of carcases.  
 Distribution of frozen carcasses.
@@ -381,7 +377,7 @@ Hygiene practices in sale of fresh meat.
 Manufacture of meat products.
 
   
-FST 526: ANALYTICAL FOOD MICROBIOLOGY (2 0 3 = 3 UNITS) (Rain)  
+FST 526: ANALYTICAL FOOD MICROBIOLOGY (2 0 3 = 3 UNITS)   
 Aims and problem of Microbiology food analysis.  
 Conventional and new instruments of analysis.  
 Automation.  
@@ -392,36 +388,34 @@ Sampling and sample handling.
 Record keeping, microbiological assay of preservatives, antibiotics and toxins.  Immunological methods.  
 DNA composition in the identification of microorganisms.  
 RCR.  
-Rapid method of identification – microbiological kits for laboratory and field use.  
+Rapid method of identification  microbiological kits for laboratory and field use.  
 Standard and specific techniques for the enumeration and identification of pathogenic and non- pathogenic organisms in foods. 
  
 
-FST 593: PILOT SCALE LAB. (0 0 3 = 1 UNIT) (Harmattan)
+FST 593: PILOT SCALE LAB. (0 0 3 = 1 UNITS) 
 
 
-FST 594: PLANT DESIGN PROJECT (0 0 3 = 1 UNIT) (Rain) 
+FST 594: PLANT DESIGN PROJECT (0 0 3 = 1 UNITS)  
 
  
-FST 595: FOOD STANDARDS LABORATORY (0 0 4 = 1 UNIT) (Harmattan)  
+FST 595: FOOD STANDARDS LABORATORY (0 0 4 = 1 UNITS)   
  
+
 
  
  
-FOOD ENGINEERING COURSE DESCRIPTIONS  
- 
- 
-FDE 206: INTRODUCTION TO FOOD SCIENCE AND ENGINEERING (2 0 0 = 2 UNITS) (Rain)
+FDE 206: INTRODUCTION TO FOOD SCIENCE AND ENGINEERING (2 0 0 = 2 UNITS) 
 Philosophy, definition and inter relationship of Food Science, Technology and Engineering. 
 Interphases of agriculture, food and nutrition. 
 Review of global food situation with emphasis on Nigeria and Africa. 
-The role of agriculture in the nation’s economic growth and development. 
+The role of agriculture in the nations economic growth and development. 
 National Food security issues. 
 The Nigerian food industries and national development. 
 Poverty, employment and income generation in Food science and engineering. 
 Process calculation: material and energy balance.
 
  
-FDE 301: HUMAN NUTRITION (2 0 0 = 2 UNITS) (Harmattan)
+FDE 301: HUMAN NUTRITION (2 0 0 = 2 UNITS) 
 Calorie and energy requirement. 
 Digestion, absorption and metabolic function of individual nutrients.
 Protein requirements and factors affecting protein requirement. 
@@ -432,17 +426,17 @@ Food intake and nutritional disorders (atheroscelerosis, anaemia, ketosis, avita
 Effect of processing on nutritional requirements.
 
  
-FDE 302: POST-HARVEST TECHNOLOGY (2 0 0 = 2 UNITS) (Rain)
+FDE 302: POST-HARVEST TECHNOLOGY (2 0 0 = 2 UNITS) 
 Classification of agricultural produce.
 Raw products maturity evaluation. 
-Harvesting techniques and post harvest handling practices – washing, sorting, cooling, post harvest loss prevention method. 
+Harvesting techniques and post harvest handling practices  washing, sorting, cooling, post harvest loss prevention method. 
 Waste disposal and by product utilization.
 Technical details, economic considerations and maintenance of food stores. 
 Packaging of fresh produce.
 Low temperature systems.  
  
 
-FST 305: INTRODUCTORY FOOD MICROBIOLOGY AND BASIC TECHNIQUES (2 0 0 = 2 UNITS) (Harmattan)
+FST 305: INTRODUCTORY FOOD MICROBIOLOGY AND BASIC TECHNIQUES (2 0 0 = 2 UNITS) 
 Microorganisms and their function in food spoilage, preserva tion and in food production. 
 Classification of bacteria, fungi and yeast important in foods. 
 Relation between structure and function of eukaryotic and prokaryotic protist. 
@@ -455,24 +449,24 @@ Enumeration of microorganisms from foods.
 Examination and principles of identification of microorganisms.  
  
 
-FST 306: FOOD MICROBIOLOGY I ( 2 0 0 = 2 UNITS) (Rain)
+FST 306: FOOD MICROBIOLOGY I ( 2 0 0 = 2 UNITS) 
 Important microorganisms in food microbiology. 
 Role of microorganisms in food industry. 
 Production and preservation of foods by microorganisms. 
-Microorganism’s role in food contamination.
+Microorganisms role in food contamination.
 Physiological characteristics of molds, yeast and bacteria. 
 Factors that influence microbial activity (moisture, oxide reduction potential, temperature).  
 Food preservation: Principles and methods of food preservation (high temperature, low temperature, drying, preservatives, radiation). 
  
 
-FST 311: INTRODUCTORY FOOD BIOCHEMISTRY ( 2 0 0 = 2 UNITS) (Harmattan)
-The reactivity of proteins, carbohydrates and lipids from the standpoint to food science. Enzymes – their role in food deterioration and use in foods. 
+FST 311: INTRODUCTORY FOOD BIOCHEMISTRY ( 2 0 0 = 2 UNITS) 
+The reactivity of proteins, carbohydrates and lipids from the standpoint to food science. Enzymes  their role in food deterioration and use in foods. 
 Biochemistry of food fermentations. 
 Post harvest changes in plant tissues. 
 Flavours.
 
 
-FDE 314: ELEMENTS OF MASS TRANSFER (2 0 0 = 2 UNITS) (Rain)
+FDE 314: ELEMENTS OF MASS TRANSFER (2 0 0 = 2 UNITS) 
 Diffusion.
 Mass transfer coefficients for liquid and vapour phases.
 Analog between heat and mass transfer.
@@ -486,10 +480,10 @@ Washing.
 Mass transfer equipment.
 
 
-FDE 316: FOOD ENGINEERING I (2 0 0 = 2 UNITS) (Rain)
+FDE 316: FOOD ENGINEERING I (2 0 0 = 2 UNITS) 
 The strength of food materials: tensile, compressive and shear stress measurements of food sections or tissues.  
-The use of Young’s modulus, the shear modulus, the bulk modulus, and poisson’s ratio in the evaluation of food strength.
-Food Emulsion: Basic emulsion types – oil in water, water in oil; emulsifying agents, hydrophilic – lyophilic balance values. 
+The use of Youngs modulus, the shear modulus, the bulk modulus, and poissons ratio in the evaluation of food strength.
+Food Emulsion: Basic emulsion types  oil in water, water in oil; emulsifying agents, hydrophilic  lyophilic balance values. 
 Methods of preparing food emulsions. 
 Foams: Formation, stability.  
 Food Rheology: Newtonian and Non- Newtonian fluids.
@@ -501,16 +495,16 @@ Food Texture: Relationship between sensory perceptibility of textural attributes
 Physico-chemical properties of food materials: Density, specific heat, thermal conductivity, etc.
 
 
-FST 396: FOOD MICROBIOLOGY LAB I (0 0 3 = 1 UNIT) (Rain)
+FST 396: FOOD MICROBIOLOGY LAB I (0 0 3 = 1 UNITS) 
 
 
-FST 401: FOOD ANALYSIS  (2 0 0 = 2 UNITS) (Harmattan)
+FST 401: FOOD ANALYSIS  (2 0 0 = 2 UNITS) 
 Detailed  analysis of moisture, carbohydrates, lipids, proteins and amino acids, vitamins, food additives and contaminants.
 Paper chromatography, thin- layer chromatography. 
 Elementary ideas of spectrophotometry.
 
  
-FDE 405:TECHNOLOGY OF PLANT FOOD PRODUCTS I (3 0 0 = 3 UNITS) (Harmattan)
+FDE 405:TECHNOLOGY OF PLANT FOOD PRODUCTS I (3 0 0 = 3 UNITS) 
 Cereal Technology: chemistry and technology of the primary cereal (maize, rice, sorghum, millet). 
 Milling and conversion of cereals to various products. 
 Extruded product from cereals. 
@@ -525,7 +519,7 @@ Waste byproduct recovery and management
 Starch: starch extraction, starches as ingredient in food systems, enzyme and acid hydrolysis of starches.
 
  
-FDE 409: FOOD PROCESS TECHNOLOGY (3 0 0 = 3 UNITS) (Harmattan)
+FDE 409: FOOD PROCESS TECHNOLOGY (3 0 0 = 3 UNITS) 
 Preliminary operations e.g. cleaning, sorting, washing, peeling, deskinning, cutting, blanching, etc.  
 Mechanical conversion (ancillary) operations e.g. size reduction. Disintegration operation: dry and wet milling, pressure homogenization. 
 Integration processes: mixing, agglomeration.
@@ -534,54 +528,54 @@ Materials handling systems in food processing.
 Water and waste water. 
 Fuel utilization. 
 Steam generation.
+
  
- 
-FDE 411: FOOD ENGINEERING LAB I (0 0 6 = 2 UNITS) (Harmattan)
+FDE 411: FOOD ENGINEERING LAB I (0 0 6 = 2 UNITS) 
 Experiments will cover instrumentation and measurements; fluid flow; heat transfer including heat penetration into containers; mass transfer including contact equilibrium separation processes; measurement of the physico-chemical properties of food materials; measurement of the mechanical properties of food materials; rheology; freezing and canning.
 
  
-FDE 413:THERMAL ENGINEERING (2 0 0 = 2 UNITS) (Harmattan)
+FDE 413:THERMAL ENGINEERING (2 0 0 = 2 UNITS) 
 Heat transfer - basic theory of steady state and transient conduction, convection, and radiation. 
 Heat transfer with change of phase. 
-Heat exchanger – parallel, counter current and cross flow heat exchange. 
+Heat exchanger  parallel, counter current and cross flow heat exchange. 
 Heat exchanger effectiveness.
 Food fouling.
 Steam generation.
-Climatization – psychrometry at low temperatures.
+Climatization  psychrometry at low temperatures.
 Low temp erature applications: freezing by contact, cold air gas blast, liquid immersion, solid carbon dioxide. 
 Effect of freezer burn. 
 Freeze drying: calculations and freeze drying system. 
 Cold storage and cold room design calculations. 
 
 
-FDE 415: FOOD MACHINERY (1 0 3 = 2 UNITS) (Harmattan)
+FDE 415: FOOD MACHINERY (1 0 3 = 2 UNITS) 
 Studies on the design of equipment based on models and prototypes from the knowledge of 
 dimensional analysis, similarity theory and inter-relationships between materials of construction and food materials. 
 Emphasis will be laid on safety and sanitary designs.
 Types and application of electrical motors in food machines.  
  
 
-FST 491: FOOD ANALYSIS LAB (0 0 3 =1 UNIT) (Harmattan) 
+FST 491: FOOD ANALYSIS LAB (0 0 3 =1 UNITS)  
 
 
-FDE 499: FOOD PROCESS TECHNOLOGY LAB II (0 0 3 = 1 UNIT) (Harmattan) 
+FDE 499: FOOD PROCESS TECHNOLOGY LAB II (0 0 3 = 1 UNITS)  
 
 
-FDE 502: FOOD PACKAGING (2 0 3 = 3 UNITS) (Rain)
+FDE 502: FOOD PACKAGING (2 0 3 = 3 UNITS) 
 Packaging materials. 
 Food / Container interactions. 
 Packaging systems. 
 Packaging requirements for fresh and processed foods for local and export markets. Packaging and environmental pollution.
 
 
-FDE 504: FOOD PROCESS PLANT DESIGN (2 1 0 = 3 UNITS) (Rain)
+FDE 504: FOOD PROCESS PLANT DESIGN (2 1 0 = 3 UNITS) 
 Plant layout in the food industry. 
 Economics of process design and optimization techniques. 
 Optimum design of food processing plants. 
 Industrial visitation to food industries to help draw attention to certain aspects of food plant location, layout, design and sanitation. 
 
 
-FST 505: FOOD STANDARDS AND QUALITY ASSESSMENT (2 0 0 = 2 UNITS) (Harmattan)
+FST 505: FOOD STANDARDS AND QUALITY ASSESSMENT (2 0 0 = 2 UNITS) 
 Quantitative measurements of quality attributes: colour, gloss, texture and flavour. 
 Principles and methods of food quality control, sampling recording and use of quality control charts. 
 Statistical methods used in evaluating organoleptic tests and methods of analysis of taste panel data.
@@ -592,7 +586,7 @@ Toxicology and food additives.
 Methods of detecting adulteration and misbranding in foods. 
 
 
-FDE 506: TECHNOLOGY OF PLANT FOOD PRODUCTS II (2 0 3 = 3 UNITS) (Rain)
+FDE 506: TECHNOLOGY OF PLANT FOOD PRODUCTS II (2 0 3 = 3 UNITS) 
 Harvesting and preprocessing operations. 
 Use of chemicals to control enzymatic and non- enzymatic changes in processed vegetables.
 Processing of fruits into nectars, drinks, concentrates, powder, tablets, preservation of vegetables by dehydration and freezing methods, chemical and sugar preservatives. 
@@ -600,22 +594,22 @@ Roots and tubers storage and processing.
 Production of beverage from cocoa, coffee, etc.
 
 
-FDE 507: ASSIGNED PROJECT (0 0 9 = 3 UN ITS) (Harmattan)
+FDE 507: ASSIGNED PROJECT (0 0 9 = 3 UNITS) 
 
   
-FDE 508: ASSIGNED PROJECT (0 0 9 = 3 UNITS) (Rain)
+FDE 508: ASSIGNED PROJECT (0 0 9 = 3 UNITS) 
 
 
-FDE 510: MILK AND DAIRY TECHNOLOGY (2 0 3 = 3 UNITS) (Rain) 
+FDE 510: MILK AND DAIRY TECHNOLOGY (2 0 3 = 3 UNITS)  
 Composition of cow and goat milks. 
 Milking methods; manually, machine milking. 
 Technology of liquid milk processing, milk products e.g. evaporated milk, milk powder, filled milk, ice cream, cheese, cultured milk, butter. 
 Vegetable milk, e.g., soy milk, melon milk. 
 Dairy waste management and processing.
 Dairy plant sanitation.    
+
  
- 
-FDE 511: FOOD ENGINEERING II (2 0 3 = 3 UNITS) (Harmattan) 
+FDE 511: FOOD ENGINEERING II (2 0 3 = 3 UNITS)  
 Kinetics: basic theory of kinetics. 
 Rate of reaction. 
 Order of reaction. 
@@ -634,7 +628,7 @@ Safety precautions.
 Application of enzyme systems to food processing.
  
 
-FDE 513: INSTRUMENTATION AND PROCESS CONTROL (2 1 0 = 3 UNITS) (Harmattan)
+FDE 513: INSTRUMENTATION AND PROCESS CONTROL (2 1 0 = 3 UNITS) 
 Elements of an instrument. 
 Error measurement. 
 Calibration. 
@@ -647,23 +641,23 @@ Feed forward and feedback control.
 The control valve.  
 
  
-FST 514: BIOTECHNOLOGY (2 0 3 = 3 UNITS) (Rain)
+FST 514: BIOTECHNOLOGY (2 0 3 = 3 UNITS) 
 The emergence of biotechnology and its application in basic and applied science disciplines. 
 Genetic modification of microorganisms, plant and animal cells, gene mapping, gene transfer, recombinant DNA techniques, protoplasm fusion, etc.  
 Biotechnology as applied to food related problems, e.g. fermentation, post-harvest technology, unit operations and food processing, food product development.
+
  
- 
-FDE 516: FOOD ENGINEERING LAB II (0 0 3 = 1 UNIT) (Rain)
+FDE 516: FOOD ENGINEERING LAB II (0 0 3 = 1 UNITS) 
 Pilot scale experiments on: dehydration, concentrating, canning, food irradiation, separation 
 processes, extrusion, food packaging. A variety of food commodities will be processed.  
 
 
-FDE 517: SIMULATION AND MODELING IN FOOD PROCESSING (2 1 0 = 3 UNITS) (Harmattan)
+FDE 517: SIMULATION AND MODELING IN FOOD PROCESSING (2 1 0 = 3 UNITS) 
 Review of simulation and modeling theories; use of computer packages in simulation and 
 modeling of food processing operations. 
 
 
-FDE 518: FOOD ENGINEERING III (2 0 3 = 3 UNITS) (Rain)
+FDE 518: FOOD ENGINEERING III (2 0 3 = 3 UNITS) 
 Novel technologies involving advances in food processing. 
 Use of cryogenic freezing systems. 
 Use of on- line moisture meter. 
@@ -674,7 +668,7 @@ Contact equilibrium separation processes involving liquid-liquid, liquid-solid e
 Systems analysis.  
 
  
-FST 520: FERMENTATION TECHNOLOGY (2 0 3 = 3 UNITS) (Rain)
+FST 520: FERMENTATION TECHNOLOGY (2 0 3 = 3 UNITS) 
 The range and types of fermentation processes. 
 Microorganisms involved in fermentation. 
 Biochemical basis of fermentation nature and types of fermentation substrates. 
@@ -687,30 +681,24 @@ Fermentation economics.
 Selected examples of industrial fermentation.   
 
 
-FDE 521: FISH AND MEAT PROCESS TECHNOLOGY (2 0 3 = 3 UNITS) (Harmattan)
+FDE 521: FISH AND MEAT PROCESS TECHNOLOGY (2 0 3 = 3 UNITS) 
 Biology of sea and fresh water fish production; handling methods and assessment of quality; fish microbiology; preservation techniques; freezing, smoking and salting, canning, irradiation. Abattoir practice including pre-slaughter examination of animals, inspection of carcasses. Distribution of frozen carcasses. 
 Meat quality assessment. 
 Hygiene practices in sale of fresh meat. 
 Manufacture of meat products. 
 
 
-FDE 594: PLANT DESIGN PROJECT (0 0 3 = 1 UNIT) (Rain)
+FDE 594: PLANT DESIGN PROJECT (0 0 3 = 1 UNITS) 
 
 
-FST 595: FOOD STANDARDS LABORATORY (0 0 3 = 1 UNIT) (Harmattan)  
+FST 595: FOOD STANDARDS LABORATORY (0 0 3 = 1 UNITS)   
 
  
-FDE 530 : SEMINAR ON RECENT DEVELOPMENTS IN FOOD ENGINEERING (1 0 0 = 1 UNIT) (Rain)
+FDE 530 : SEMINAR ON RECENT DEVELOPMENTS IN FOOD ENGINEERING (1 0 0 = 1 UNITS) 
 
 
 
-
-COURSE OUTLINES OF COURSES TAUGHT IN OTHER DEPARTMENTS OF THE FACULTY
-
-
-Department of Agricultural Engineering
-
-AGE 202: WORKSHOP PRACTICE (1 0 3 = 2 units) (Rain) 
+AGE 202: WORKSHOP PRACTICE (1 0 3 = 2 UNITS)  
 Workshop safety measures: Introduction to workshop hand and powered tools emphasizing safety measures to be taken during operation.
 Workshop materials, various gauges and measuring devices.  
 Tolerance of products.
@@ -720,18 +708,18 @@ Function and capabilities of drilling machines, lathe machines, milling machines
 Jigs, fixtures, practice in the use of the machine.  
  
 
-AGE 302: STATISTICS FOR ENGINEERS (2 0 0 = 2 units) (Rain) 
+AGE 302: STATISTICS FOR ENGINEERS (2 0 0 = 2 UNITS)  
 Statistical concepts: Normal distribution, Student distribution, Hypothesis testing, Confidence interval, Pair wise comparison, Analysis of variance, Completely randomised design, Completely randomised blockdesign, Factorial experiments, Regression analysis.  
  
 
-AGE 307: FARM ELECTRIFICATION (2 0 3 = 3 units) (Harmattan)
+AGE 307: FARM ELECTRIFICATION (2 0 3 = 3 UNITS) 
 The use of electricity as a power source for lighting, comfort in living, farm production and processing.  
 Planning the Farmstead Distribution system: Demand load for Farm Building, Central Metering and distribution, Capacity of main service selecting feeder conductors.  
 Electric central and circuit protection.
 Electric motors: Motor rating and importance, stand-by generator type selection, maintenance and operation. 
  
 
-AGE 407: DESIGN OF AGRICULTURAL AND FOOD PROCESSING MACHINES I (2 0 3 = 3 units) (Harmattan)
+AGE 407: DESIGN OF AGRICULTURAL AND FOOD PROCESSING MACHINES I (2 0 3 = 3 UNITS) 
 Philosophy of design.
 Components of design.
 Agricultural Machines: Types and functional requirements.
@@ -745,22 +733,20 @@ Shafting design.
 Design project. 
 
  
-AGE 503: DESIGN OF AGRICULTURAL AND FOOD PROCESSING MACHINE II (2 0 3 = 3 units) (Harmattan) 
+AGE 503: DESIGN OF AGRICULTURAL AND FOOD PROCESSING MACHINE II (2 0 3 = 3 UNITS)  
 Mechanical power transmission: gear drives, belt drives, chain drives, ropes and hoists, springs.  
 Bearings, Welding, Brakes, Clutches and Couplings: Vibrations.
 Design Project.  
  
 
-AGE530: ENERGY IN AGRICULTURE (2 1 0 = 3 units) (Rain) 
+AGE530: ENERGY IN AGRICULTURE (2 1 0 = 3 UNITS)  
 Energy: Basic Definitions and Classification. 
 Energy balance, management and evaluation of alternatives.
 Energy from solar, biomass, wind, thermal and hydraulics and their applications in agriculture.  
   
 
 
-Department of Chemical Engineering
-
-CHE 201: Engineering Thermodynamics (2 1 0 = 3 units) (Harmattan)
+CHE 201: Engineering Thermodynamics (2 1 0 = 3 UNITS) 
 Definition of terms and general concepts of system, surrounding, process, temperature heat, work and energy.
 First Law of Thermodynamics application to open systems.
 Second Law of Thermodynamics: Application to heat engines.  
@@ -769,46 +755,41 @@ First and second Law combined.
 Perfect Gases.
 Joule Thompson coefficient.
 Equilibrium processes.
-Maxwell’s relations. 
+Maxwells relations. 
 Two- phase systems thermodynamic functions of solution.
 P-V-T relationship. 
 Work from heat energy: Refrigeration.  
  
 
-CHE 301: Chemical Engineering Thermodynamics (2 1 0 = 3 units) (Harmattan)
-1. Generalized P-V-T Relations: The P-V-T behaviours of pure substance. Equation of state for gases. The principle of corresponding state. Compressibility relations, reduced pressure, reduce volume, temperature, pseudocritical constants. P-V-T approximations for gaseous mixture-idea gas mixture. Dalton’s law of additive pressure, Amagar law of additive volume.  Pseudocritical point method, Kay’s rule, Gililland’s method. 
- 
-2. Heat Effects: Heat capacities as a function of temperature. Heat capacities of liquids and solids. Clapeyron equation. Standard heats of temperature on heat of concentration diagrams for H(2)SO(4) – H(2)O etc. Partial enthalpies; single and multiple effects evaporators with regards to heat effects.  
- 
-3. Industrial Stoichiometry: Gas analysis – Orsat method, determination of components in fuels. Calculations based on fuel analysis. Combustion of carbon, hydrogen and hydrocarbons. Correction for nitrogen and oxygen in the fuel; correction for sulphur. Net hydrocarbon ratio in the fuel and percent excess air. Air / fuel and ratios. Interrelations of fuel and fuel -gas analysis. High nitrogen mixed fuels. 
- 
-4. Thermodynamics of Flow Processes: Fundamental equations:continuity equation, equation of motion, energy equation, Bernoulli’s equation. Flow in pipes, laminar and turbulent flows. Reynolds’ number friction factor – Fanning equation. Flowmeters, Nozzles, Compression single stage and multistage, effects of clearance.  
- 
-5. Phase Equilibria: Criteria of equilibrium. Fugacity of gas mixture. Effects of temperature and pressure on fugacity. Pressure-temperature-composition relationship. Phase behavior at low and elevated pressure. Raoult’s law, Equilibrium constant: Activity coefficient. Gibbs-Duhem equation. Margules’ and Van Leer equations. 
- 
-6. Chemical Reaction Equilibria: Standard free energy change and equilibrium constant. Evaluation of equilibrium constants. Effects of temperature and pressure on equilibrium constants. Calculation of conversion. Gas–phase reactions, Percent conversion. Liquid-phase reactions. Heterogeneous reactions.  
+CHE 301: Chemical Engineering Thermodynamics (2 1 0 = 3 UNITS) 
+Generalized P-V-T Relations: The P-V-T behaviours of pure substance. Equation of state for gases. The principle of corresponding state. Compressibility relations, reduced pressure, reduce volume, temperature, pseudocritical constants. P-V-T approximations for gaseous mixture-idea gas mixture. Daltons law of additive pressure, Amagar law of additive volume.  Pseudocritical point method, Kays rule, Gilillands method. 
+Heat Effects: Heat capacities as a function of temperature. Heat capacities of liquids and solids. Clapeyron equation. Standard heats of temperature on heat of concentration diagrams for H(2)SO(4)  H(2)O etc. Partial enthalpies; single and multiple effects evaporators with regards to heat effects.  
+Industrial Stoichiometry: Gas analysis  Orsat method, determination of components in fuels. Calculations based on fuel analysis. Combustion of carbon, hydrogen and hydrocarbons. Correction for nitrogen and oxygen in the fuel; correction for sulphur. Net hydrocarbon ratio in the fuel and percent excess air. Air / fuel and ratios. Interrelations of fuel and fuel -gas analysis. High nitrogen mixed fuels. 
+Thermodynamics of Flow Processes: Fundamental equations:continuity equation, equation of motion, energy equation, Bernoullis equation. Flow in pipes, laminar and turbulent flows. Reynolds number friction factor  Fanning equation. Flowmeters, Nozzles, Compression single stage and multistage, effects of clearance.  
+Phase Equilibria: Criteria of equilibrium. Fugacity of gas mixture. Effects of temperature and pressure on fugacity. Pressure-temperature-composition relationship. Phase behavior at low and elevated pressure. Raoults law, Equilibrium constant: Activity coefficient. Gibbs-Duhem equation. Margules and Van Leer equations. 
+Chemical Reaction Equilibria: Standard free energy change and equilibrium constant. Evaluation of equilibrium constants. Effects of temperature and pressure on equilibrium constants. Calculation of conversion. Gasphase reactions, Percent conversion. Liquid-phase reactions. Heterogeneous reactions.  
  
 
-CHE 305: Engineering Analysis I (2 1 0 = 3 units) (Harmattan)
+CHE 305: Engineering Analysis I (2 1 0 = 3 UNITS) 
 Linear algebra elements of matrices: determinants, inverse of matrix, theory of linear equations, eigenvalues and eigenvectors.  
-Analytical geometry coordinates transformation – solid geometry, polar, cylindrical and spherical coordinates. 
+Analytical geometry coordinates transformation  solid geometry, polar, cylindrical and spherical coordinates. 
 Elements of functions of several variables.  
 Ordinary intergrals, triple integrals, line integrals, surface integrals.
 Derivation and integrals of vectors. 
 The gradient of scalar quantities.
-Flux, divergence and curl of a vector field, Gauss, Green’s and stokes’ theorems and applications.
+Flux, divergence and curl of a vector field, Gauss, Greens and stokes theorems and applications.
 Single -valued functions. 
 Multi -valued functions.
 Analytical functions.
 Cauchy -Riemann equations.
 Singularities and zeros.
-Contour integration including the use of Cauchy’s integral theorem.
-Taylor and Laurent’s series.  
+Contour integration including the use of Cauchys integral theorem.
+Taylor and Laurents series.  
 The residua theorem.
 Bilinear transformation.
 
 
-CHE 306: Engineering Analysis II (2 1 0 = 3 units) (Rain)
+CHE 306: Engineering Analysis II (2 1 0 = 3 UNITS) 
 Series solution of second order linear differential equations with variable coefficients.  Bessel and Legendre equations.
 Equations with variable coefficients.
 Sturm-Louivile boundary value problems.
@@ -824,12 +805,12 @@ Finite difference equations.
 Runge-Kutta and other methods in the solution of ordinary and partial differential equations.  Numerical methods for the solution of nonlinear equations.
 Numerical integration and differentiation. 
  
- 
-CHE 411: Chemical Engineering Analysis (2 1 0 = 3 units) (Harmattan) 
+
+CHE 411: Chemical Engineering Analysis (2 1 0 = 3 UNITS)  
 Review of elementary theorems and operations on vectors and matrices.
 Theory of linear systems including rank, degeneracy, dimensions, bases and span.
 Properties of eigenvalues and eigenvectors. 
-Cayley–Hamilton and Sylveseis theorems.
+CayleyHamilton and Sylveseis theorems.
 Reductions to diagonal and Jordan forms.
 The state transition matrix and solution of linear ordinary differential equations.
 Numerical methods for solving linear and nonlinear algebraic equations.
@@ -839,16 +820,14 @@ Formulation of simple and complex chemical engineering problems and their soluti
 Application to chemical engineering stage processes including rectification, multicomponent distillation, staged absorbers, all types of reactors and heat exchangers. 
 
  
-CHE 502: Process Optimisation (2 1 0 = 3 units) (Rain)
+CHE 502: Process Optimisation (2 1 0 = 3 UNITS) 
 Stationary Optimisation: Differential approach, numerical approach, linear and non-linear programming.
 Trajectory optimisation including dynamic programming, calculus of variation and Pontryagin Optimum Principle.
 Numerical computational techniques including first and second order methods. 
 
 
  
-Department of Computer Science and Engineering  
- 
-CSC 201: Computer Programming I (2 0 3 = 3 Units) (Harmattan)
+CSC 201: Computer Programming I (2 0 3 = 3 UNITS) 
 An introduction to digital computer; Historical perspective, up- to-date description; A simple 
 typical computer structure applications of digital computers.
 Programming the computer in a selected language: Declarative statements; Input and output statements; Program compilation and execution; Control and conditional statements; Flow 
@@ -857,34 +836,30 @@ Program testing and debugging techniques.
 Introduction to structured programming.
 
 
-CSC 202: Computer Programming II (0 0 6 = 2 Units) (Rain)
-This is a programming laboratory course consisting of applications of programming, through case study problems, to the students’ major subject areas. The emphasis in this course is not of derivation of theory but on applying programming to problems and thus acquiring practical experience with numeric and non- numeric techniques relevant to the student’s study area. Problems are so defined that various selected groupings are emphasizing various application areas  
+CSC 202: Computer Programming II (0 0 6 = 2 UNITS) 
+This is a programming laboratory course consisting of applications of programming, through case study problems, to the students major subject areas. The emphasis in this course is not of derivation of theory but on applying programming to problems and thus acquiring practical experience with numeric and non- numeric techniques relevant to the students study area. Problems are so defined that various selected groupings are emphasizing various application areas  
+
  
- 
-CSC 524: Techniques in Data Analysis (2 0 0 = 2 Units) (Rain)
-Data collection and coding. Data cleaning – completeness, range, consistency.
+CSC 524: Techniques in Data Analysis (2 0 0 = 2 UNITS) 
+Data collection and coding. Data cleaning  completeness, range, consistency.
 Design of algorithms for statistical analysis; count, sum, mean, standard deviation, analysis of variance, Frequency, cross-tabulation, multiple regression.
 Design of algorithm for implementing Non-parametric statistical test. Case studies using SPSS or PSTAT or SAS packages.
 Software implementation of statistical algorithms.
 Interpretation of results. 
- 
+  
 
-
-Department of Electronic and Electrical Engineering  
- 
-EEE 201: Applied Electricity I (2 0 0 = 2 units) (Harmattan)  
-Introduction to Electrostatics: Gauss’s theorem and application, electrostatic potential and equipotential surface capacitances, energy of a charged conductor.
-Foundation of electric circuit theory: Circuit elements, resistors, capacitors and inductors, Network theorems – Norton theorem and Super-position theorems; Transient response of RC, RL and RLC Circuits.
+EEE 201: Applied Electricity I (2 0 0 = 2 UNITS)   
+Introduction to Electrostatics: Gausss theorem and application, electrostatic potential and equipotential surface capacitances, energy of a charged conductor.
+Foundation of electric circuit theory: Circuit elements, resistors, capacitors and inductors, Network theorems  Norton theorem and Super-position theorems; Transient response of RC, RL and RLC Circuits.
 Elements discussion on Semiconductors: pn junction diode, npn and pnp transistors. 
 Full-wave and half-wave rectification circuits and smoothing circuits.  
 Electric lamps and illumination. 
-(Pre-requisite: PHY 101 & PHY 102)
-  
+
  
-EEE 202: Applied Electricity II (2 0 0 = 2 units) (Rain)  
+EEE 202: Applied Electricity II (2 0 0 = 2 UNITS)   
 Magnetic field of currents in space: Magnetic flux and flux density, corkscrew rule, solenoid and magnetomotive force, periodic wave forms: their average and effective values.
 Characteristics and use of non- linear elements in simple circuit.  
-Single-phase alternating current circuits – complex impedances and admittances.
+Single-phase alternating current circuits  complex impedances and admittances.
 Series and parallel resonant circuits.
 Magnetic circuit, mutual inductance, transformers.
 Introduction to electrical generators and motors. 
@@ -893,10 +868,8 @@ Introduction to measuring instruments: Moving coil instruments, oscilloscope, el
 (Prerequisite: EEE 201)
  
 
-
-Department of Materials Science Engineering  
  
-MSE 201: ELEMENTS OF ENGINEERING MATERIALS (2 0 3 = 3 units) (Harmattan)  
+MSE 201: ELEMENTS OF ENGINEERING MATERIALS (2 0 3 = 3 UNITS)   
 Atomic and crystal structure.  
 Crystal imperfections.
 Simple phase diagrams of allows.
@@ -908,19 +881,16 @@ Optical andmagnetic properties of materials.
 Stability of materials in the service environment, corrosive media, sub-zero and elevated temperature, irradiation.
 Basic criteria for the selection of materials for engineering applications.
 Engineering properties of wood, concrete, ceramics, polymers, ferrous and non-ferrous metals and alloys; cryogenic, corrosive media and nuclear applications.  
+
  
- 
-MSE 305: Mechanics of Materials (2 0 3= 3units) (Harmattan)  
+MSE 305: Mechanics of Materials (2 0 3= 3UNITS)   
 One, two and three-dimenstional stress and strain. 
-Application of Mohr’s circle for the analysis of stresses and strains.
+Application of Mohrs circle for the analysis of stresses and strains.
 Tensor analysis of stresses and strains.
 Creep and fatigue: Theories and experimental techniques.
 
-
  
-Department of Mechanical Engineering  
- 
-MEE 203: Engineering Drawing I (1 0 3 = 2 units) (Harmattan) 
+MEE 203: Engineering Drawing I (1 0 3 = 2 UNITS)  
 Introduction: Use of drawing instruments, paper sizes, scales and drawing layout. 
 Lines and lettering.
 Electric circuit diagrams.
@@ -936,23 +906,23 @@ Freehand sketching.
 Graphic charts and diagram.
 
  
-MEE 204: Engineering Drawing II (1 0 3 = 2 Units) (Rain)  
+MEE 204: Engineering Drawing II (1 0 3 = 2 UNITS)   
 Auxiliary projections.
 True lengths, sizes and shapes.
 Simple developments. 
 Interpenetration and development.
-Mechanical drawing of machine parts – cairns, gears, couplings, bearings pipe joints and valve.
-Structural drawing – materials representation, dimensioning of structural details, and welds.
+Mechanical drawing of machine parts  cairns, gears, couplings, bearings pipe joints and valve.
+Structural drawing  materials representation, dimensioning of structural details, and welds.
 Structure wood, concrete structural detailing, shop drawings and sketches.
 Simple assembly drawing.
 Introductory pen work; lettering and tracing of completed drawings.  
+
  
- 
-MEE 205: Engineering Mechanics I (2 1 0 = 3 units) (Harmattan)  
+MEE 205: Engineering Mechanics I (2 1 0 = 3 UNITS)   
 Independence, dimensions and coordinates in space.
 Vectors and vector algebra.
 Forces, couples and their systems: composition , resolution.
-Varigon’s theorem, equivalence and reduction of systems, wrench.
+Varigons theorem, equivalence and reduction of systems, wrench.
 Rigid bodies and equilibrium.
 Centres of gravity, centroids and their application. 
 Structures and machines.  
@@ -960,18 +930,19 @@ Friction, moments of Inertia.
 Virtual work. 
 
  
-MEE 206: Engineering Mechanics I (2 1 0 = 3 units) (Rain)  
+MEE 206: Engineering Mechanics I (2 1 0 = 3 UNITS)   
 Kinematics and Kinetics of particles.  
 Work, Energy, Power, Momentum, and Impulse.  
 Kinematics and Kinetics of rigid Bodies in Plane motion.  
-Analysis of elementary dynamic systems – dynamic system elements: mechanical electrical fluid and thermal; modeling of physical systems; Newton’s laws of motion. 
-Alembert’s principles and Lagrange’s equations.
-Particle dynamics in non-inertia frame of reference, and application of Lagrange’s equations.
- 
- 
-MEE 305: Mechanics of Machines I (2 0 0 =2 Units ) (Harmattan)  
+Analysis of elementary dynamic systems  dynamic system elements: mechanical electrical fluid and thermal; modeling of physical systems; Newtons laws of motion. 
+Alemberts principles and Lagranges equations.
+Particle dynamics in non-inertia frame of reference, and application of Lagranges equations.
+
+
+MEE 305: Mechanics of Machines I (2 0 0 =2 UNITS)   
 Fundamental concepts in kinematics and motion. 
-Mechanisms. Instanteneous centres. 
+Mechanisms.
+Instanteneous centres. 
 Relative velocities and acceleration in mechanisms.
 Rolling Contact. 
 Cams. 
@@ -980,10 +951,10 @@ Gear Trains.
 Introduction to analytical methods of mechanisms analysis.  
 
 
-MEE 395: Mechanics of Machines I Laboratory (0 0 9 = 1 unit) (Harmattan)  
- 
+MEE 395: Mechanics of Machines I Laboratory (0 0 9 = 1 UNITS)   
 
-MEE 306: Mechanics of Machines II (2 0 0 = 2 units) (Rain)  
+
+MEE 306: Mechanics of Machines II (2 0 0 = 2 UNITS)   
 Static and Inertia Force analysis in Machines.
 Dynamically equivalent systems. 
 Balancing of rotating and reciprocating masses. 
@@ -993,13 +964,9 @@ Free and forced vibrations.
 Friction in machines. 
 
 
-MEE 396: Mechanics of Machines Laboratory (0 0 9 = 1 unit) (Rain) 
- 
+MEE 396: Mechanics of Machines Laboratory (0 0 9 = 1 UNITS)  
 
-
-African Institute of Science Innovation and Policy (formerly Technology Planning and Development Unit)  
- 
-TPD 501: Industrial and Engineering Economics (2 Units) (Harmattan) 
+TPD 501: Industrial and Engineering Economics ( =2 UNITS)  
 Basic concepts: Factors of production, supply and demand, price elasticity analysis, business organization.  
 The business firm production functions, price system and competition.
 Basic principles of engineering economy, cost concepts and analysis.
@@ -1010,13 +977,13 @@ Depreciation, taxation and replacement studies.
 Capital budgeting.
 
  
-TPD 502: Technology Policy (2 Units) (Rain)
+TPD 502: Technology Policy (=2 UNITS) 
 The course content includes: Science, Technology and Development, Technological change and industrial development, government intervention in S & T in Nigeria and other developing countries, S & T Policy formulation and implementation.
 Policy statements, policy targets, policy instruments and strategies, monitoring devices and policy review.
 Technological capability and transfer of technology.  
  
 
-TPD 503: Production / Operations management and Industrial Law (Harmattan)
+TPD 503: Production/Operations management and Industrial Law (=2 UNITS) 
 Principles of management.  
 Decision theory.  
 Basic concepts in production and operations management.

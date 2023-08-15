@@ -1,20 +1,87 @@
-{% extends "studypals/base.html" %}
-{% load bootstrap4 %}
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'users/css/signup.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Coiny&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Salsa&display=swap" rel="stylesheet">
+    <title>Sign Up</title>
+</head>
+<body>
+ <!-- navigationbar -->
 
-{% block page_header %}
-<h2>Sign Up</h2>
-{% endblock page_header %}
-
-{% block content %}
-  <div class="container">
-    <form method="post" action="{% url 'users:signup' %}" class="form">
-      {% csrf_token %}
-      {% bootstrap_form form %}
-      {% buttons %}
-        <button name="sumbit" class="btn btn-primary">Sign Up</button>
-      {% endbuttons %}
-      
-      <input type="hidden" name="next" value="{% url 'studypals:index' %}"/>
-    </form>
+ <div class="nav__content">
+  <div class="nav__bar">
+    <div class="nav__links">
+      <a href="{% url 'users:login' %}" class="nav__link">Login</a>
+    </div>
+    <div class="nav__logo">
+      <img src="{% static 'studypals/images/img/study.svg' %}" alt="StudyPal" id="icon">
+      <span id="logo__text">StudyPAL</span>
+    </div>
+    </div>
   </div>
-{% endblock content %}
+<!-- navigationbar end -->
+
+
+    <div class="maindiv animate">
+        <div class="body-div">
+       <div class="div1">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div> 
+      <div class="div2">
+          <form action="{% url 'users:signup' %}" method="post" target="_self">
+            <h1>PERSONAL INFORMATION</h1>
+            <h3>Please enter your Information and confirm to  build your account.</h3>
+           {% csrf_token %}
+           {{ form.first_name.label_tag }} {{ form.first_name }}<br>
+           {{ form.matric_no.label_tag }} {{ form.matric_no }}<br>
+           {{ form.username.label_tag }} {{ form.username }}<br>
+           {{ form.department.label_tag }} {{ form.department }}
+           {{ form.school_year.label_tag }} {{ form.school_year }} <br>
+           {{ form.password1.label_tag }} {{ form.password1 }} 
+           {{ form.password2.label_tag }} {{ form.password2 }} 
+  
+           <!-- <label for="mname"> Matric Number</label><br>
+           <input type="text" id="mname" name="mname" placeholder=" Your Matric Number " maxlength="13" required> <br>
+
+           <label for="semail">Email</label><br>
+           <input type="email" id="email" name="email" placeholder="example@gmail.com" required> <br>
+  
+           <label> Phone Number </label> <br>
+           <input type="tel" id="pnumber" name="phonenumber" placeholder="+234" required pattern="((^+)(234){1}[0–9]{10})|((^234)[0–9]{10})|((^0)(7|8|9){1}(0|1){1}[0–9]{8})" > <br>
+
+           <label for="password">Password</label>
+           <input type="password"  id="pword" name="password" placeholder="Password" required pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="Must contain at least one number, and one uppercase and lowercase letter and at least 10 or more characters"> 
+           
+           <label for="password">Confirm Password</label>
+           <input type="password" id="pword" name="password"   placeholder="Password" maxlength="10" required pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="Must contain at least one number, and one uppercase and lowercase letter and at least 10 or more characters"> <br>
+           <input type="submit" value="Confirm" id="c" name="confirm" > -->
+           <input type="submit" value="Confirm" id="c" name="confirm" >
+             <p>Already have an account? <a href="{% url 'users:login' %}" type="POST" >Click Here</a></p>
+           </form>
+      </div>
+     </div>
+      <div class="box">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="div4">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div> 
+     
+     </div>
+  
+</body>
+</html>

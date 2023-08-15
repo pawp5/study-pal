@@ -1,22 +1,54 @@
-{% extends "studypals/base.html" %}
-{% load bootstrap4 %}
+ <!DOCTYPE html>
+ {% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'users/css/login.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Coiny&display=swap" rel="stylesheet">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+    <link href="https://fonts.googleapis.com/css2?family=Salsa&display=swap" rel="stylesheet">
+     <title>Login</title> 
+</head>
+<body>
+ <!-- navigationbar -->
 
-{% block page_header %}
-<h2>Log in to your account.</h2>
-{% endblock page_header %}
-
-{% block content %}
-  <div class="container">
-
-    <form method="post" action="{% url 'users:login' %}" class="form">
-      {% csrf_token %}
-      {% bootstrap_form form %}
-      {% buttons %}
-        <button name="submit" class="btn btn-primary">Log in</button>
-      {% endbuttons %}
-
-      <input type="hidden" name="next" value="{% url 'studypals:index' %}" />
-    </form>
-  </div>
-
-{% endblock content %}
+ <div class="nav__content">
+    <div class="nav__bar">
+      <div class="nav__links">
+        <a href="{% url 'users:signup' %}" class="nav__link">Get Started</a>
+      </div>
+      <div class="nav__logo">
+        <img src="{% static 'studypals/images/img/study.svg' %}" alt="StudyPal" id="icon">
+        <span id="logo__text">StudyPAL</span>
+      </div>
+      </div>
+    </div>
+<!-- navigationbar end -->
+<div class="maindiv animate">
+        <div class="block"><p class="animate__animated animate__slideInLeft">WELCOME</p></div> 
+        <div class="input">
+            <form method="post" action="{% url 'users:login' %}" target="_self">
+              {% csrf_token %}
+              {{ form.username.label_tag }} {{ form.username }}
+              {{ form.password1.label_tag }} {{ form.password }} 
+                <!-- <input type="text"  id="mnumber" name="matricnumber" placeholder="MATRIC NUMBER" required>
+                <br>
+                <br>
+                <input type="password" id="pword" name="password" placeholder="PASSWORD"required pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="Must contain at least one number, and one uppercase and lowercase letter and at least 10 or more characters">
+                <br> -->
+              <input type="submit" name="next" value="{% url 'studypals:index' %}">
+              <p class="password"><a href="#">Forget password?</a></p>
+              <p class="account">Dont have an account? <a href="{% url 'users:signup' %}"><span class="sig">Sign Up here</span></a></p>
+            </form>
+        </div>
+        
+    </div>
+    <!-- end -->
+</body>
+</html>

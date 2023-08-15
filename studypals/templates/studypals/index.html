@@ -1,15 +1,67 @@
-{% extends "studypals/base.html" %}
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to StudyPal</title>
+    <!-- <link rel="shortcut icon" href="{% static studypals/images/study.svg" type="image/x-icon" /> -->
+    <link rel="stylesheet" href="{% static 'studypals/css/style.css' %}" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;1,6..12,200&display=swap" 
+      rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap" rel="stylesheet">
+    <script src="{% static 'studypals/js/script.js' %}" defer></script>
+  <body>    
+    <!-- navigationbar -->
 
-{% block page_header %}
-  <div class="jumbotron">
-    <hi class="display-3">Let us assist you.</hi>
-
-    <p class="lead">Make your own Learning Log, and keep a list of the
-      topics you're learning about. Whenever you learn something new about
-      a topic, make an entry summarizing what you've learned.
-    </p>
-
-    <a class="btn btn-lg btn-primary" href="{% url 'users:signup' %}"
-      role="button">Sign up &raquo;</a>
-  </div>
-{% endblock page_header %}
+    <div class="nav__content">
+      <div class="nav__bar">
+        <div class="nav__links">
+          <a href="{% url 'users:login' %}" class="nav__link">Login</a>
+          <a href="{% url 'users:signup' %}" class="nav__link">Get Started</a>
+        </div>
+        <div class="nav__logo">
+          <img src="{% static 'studypals/images/img/study.svg' %}" alt="StudyPal" id="icon">
+          <span id="logo__text">StudyPAL</span>
+        </div>
+        </div>
+      </div>
+<!-- navigationbar end -->
+    <section class="main main--animation">
+      <div class="main__box">
+        <div class="main__about">
+          <div class="content">
+            <h3>Welcome to <span class="highlight">StudyPAL</span></h3>
+            <article class="main__paragraph">
+              Introducing your very own intelligent virtual assistant designed exclusively for educational purposes, ready to lend a hand at every stage of the learning journey!
+            </article>
+          </div>
+          <div class="content" >
+            <h3>Talk with <span class="highlight">AI</span></h3>
+            <article class="main__paragraph">
+              StudyPAL! Our brilliant AI assistant is at your service, ready to promptly and precisely address any concerns you may have regarding courses, syllabi, timetables or other pertinent details. We are dedicated to ensuring that our users excel in their academic pursuits and we remain steadfastly available for assistance whenever needed.
+            </article>
+          </div>
+          <div class="content">
+            <h3>Get good <span class="highlight">Grades</span></h3>
+            <article class="main__paragraph">
+              Embrace the ultimate solution to enhance your education with our intelligent virtual assistant, dedicated to guiding you through every stage of your learning journey. Allow us to be by your side as a reliable companion and watch how we transform the way you approach academic challenges!
+            </article>
+          </div>
+        </div>
+        <div class="main__illustration">
+        <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" id="blob__1">
+          <path fill="#F2EE9D" d="M35.7,-38.1C46.9,-33.1,57.3,-22.5,64.7,-7.4C72.2,7.7,76.8,27.4,68.6,37.8C60.4,48.2,39.4,49.4,20.9,55C2.4,60.7,-13.5,70.8,-23,66.1C-32.4,61.3,-35.4,41.8,-43,26.1C-50.6,10.4,-62.9,-1.4,-66.2,-16.8C-69.6,-32.1,-64.1,-51,-51.6,-55.8C-39.1,-60.6,-19.5,-51.3,-3.7,-47C12.2,-42.6,24.4,-43.1,35.7,-38.1Z" transform="translate(100 100)" />
+        </svg>
+        <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" id="blob__2">
+          <path fill="#7A9D54" d="M35.7,-38.1C46.9,-33.1,57.3,-22.5,64.7,-7.4C72.2,7.7,76.8,27.4,68.6,37.8C60.4,48.2,39.4,49.4,20.9,55C2.4,60.7,-13.5,70.8,-23,66.1C-32.4,61.3,-35.4,41.8,-43,26.1C-50.6,10.4,-62.9,-1.4,-66.2,-16.8C-69.6,-32.1,-64.1,-51,-51.6,-55.8C-39.1,-60.6,-19.5,-51.3,-3.7,-47C12.2,-42.6,24.4,-43.1,35.7,-38.1Z" transform="translate(100 100)" />
+        </svg>
+        <div class="content__ill">
+          <img src="{% static 'studypals/images/img/ill-1.svg" alt="illustration" class="image__ill image__ill--trans">
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

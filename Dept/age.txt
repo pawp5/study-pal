@@ -1,0 +1,466 @@
+AEE 102: INTRODUCTION TO AGRICULTURAL AND ENVIRONMENTAL  ENGINEERING   (2 0 0 = 2 units).        
+Introduction to Agricultural and Environmental Engineering, definition and scope.
+Areas of specialization in Agricultural and Environmental Engineering.
+Interdisciplinary nature of Agricultural and Environmental Engineering; Relationship between Agricultural  and Environmental Engineering and agriculture and other engineering professions.
+Professional societies and their ethics.
+Agricultural and Environmental Engineering and the Nigerian Economy.
+Relevance of Agricultural and Environmental in achieving the United Nations Sustainable Development Goals.
+Employment opportunities in Agricultural and Environmental Engineering.
+Challenges of food security and the needs for mechanization, rural industrialization, entrepreneurs hip skills etc.
+
+code: AEE 200
+title: STUDENTS WORK EXPERIEN CE PROGRAMME  (0 0 9 = 3 units).
+outline:  
+Introduction  to workshops and laboratories environment in agricultural and environmental engineering. 
+Identification of key equipments, tools and their functions. 
+Safety in engineering workshops. 
+Selection, operation, care and  uses of shop tools and equipment. 
+Woodworking, concrete and masonry, iron working, black -smithing, welding, cutting and brazing. 
+Glazing and sheet metal work. 
+Repair and maintenance of tractors and farm machinery. Building of equipment adaptable to farm shop construction. 
+Fabrication, maintenanc e and repair of farm field processing machines. 
+Introduction to soil and water engineering and equipment in soil and water laboratory.  
+  
+AEE 202: WORKSHOP PRACTICE  (1 0  3 = 2 units).  
+Introduction to workshop practice. Workshop safety measures. Hand and powered tools emphasizing safety measures to be taken during operation. Engineering materials. Theory and 
+practice of metal joini ng, soldering, brazing, welding,  metal cutting, forming, casting and moulding. 
+Workshop materials, gauges and measuring devices. 
+Bench work; marking out, scribing, punching, cutting, drilling, riveting, tapping, dieing, etc. 
+Description of the f unction and capabilities of grinding machines. 
+Practice in grinding tools and drills. Function and capabilities of drilling machines, lathe machines, milling machines and shaping machines. 
+Machining processes. Measurements, to lerance of products. 
+Jigs, fixtures, practice in the use of the machines. 
+Introduction to computer aided manufacture.  
+ 
+AEE 302: STATIS TICS FOR ENGINEERS  (2 0 0 = 2 units).  
+Statistical concepts, probability and distribution functions, normal distribution. 
+Tests of hypotheses and significance testing of means, independent and paired/correlated samples studies, confidence interval. 
+Completely randomized design (one-way ANOVA)., Completely randomized block design (two-way ANOVA). 
+Factorial experimental design. 
+Introduction to basic programming languages in statistics. 
+Applications of spreadsheet and computer software for instance R Statistics, SARS and Matlab in analyzing  and interpret ing scientific data.  
+ 
+AEE 304: BASIC SOIL MECHANICS (2 0 3 = 3 units).  
+Introduction. Soil constituents, origin,  occurrence and composition. 
+Clays and the ir behaviours. 
+Particle size analysis. 
+Engineering classification of soils. 
+Plasticity of fine -grained soils and determination of soil index properties. 
+Phase relationships.
+Compaction of soils. 
+Flow of water through the soils: Hydraulic conductivity; laboratory and field measurements; Soil water content (Direct and indirect methods of measurement).
+Energy state of water; Soil water potential and measuring devices. 
+Water infil tration in the vadose zone: infiltration  models. 
+Rudiments of permeability and see page. 
+Introduction to effective stress. 
+Mechanical properties (shear strength and loading capability of soils) and stress -strain characteristics of soil. 
+Mohr�s Circle in Soil Mechanics. 
+Excursion to building or road construction sites.  
+ 
+AEE 306: APPLIED ENGINEERING THERMODYNAMICS  II (2 0 3 = 3 units).  
+Gaseous mixtures (Dalton�s law of partial pressures, Gibb-Dalton�s law, relation between partial pressure,  mole and volume fraction, relation between volumetric and gravimetric basis analysis, equivalent molecular weight). 
+Combustion (combustion equations, combustion analysis calculation of air fuel ratio on volumetric and gravimetric basis, effect of combustion on environment), Other methods of energy conversion, e.g. Fuel cells, Introduction to Psychrometry, Basic principles and practice of refrigeration and air conditioning, Refrigeration cycle, 
+Dehumidification of most air by sorbent materials.
+ 
+AEE 307: FARM ELECTRIFICATION (2 0 3 = 3 units).  
+The use of electricity as a power source for lighting, comfort in living, farm production and processing. 
+Design and on -farm use of electric equipment and systems. 
+Switches and controls. 
+Planning the farmstead distribution system:- Demandload for farm buildings, Central metering and distribution, Capacity of main service. 
+Selecting feeder conductors. 
+Electric central and circuit protection.
+Electric motors: Motor rating and selection, measurement of motor characteristics. 
+Stand -by power units: Purpose and im portance, stand  - by generator type, selection, maintenance and operation. 
+Installation and operation of s olar systems. 
+The peculiar nature of farm electrification. The Nigerian rural environment. 
+Design project.  
+ 
+AEE 308: AGRICULTURAL LAND SURVEYING (1 0 3 = 2 units).
+Types of surveys, classes of surveys, Instruments and care, measurement of distances - pacing,
+stadia, taping, electronic and photographic methods. Levelling - elevations. Earth�s curvature and
+atmospheric refraction. The engineer�s telescope, bubble tube, dumpy level, land level, level rods,
+automatic level, Field notes. Errors and corrections. Angles and directions - bearings and
+azimuths, magnetic compass and earth�s magnetic field. Changes in declination, aerial surveying,
+topographic maps, introduction to photogrammetry. Remote Sensing and Geographic
+Information System (GIS). and their applications in mapping land and water resources.
+
+AEE 401: PROPERTIES AND PROCESSING OF AGRICULTURAL MATERIALS (2 0 3 = 3 units).
+Properties of agricultural materials (physical, mechanical, thermal, electrical, optical, rheology etc.). 
+Moisture material relations: moisture content (definition, importance, methods of determination), safe moisture content, equilibrium moisture content (definition, importance,methods of determination). 
+Air movement (airflow resistance, pressure losses in systems, fans), Drying food produce (principle, theory, thin layer and deep bed drying), Dryers used in food processing (tray, cabinet, drum, spray, freeze), Dryer performance and efficiency.
+
+AEE 403: HYDRAULIC ENGINEERING (1 0 3 = 2 units).
+Fundamentals of fluid flow. Characteristics of hydraulic fluids. Dimensional analysis. Water pressure and Pressure forces. Hydraulics of flow in closed conduits. Pipe network analysis.
+Fundamentals of open channels (including transitions and controls of hydraulic jumps). 
+Watermeasurements. 
+Introduction to the design of hydraulic structures such as dams, culverts, weirs, spillway. 
+Hydraulic machines e.g. pumps, valves; introduction to hydraulic model studies.
+Testing of component and system performance.
+
+AEE 405: HYDROLOGY (2 0 3 = 3 units).
+Scope of hydrology and hydrologic cycle. Relevance of hydrology to Agricultural and Environmental Engineering. 
+Elements of weather including precipitation (rainfall), humidity, air temperature, solar radiation, net solar radiation, sunshine hours, vapour pressure, evaporation and wind speed and direction. 
+Measurement of precipitation and the challenges associated with them.
+Analyses of areal rainfall data. 
+Meteorological factors influencing rainfall and evaporation.
+Measurement and estimation of evaporation (bare soil and vegetated surfaces). 
+Interception of precipitation. 
+Evapotranspiration: measurement and introduction to empirical models for estimation. 
+Infiltration of water through the soil: field and laboratory measurements. Empirical infiltration model and factors controlling infiltration. 
+Streamflow: runoff processes, statistical analysis and inferences. Measurement of surface runoff at field level and models for estimation in catchments. 
+Flood routing. 
+Hydrograph and rainfall intensity duration. 
+Rainfall-Runoff relationships. 
+Climate change and environmental disasters e.g. flooding: causes, effects and solutions. 
+Analysis and management of groundwater. 
+Excursion to a meteorological station and flood plains.
+
+AEE 407: DESIGN OF AGRICULTURAL AND FOOD PROCESSING MACHINES I (2 0 3 = 3 units).
+Philosophy of design. 
+Components of design. 
+Agricultural Machines: Types and functional requirements. 
+Engineering materials. 
+Stress and deflection analysis. 
+Theories of failure. 
+Design against failure. 
+Detachable fasteners. 
+Power screws. 
+Shafting design. 
+Elements of agricultural and food processing machines. 
+Introduction of Computer Aided Design (CAD) in agricultural and food processing machine design. 
+Machine production planning and work scheduling.
+Commercialization of engineering design. 
+Production, surface protection and decorative treatment of machines. 
+Group project.
+
+AEE 411: DESIGN OF AGRICULTURAL STRUCTURES (2 0 3 = 3 units).
+Introduction to Agricultural Structures. Selection of materials in relation to use � steel, wood,concrete and masonry. 
+Types of structural frames. 
+Estimating loads; stress analysis. 
+Introduction to structural design - philosophy of design, elastic and plastic design concepts. 
+Reinforced concrete design. 
+Design for axial loadings. 
+Design of beams. 
+Types of Foundation, Design and analysis of trusses and columns. 
+Design of simple foundation, slab, connections, and joints.
+Computer concept for improved analysis and design. Design project. 
+Introduction to AutoCad.
+Design project.
+
+AEE 413: AGRICULTURAL WASTE MANAGEMENT (1 0 2 = 2 units).
+Introduction to Environmental Engineering. 
+Air, land and water pollution. Global and local
+legislations on environmental pollution and management. 
+Waste management methods: Disposal methods � Land disposal (Landfill), Thermal disposal (Incineration). 
+Recycling methods � Physico-chemical reprocessing, Biological reprocessing � composting and anaerobic digestion.
+Energy recovery � waste-to-energy. 
+Avoidance and reduction methods � waste minimization.
+Waste handling and transport. Waste management concepts. 
+Introduction to modelling of bio-waste. 
+Application of waste in organic farming. 
+Group projects.
+
+AEE 501: FARM MACHINERY I (2 0 3 = 3 units).
+Overview of agricultural mechanization. 
+Types of farm machinery and their field management requirements. 
+Primary and secondary tillage, planting, cultivation, fertilizer and crop protection and harvesting operations. 
+Impact of tillage on environment. 
+Machine performance, costs of use of agricultural machinery. 
+Safe operation of agricultural machinery. 
+Group project.
+ 
+AEE 502: FARM MACHINERY II (2 0 3 = 3 units).
+The agricultural tractor: types, the P.T.O. drive, the Hooks joint, hitch implement and analysis.
+The mechanics of farm tractors chassis. 
+Implement penetration theory. 
+Constructional features, force analysis and design considerations of various agricultural machinery used for tillage.
+Spraying and dusting, harvesting, and post harvest machines etc. 
+Impacts of farm operations on the environment. 
+Group project. 
+
+AEE 503: DESIGN OF AGRICULTURAL AND FOOD PROCESSING MACHINES II (2 0 3 = 3 units).
+Mechanical power transmission: gear drives, belt drives, chain drives, ropes and hoists, springs, bearings. 
+Welding, Brakes, Clutches and Couplings. 
+Vibrations. 
+Design of machines for units operation in food processing including concentration and dehydration. 
+Application of Computer Aided Design (CAD) to agricultural and food processing machines. 
+Design Project.
+
+AEE 504: HANDLING OF AGRICULTURAL MATERIALS (2 0 3 = 3 units).
+Flow process and challenges of handling local food produce (e.g. garri, HQCF, palm oil, yam flour, parboiled rice, cereal flours), Separation, cleaning and sorting of agricultural produce (importance, methods, devices/equipment used), Size reduction (importance, methods, size reducing devices/equipment, energy analysis during size reduction), Basic principles important to separation and size reduction (aerodynamics, particle size characteristics, screening analysis, cyclone), Methods and equipment for the handling of small and large lots of agricultural products (belt, chain, bucket, screw, pneumatic). 
+Other selection of agricultural produce handling equipment such as elevators, cranes, fork lifts, trucks, carts, etc. 
+Agricultural industry layout. 
+Environmental issues in food handling. 
+Industrial visit.
+
+AEE 505: FARM STRUCTURES AND ENVIRONMENTAL CONTROL ENGINEERING (2 1 0 = 3 units).
+Introduction to farmstead planning and layout: Land acquisition and site selection. 
+Planning factors and farmstead development: zone planning, Farmstead and main road, topography, climate and services. Planning activities centers: Family living, machinery storage, grain storage and processing etc. Planning services: Drives and parking. 
+Environmental needs for agricultural production: Environmental consideration for livestock production, heat and moisture productionin livestock and poultry, etc. 
+
+AEE 506: DESIGN OF ENVIRONMENTAL CONTROL STRUCTURES (2 0 3 = 3 units).
+Review of basic structural components. 
+Elementary structural analysis and design.
+Environmental requirements for man and plants. 
+Design of environmental systems for crops and animal production: Design of grain storage and grain handling equipment, Structures for semi-perishable and perishable crops etc. Design of animal housing: cattle, pig, rabbit, sheep and goat etc. 
+Design of ventilation systems for crops and animals. 
+Principles of refrigeration. 
+Rural water supply and sanitation.
+
+AEE 507: SOIL AND WATER CONSERVATION ENGINEERING (2 0 3 = 3 units).
+Definition, concept and scope of soil and water conservation. 
+Processes and mechanics ofverosion. 
+Classes, types, forms and significance of soil erosion. 
+Classifications, factors, analysis and measurements of water and wind erosion. 
+Models for estimating soil loss by water and wind erosion e.g. Modified Universal Soil Loss Equation (USLE). 
+Erosion control: biological and mechanical. 
+Contouring, strip cropping, terracing, mulching and tillage practices - principles, design, efficiency and limitations and geotextile materials. Principles, classification, design, construction, operation, maintenance, efficiency and limitations of terrace and vegetated waterways. 
+Selected mechanical conservation structures, windbreaks and shelter belts. 
+Water harvesting: principles and techniques. 
+Soil pollution due to erosion processes and water quality management. 
+Climate change and desertification � causes, effects on soil and water and control measures. 
+Excursion to land reclamation and erosion control sites.
+ 
+AEE 508: IRRIGATION AND DRAINAGE ENGINEERING (2 0 3 = 3 units).
+Perspectives (water availability in time and space) and the general concept of irrigation: full, deficit and supplemental irrigation. 
+Climate change and water management for agriculture.
+Irrigation development and Planning: factors affecting irrigation planning and development.
+Weather factors influencing crop water demand, crop production and water management e.g. rainfall, air temperature, humidity, solar radiation, wind speed and sunshine hours etc.
+Agricultural soils: physical and chemical properties. Soil water constants e.g. field capacity, permanent wilting point; soil water potentials, and measurement of soil water. 
+Plants: general overview and types, crop growth factors e.g. water and soil fertility; determination of crop growth parameters e.g. leaf area index, biomass etc. 
+Soil-Water-Plant-Atmosphere Relationship.
+Estimation of evapotranspiration and consumptive use. 
+Introduction to wastewater irrigation and water quality for irrigation (standard). Applications of water lifting devices (pumps). 
+Types of irrigation: surface, sprinkler and drip systems; their design, construction, operation and maintenance at field levels. 
+Application of renewable energy in irrigated agriculture. 
+Drainage of agricultural land and control of water table, application of engineering principles to surface and sub-surface drainage. 
+Design, construction, operation and maintenance of open channel and closed drainage systems. 
+Environmental influences of irrigation and drainage systems. 
+Excursion to an irrigation scheme.
+
+AEE 509: FARM POWER I (2 0 3 = 3 units).
+Power sources for agriculture. 
+Introduction to heat engines and energy conversion devices.
+Theory of internal combustion engine and thermodynamic cycles. 
+Internal combustion engines and application to tractors and implements. 
+Fuels, oils and lubricants. 
+Constructional features and operation of tractor engines. 
+The spark ignition and compression engine systems, air/fuel systems, engine lubrication and lubricating system, engine cooling and cooling system and ignition and electrical systems. 
+Design of spark ignition and compression ignition engines. 
+Effect of combustion on environment.
+
+AEE 510: FARM POWER II (2 0 3 = 3 units).
+Tractor power transmission system, tractor constructional features, stability analysis/mechanics of farm tractor chassis. 
+Traction theory, human factors in tractor design and utilization, the tractor hydraulic system. 
+Performance, operation and testing of agricultural power units. 
+Tractor selection, utilization and preventive maintenance. 
+Tractor Power cost estimation.
+
+AEE 512: HEAT TRANSFER (2 1 0 = 3 units).
+Basic principles of heat and mass transfer (steady state heat transfer, heat transfer in one or more dimension, laws governing heat transfer, electrical analogy of heat transfer), Heat conduction in Cartesian, cylindrical and spherical coordinates, Thermal convection, heat transfer through composite surfaces, Combined mode of heat transfer, Heat exchangers (types, applications/uses, fouling in heat exchangers, analysis of LMTD, effectiveness and heat transfer in exchangers).
+
+AEE 514: WATER RESOURCES DEVELOPMENT (2 1 0 = 3 units).
+Definition and scope of water resources development and management. 
+Occurrence, uses, demand and supply for water. 
+Water scarcity, causes, effects and solutions. 
+Methods of increasing water availability. 
+Flood and drought management under climate change. 
+Water power.
+Integrated Water Resources Management (IWRM) and water rights: concept and importance.
+Water quality and the environment. 
+Urban and rural water supply systems in the developing countries. 
+Introduction to computer modelling and optimization in water resources development.
+Conjunctive use of water resources. 
+Application of remote sensing and geographic information systems in water resources management. 
+Hydraulic structures e.g. earth dams: Sitting and selection, features, types, design considerations, construction, operation and maintenance. Farm, fish ponds and reservoirs. 
+Economics of water resources management. 
+Excursion to a dam or water works.
+
+AEE 516: BIOPROCESS MATERIALS AND EFFLUENT MANAGEMENT (2 0 0 = 3 units).
+Types, characteristics, chemistry and microbiology of biological waste and effluent. 
+Collection, treatment and disposal of biological waste and effluent. 
+Design, operation and construction of operational and maintenance facilities. 
+Effect of bio-effluent discharge on river/soil ecology and pollution. 
+Conversion, recycling and potential use of biological wastes.
+
+AEE 518: MECHANICAL SYSTEMS ANALYSIS (2 1 0 = 3 units).
+Dynamic analysis (Distributed and lumped parameter systems). 
+Equation of motions for simple physical systems. 
+Dynamic response of elementary systems. 
+Vibration isolation. 
+Dynamic stability. 
+Introduction to non-linear and time varying systems.
+
+AEE 520: AUTOMATIC CONTROL (2 1 0 = 3 units).
+Significance of automatic control. 
+Basic automatic control systems. 
+Input signals and responses.
+Servomechanism. Block diagram. 
+Linear systems. 
+Open and closed loop transfer functions.
+Measuring instruments and transducers. 
+Introduction to robotics technology.
+
+AEE 524: DESIGN OF HYDRAULIC CONTROL STRUCTURES (2 1 0 = 3 units).
+General requirement and design considerations for conveyance, regulating, water measurement and protective structures in water delivering systems. 
+Energy dissipation, transitions and erosion protection along canals. 
+Pipe and pipe appurtenances, Safety features in canals.
+
+AEE 525: DESIGN AND RESEARCH PROJECT I (2 1 0 = 3 units).
+Research methodology: definition; types; features and processes of engineering research.
+Formulation of scientific research, objectives, methodology and collection of relevant data and their analysis using appropriate software and scientific tools. 
+State-of-the-art tools for scientific research, writing and presentations. 
+Ethical issue in scientific, engineering and agricultural researches. 
+Standard scientific nomenclatures and symbols. Plagiarism and scientific writing.
+Plagiarism and software for its detection (Similarity Index). 
+Students are assigned to supervisors for guidance and mentorship. 
+Student should submit three bound copies of proposal and defend the contents before the committee of examiners.
+
+ 
+AEE 526: DESIGN AND RESEARCH PROJECT II (2 1 0 = 3 units).
+The project proposal in AEE 525 is to be completed in AEE 526. 
+The students will defend their thesis and submit three bound copies plus an electronic copy stored in a compact disc to the department.
+
+AEE 530: ENERGY IN AGRICULTURE (2 1 0 = 3 units).
+Energy - Basic definitions and classifications. 
+Roles of energy in industrial and national development. 
+Energy balance, management, and evaluation of alternatives. 
+Renewable and alternative energy. 
+Solar, biomass, wind, thermal, hydraulics, and their applications in agriculture.
+Energy conversion devices. 
+Group project.
+
+AEE 532: LIVESTOCK HOUSING (2 1 0 = 3 units).
+Animal behavior. 
+Environmental requirements. 
+Effect of temperature and humidity on the environment of a livestock house. 
+Temperature and humidity stress in confinement. 
+Heat and moisture production in livestock. 
+Animal housing (cattle, swine, poultry, sheep and goat, rabbit).
+Environmental control of livestock housing. 
+Slaughter slabs and slaughterhouses.
+
+AEE 534: RURAL INFRASTRUCTURES ENGINEERING (2 0 0 = 2 units).
+Concept of integrated rural development (planning and implementation). 
+Overview of the problems of rural infrastructures. 
+Rural road network. 
+Rural roads development, construction, and maintenance. 
+Rural water supplies. 
+Rural Sanitation. 
+
+AEE 536: CROP AND FOOD PRESERVATION (2 0 0 = 2 units).
+Food microbiology, spoilage, and deterioration. 
+Principles and methods of food preservation � high and low-temperature methods, use of preservatives, recent issues in food preservation, e.g. irradiation. 
+Preservation of tuber crops, grains & cereals, vegetables, and fruits. 
+Qualities of food produce as influenced by crop preservation methods. 
+Basic principle of crop storage, types of storage structures � Traditional and Improved Systems. 
+Pest and insect infestation in stored products and their control. 
+Maintenance of storage products and storage structures. 
+Storage structures for grains, semi-perishable crops (e.g., potatoes, yams, etc.), and perishable crops (e.g., fruits and vegetables). 
+Governmental storage policies/systems e.g. strategic food reserves.
+
+AEE 538: CROP AND FOOD STORAGE TECHNOLOGY (2 1 0 = 3 units).
+Basic principles of crop storage and preservation. 
+Types of storage structures � Traditional and Improved Systems. 
+Pest and insect infestation in stored products and their control. 
+Maintenance of storage products and storage structures. 
+Storage structures for grains, semi-perishable crops (e.g., potatoes, yams, etc.), and perishable crops (e.g., fruits and vegetables). 
+Strategic food reserves. 
+
+AEE 540: AGRICULTURAL BIOTECHNOLOGY (2 1 0 = 3 units).
+The emergence of biotechnology and its application in basic and applied science disciplines.
+Introduction to molecular biology and molecular engineering. 
+Genetically modification of microorganisms, plant, and animal cells: gene mapping, gene transfer, recombinant DNA techniques, protoplasm fusion, etc. 
+Safety and biological implications of genetically modified seed, food, and organisms. 
+Global and local regulations and politics of genetically modified food items. 
+Biotechnological tools in solving food-related problems, e.g., fermentation, post-harvest operations, food processing, functional foods, and novel food products development.
+
+AEE 352: AGRICULTURAL ENGINEERING I (2 0 3 = 3 units).
+General introduction to Agricultural and Environmental Engineering. 
+Engine power systems.
+Fuel combustion systems Lubrication systems. 
+Cooling systems. 
+Electrical systems Power transmission. 
+Application and control of engine power. 
+Water for agriculture; Measurement of soil moisture; Soil moisture constants. 
+Basic terms in irrigation water management. 
+Modern land clearing operations for agriculture and equipment. 
+Tillage systems in the tropics and planting operations, fertilizer application.
+
+AEE 402: FARM MECHANIZATION PRACTICES (0 0 3 = 2 units).
+Introduction to Farm machinery: tractors (working systems, operation, and maintenance), tillage operations and implements - primary and secondary tillage. 
+Farm systems - operations and management. 
+Post-harvest implements. Marketing strategies.
+
+AEE 408: REPORT WRITING IN AGRICULTURAL ENGINEERING (1 0 0 = 1 units).
+Introduction � characteristics of technical writing, common deficiencies in writing. 
+Standard report formats � layout, mechanical accuracy, usage of abbreviations, numbers, punctuations, and capitalization. 
+Types of reports. 
+The main elements of a report/thesis/dissertation � prefatory section, the main body, and appendix. 
+Report outlines. 
+Literature referencing � reviewing, citing, listing. Tabular, graphic, and pictorial aids in report writing � classification of graphic aids, preparation, placement, and discussion. 
+Formal communication � business letter and memorandum.
+Tools for scientific research, writing, and presentation. 
+Standard scientific nomenclatures, and symbols. 
+Ethical issues in scientific, engineering, and agronomic researches and writing. 
+Plagiarism and software for its detection (Similarity Index).
+
+AEE 409: AGRICULTURAL LAND SURVEYING (0 0 3 = 2 units).
+Introduction to surveying - types of surveys, classes of surveys, instruments, and care.
+Measurement of distances - errors and corrections, land area measurements. 
+Levelling - tripod level, hand level, and clinometers. 
+Angles, bearings, and coordinates. 
+Global positioning system and electronic distance measurement.
+
+AEE 552: PRINCIPLES OF SOIL AND WATER CONSERVATION (2 1 0 = 3 units).
+Definition and scope of soil and water conservation. 
+Water erosion and control practices.
+Principles and practice of irrigation. 
+Flood irrigation practices. 
+Drainage of agricultural land.
+Fundamentals of water resources development.
+
+AEE 553: AGRICULTURAL ENGINEERING II (2 0 3 = 3 units).
+Grain drying, storage, and processing. 
+Water resources development. 
+General concept of water management for agriculture. 
+Irrigation: types; irrigation scheduling and the measure of efficiency in irrigation. 
+Drainage of agricultural land. 
+Soil erosion and flood: causes, effects, and control.
+Planning of the farmstead. 
+Construction materials. Handling of Agricultural waste, disposal and/or recycling.
+
+AEE 554: BASIC LIVESTOCK HOUSING (2 1 0 = 3 units).
+Basic planning tools. 
+Materials of Construction. 
+Environmental considerations for animal housing. 
+Housing and production systems for animals (Beef and Dairy Cattle, Pigs, Sheep and Goat, Poultry, etc.). 
+Rural water supply. 
+Waste management in the rural environment.
+
+AEE 558: PRINCIPLES OF FARM MACHINERY (2 0 3 = 3 units).
+Introduction. 
+Types of agricultural tractors. 
+Sizes of agricultural tractors. 
+Farm implements.
+Machine performance. 
+Cost of the use of agricultural equipment. 
+Cost factors. 
+Sources of power for machinery. 
+Elements of mechanical power transmission. 
+Farm operations. 
+Planting. 
+Cultivation.
+Fertilizer and insecticide application. 
+Harvesting. 
+Safety.
+
+
+AEE 560: FARM POWER (2 0 3 = 3 units).
+Basic thermodynamics of engine cycles. 
+Engine power transmission systems. 
+Hydraulic control, hitching, and steering. 
+Elementary traction theory. 
+Tractor selection; application, and maintenance. 
+Economics of tractor utilization.
+

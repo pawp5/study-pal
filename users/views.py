@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
-from django.contrib.auth import login
 from django.contrib.auth.models import User
-from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
+from django.contrib.auth import authenticate, login
 from .forms import SignUpForm
 
 from .models import Account
@@ -15,18 +15,30 @@ def signup(request):
         form = SignUpForm(data=request.POST)
 
         if form.is_valid():
-            form.save()
-            username = form.cleaned_data['username']
-            matric_no = form.cleaned_data['matric_no']
-            dept = form.cleaned_data['dept']
+            new_user = form.save()
+            # username = form.cleaned_data['username']
             # password = form.cleaned_data['password1']
-            user = User.objects.get(username=username)
-            user_data = Account.objects.create(user=user, matric_no=matric_no, dept=dept)
-            user_data.save()
-            # login(request, authenticate(matric_no, password)
-            return redirect('')
+            # user = authenticate(username=username, password=password)
+            # if user is not None:
+            login(request, new_user)
+            return redirect('studypals:dashboard')  # Redirect to a success page
 
-
-    
     context = {'form': form}
     return render(request, 'registration/signup.html', context)
+
+def login_view(request):
+    """Log users in."""
+    if request.method == 'POST':
+        form = AuthenticationForm(data=request.POST)
+        if form.is_valid():
+            username = form.cleaned_data.get('username')
+            password = form.cleaned_data.get('password')
+            user = authenticate(username=username, password=password)
+        if user is not None:
+            login(request, user)
+            return redirect('studypals:chat')  # Redirect to a success page
+    else:
+        form = AuthenticationForm()
+
+    context = {'form': form}
+    return render(request, 'login.html', context)

@@ -1,0 +1,1122 @@
+MTH 101: Elementary Mathematics [4-1-0 (5 units)] 
+Set theory operations with real numbers.
+Theory of quadratic functions and equations.
+Sequences and series.
+The Binomial theorem 
+Matrices.
+
+
+PHY 101: General Physics I [4-0-0 (4 units)] 
+Fundamental principles of mechanics.
+Mechanical properties of matter including elasticity, surface tension and viscosity.
+Mechanical waves.
+Thermal physics: thermal properties including elementary thermodynamics and kinetic theory.
+
+
+PHY 107: Experimental Physics I [0-0-3 (1 units)] 
+Laboratory experiments to accompany General Physics I.
+
+
+CHM 101: Introductory Chemistry I [3-1-0 (4 units)] 
+Introduction. 
+Atomic Theory and Nature of Atoms. 
+Stoichiometry I.
+Stoichiometry II.
+Chemical Equilibria
+Thermochemistry.
+Electrochemistry.
+Kinetics.
+Radioactivity.
+
+
+CHM 103: Experimental Chemistry I A [0-0-3 (1 units)] 
+Laboratory experiments to accompany Introductory Chemistry I.
+
+
+TPD 101: Engineers and Society [4-1-0 (5 units)] 
+Selection of topics from: 
+Introduction to engineering. 
+The roles of the engineer in society. 
+Technology policy. 
+Production / operations management. 
+Industrial law. 
+Industrial economics.
+
+
+MTH 102: Elementary Mathematics II [4-1-0 (5 units)] 
+Trigonometry.
+Calculus. 
+Coordinate geometry
+Statistics.
+
+
+PHY 102: General Physics II [4-0-0 (4 units)] 
+Fundamental laws of electricity and magnetism and their applications. 
+Electron physics: Introduction to the physics of electronics and some applications. 
+Optics: principles and applications of geometrical and physical optics. 
+
+
+PHY 108: Experimental Physics II [0-0-3 (1 units)] 
+Laboratory experiments to accompany General Physics II.
+
+
+CHM 102 : Introductory Chemistry II [3-1-0 (4 units)] 
+Qualitative analysis (Inorganic). 
+Identification of organic compounds. 
+Chemical bonding. 
+Introduction to organic chemistry.
+Homologous series and functional groups' chemistry. 
+Main group chemistry (groups III - V). 
+Main group chemistry (Groups VI and VII) and transition metals' chemistry. 
+Chemistry of alcohols, ethers, aldehydes and ketones; carboxylic acids, derivatives and amines.
+Carbohydrates, proteins and lipids.
+
+
+CHM 108 : Experimental Chemistry I B [0-0-3 (1 units)] 
+Laboratory experiments to accompany Introductory Chemistry II.
+
+
+MTH 104: Vectors [2-0-0 (2 units)] 
+Introduction to vectors.
+Vector Addition: Components of a vector; Unit vectors: i, j, k; magnitude of a vector. 
+Vector Multiplication (Scalar, vector, scalar triple and vector triple products).
+Applications to geometry and kinematics (including relative velocity). 
+Solutions of simple vector equations. 
+Differentiation and integration of vectors.
+
+
+EEE 152: Introduction to Electronic and Electrical Engineering [2-0-0 (2 units)] 
+Introduction to modeling and simulation in analyzing a simple linear -time invariant system. 
+The use of abstraction, decomposition, modularity and hierarchy to manage and design complex systems.
+Introduction to specialization areas as well as important principles, tools, techniques, and problems in electrical engineering.
+
+
+AEE 202: Workshop Practice [1-0-3 (2 units)] 
+Workshop safety measures: Introduction to workshop hand and emphasizing safety measures to be taken during operation.
+Workshop materials; various gauges and measuring devices.
+Tolerance of products.
+Bench work: Marking out, scribing, punching, cutting, drilling, riveting, tapping, dyeing, etc. 
+General description of the function and capabilities of grinding machines.
+Practice in grinding tools and drills.  
+Function and capabilities of drilling machines, lathe machine, milling machine and shaping machine, jigs, fixtures, practice in the use of the machines.  
+Theory and practice of forming metals together, soldering, brazing, welding, computer-aided manufacturing.
+
+
+CSC 201: Computer Programming I [2-1-0 (3 units)] 
+An introduction to digital computer; historical perspective, up-to-date description. 
+A simple typical computer structure. 
+Applications of digital computers. 
+Programming the computer in a selected language: declarative statements; input and output statements; program compilation and execution; control and conditional statements; 
+Flow diagram organization; loops and routines;
+Program testing and debugging techniques. 
+Introduction to structured programming.
+
+
+MEE 205: Engineering Mechanics I [2-1-0 (3 units)]
+Independence, dimensions and coordinates in spaces. 
+Vectors and vector algebra.
+Forces, Couples and their systems: Composition, Resolution, Varignon's theorem, Equivalence and reduction of systems, Wrench. 
+Rigid bodies and equilibrium. 
+Centres of gravity; centroids and their applications. 
+Structure and machines. 
+Friction.
+Moments of Inertia. 
+Virtual work.
+
+
+MTH 201: Mathematical Methods I [2-1-0 (3 units)] 
+Sequences and series: Limits and continuity, Differentiability, Implicit functions, sequences, series, tests of convergence.
+Sequences and series of functions. 
+Calculus: Partial differentiation, total derivatives, implicit functions, change of variables, Taylor's theorem and maxima and minima of function of two variables.
+Lagrangian multiplier. 
+Numerical Methods: Introduction to iterative methods, Newton's method applied to finding roots.
+Trapezium and Simpson's rules of integration. 
+Differential Equations: Introduction, equation of first order and first degree, separable equations, homogeneous equations, exact equation, linear equation, Bernoulli's and Ricatti equations. 
+Applications to mechanics and electricity. 
+Orthogonal and oblique trajectories.
+Second order equations with constant coefficients.
+
+
+MEE 206: Engineering Mechanics II [3-1-0 (4 units)] 
+Kinematics and kinetics of particles. 
+Work, energy, power, momentum and impulse. 
+Kinematics and kinetics of rigid bodies in plane motion. 
+Analysis of elementary dynamic systems-dynamic system elements: mechanical, electrical, fluid and thermal; modelling of physical systems;  Newton's laws of motion.
+Alembart's principles and Lagrange's equations. 
+Particle dynamics in non-inertia frame of reference, and application of Lagrange's equations.
+
+
+MTH 202: Mathematical Methods II [3-1-0 (4 units)] 
+Vector theory: Vector and scalar field functions.
+Grad, div, curl, directional derivatives, orthogonal curvilinear coordinates.
+Complex Numbers: The algebra and geometry of complex numbers: De'moive's theorem. 
+Elementary transcendental functions. 
+The nth root of unity and of a general complex number.
+Linear algebra: Vector spaces. 
+Linear independence. 
+Basis, change of basis and dimension. 
+Linear equation and matrices. Linear maps. 
+The diagonal, permutation, triangle matrices. 
+Elementary Matrix: The inverse matrix. 
+Rank and nullity. 
+Determinants.
+Adjoint rule, canonical forms, similar matrices. 
+Eigenvalues and Eigenvectors, quadratic forms.
+
+
+EEE 201: Applied Electricity I [2-0-0 (2 units)] 
+Introduction to electrostatics. 
+Foundations of electric circuit theory: circuit elements, network theorems. 
+Semiconductors: PN junction diode, NPN and PNP transistors, full-wave and half-wave rectification circuits and smoothing circuits. 
+Electric lamps and illumination.
+
+
+EEE 202: Applied Electricity II [2-0-0 (2 units)] 
+Magnetic field of currents in space. 
+Periodic waveforms. 
+Non-linear elements in simple circuit. 
+Single-phase ac circuits. 
+Series and parallel resonant circuits. 
+Magnetic circuits. 
+Introduction to electrical generators and motors. 
+Introduction to measuring instruments.
+
+
+EEE 251: Fundamentals of Electronic & Electrical Engineering I [2-1-0 (3 units)] 
+Basic Concepts. 
+Basic Laws. 
+Methods of Analysis. 
+Circuit Theorems. 
+Energy Storage Elements: capacitors and inductors.
+First-Order Circuits.
+Second-Order Circuits. 
+Sinusoids and Phasors.
+Magnetically Coupled Circuits. 
+AC Power Analysis. 
+Three-Phase Circuits.
+
+
+EEE 252: Fundamentals of Electronic & Electrical Engineering II [2-1-0 (3 units)] 
+Analysis of Nonlinear Circuits. 
+Diode and Diode Circuits. 
+Discrete Transistor Circuits. 
+Bipolar Junction Transistors. 
+Field-Effect Transistors. 
+MOSFET as a Switch.
+Basic Operational Amplifiers Circuits . 
+Frequency Response.
+
+
+EEE 253: Electronic an d Electrical Materials [2-0-0 (2 units)] 
+Fundamentals of Electron Theory. 
+The Wave-Particle Duality. 
+The Schrodinger Equation; solution of the Schrodinger Equation for Specific Problems. Energy Bands in Crystals; Electrons in a Crystal.
+Electrical Properties of Materials: Electrical Conduction in Metals and Alloys; Semiconductors; Electrical Properties of Polymers, Ceramics, Dielectrics, and Amorphous Materials. 
+Optical Properties of Materials: The Optical Constants; Atomistic Theory of the Optical Properties; Quantum Mechanical Treatment of the Optical Properties. 
+Magnetic Properties of Materials: Magnetic Phenomena and Their Interpretation �Classical Approach; Quantum Mechanical Considerations. 
+Thermal Properties of Materials: Fundamentals of Thermal Properties; Heat Capacity; Thermal Conduction; Thermal Expansion.
+
+
+EEE254: Introduction to Computer Packages [1-0-3 (2 units)] 
+The LabVIEW environment and graphical data flow programming.
+Real-time control of hardware using LABVIEW. 
+State machines in LABVIEW. 
+Introduction to electronic component modelling and simulation in SPICE. 
+Modelling of simple passive and active circuits in SPICE. 
+Modelling of small signal circuits in SPICE. 
+The Matlab environment. 
+Matlab Syntax and Semantics. 
+Scripts and Functions.
+Specific Matlab Toolboxes. 
+Introduction to Simulink.
+
+
+EEE 281: Electronic and Electrical Engineering Laboratory I [0-0-3 (1 units)] 
+Laboratory experiments to accompany the course, 'Fundamentals of Electronic and Electrical Engineering I'.
+
+
+EEE 291: Applied Electricity Laboratory I [0-0-3 (1 units)] 
+Laboratory experiments to accompany the course, 'Applied Electricity I'. Taken by students of other departments in the Faculty of Technology.
+
+
+EEE282: Electronic and Electrical Engineering Laboratory II [0-0-3 (1 units)] 
+Laboratory experiments to accompany the course Fundamentals of Electronic and Electrical Engineering II.
+
+
+EEE 292: Appli ed Electricity Laboratory II  [0-0-3 (1 units)] 
+Laboratory experiments to accompany the course, 'Applied Electricity II'. Taken by students of other departments in the Faculty of Technology.
+
+
+CHE 305: Engineering Analysis I ]2-1-0 (3 units)] 
+Linear algebra elements of matrices, determinants, inverse of matrix, theory of linear equations, eigenvalues and eigenvectors.
+Analytical geometry coordinates transformation � solid geometry, polar, cylindrical and spherical coordinates.  
+Elements of functions of several variables, surface variables. 
+Ordinary integrals and multiple integrals. 
+Evaluation of double integrals, triple integrals, line integrals, surface integrals.  
+Derivation and integrals of vectors.
+The gradient of scalar quantities. 
+Flux of vectors.  
+The curls of a vector field, Gauss, Green�s and Stocks� theorems and applications.
+Single-valued functions.
+Multi -valued functions.
+Analytic functions Cauchy-Riemann equations.  
+Singularities and zeros.  
+Contour integration including the use of Cauchy�s integral theorem.  
+Bilinear transformation.
+
+
+CHE 306: Engineering Analysis II [2-1-0 (3 units)] 
+Series solution of second order linear differential equations with variable coefficients.  Bessel and Legendre equations. 
+Equations with variable coefficients. 
+Strum-Louiville boundary value problems.
+Solutions of equations in two or three dimensions by separation of variables. 
+Eigenvalue problems.  
+Use of operations in the solution of partial differential equations and linear integral equations.  Mellin and Handel transforms.  
+Convolution integral and Hilbert transforms. 
+Simple mathematical modelling in Engineering leading to nonlinear and ordinary differential equations.
+Numerical methods for solution of nonlinear equation: Bisection, fixed-point, Newtown-Raphson, Aitken, etc.  
+Simple programming using MATLAB, MAPLE and MATHEMATICAL.
+Calculus of finite differences: Forward, Backward and Central differences.  
+Interpolation formulae.  
+Finite difference equations.
+Runge-kutta and other methods in the solution of ordinary and partial differential equations.  Numerical integration and differentiation.
+
+
+AEE 302: Statistics for Engineers [2-0-0 (2 units)] 
+Statistical concepts, probability and distribution functions, normal distribution.  
+Tests of hypotheses and significance testing of means, independent and paired/correlated samples studies, confidence interval.  
+Completely randomized design (one-way ANOVA), completely  randomized block design (two -way ANOVA).  
+Factorial experimental design.
+
+
+EEE 351: Microelect ronic Devices and Circuits I [2-1-0 (3 units)] 
+Semiconductor Physics and IC Technology: Charge Carriers, Carrier Transport, Silicon Integrated Circuit; IC Resistor. 
+PN Junction and MOS Electrostatics: Semiconductor Electrostatics in Thermal Equilibrium; PN Junction in Thermal Equilibrium; PN Junction in Reverse Bias; MOS Structure. 
+METAL Oxide Semiconductor Field Effect Transistor: Structure and Operation; MOSFET Current-Voltage and Capacitance-Voltage Characteristics; MOSFET Equivalent Circuit Models.
+CMOS Digital Circuits: The Inverter; MOS Inverter Circuits; CMOS Circuits.
+
+
+EEE 352: Microelectronic Devices and Circuits II [2-1-0 (3 units)] 
+PN Junction Diode: Structure and Operation; Current -Voltage
+Characteristics; Equivalent Circuit Model. 
+Bipolar Junction Transistors: Structure and Operation of BJT; Current -Voltage
+Characteristics; Forward Active Regime; Other Regimes of Operation; BJT Equivalent Circuit Models. 
+Transistor Amplifiers: Single Stage Bipolar/MOS Transistor Amplifier; DC Voltage and Current Source; Multistage Transis tor Amplifiers; Frequency Response of Amplifier; Analyzing Complex Amplifiers, Differential Amplifiers, Feedback and Operational Amplifiers.
+
+
+EEE 353: Electrical Machines I [2-1-0 (3 units)] 
+Introduction. 
+Principles of windings.  
+Transformers. 
+Principles of electromechanical energy conversion. 
+Principles of Rotating
+Machines. 
+D.C. Machines.
+
+
+EEE 354: Electrical Machines II [2-1-0 (3 units)] 
+Introduction to Power Electronics. 
+Induction Machines.
+Synchronous Machines. 
+Special Machines: Single and two -phase machines; Reluctance machines.
+
+
+EEE 355: Computational Structures I [2-0-0 (2 units)] 
+Introduction to computation and computing machine. 
+Computation as a form of information processing. 
+Digital (signal and system) abstraction. 
+Number system representations. 
+Truth functions and Boolean algebra. 
+Switching devices and combinational circuits.
+Reconfigurable / programmable logic circuits. 
+Sequential circuits and Finite State Machine. 
+Synthesis of digital systems. 
+Important considerations in VLSI or IC designs.
+ 
+
+EEE 356: Computational Structures II [2-1-0 (3 units)] 
+Designing an Instruction Set. 
+Machine Language, Assemblers and Compilers. 
+Programmability. 
+Stacks and Procedures. 
+Memory Hierarchy and Cache Issues. 
+Virtual Memories and Virtual Machines. 
+Devices and Interrupts. 
+Interconnect and Communication.
+Processes, Synchronization and Deadlock. 
+Pipelining and Parallel Processing
+
+
+EEE 357: Group Design I [0-0-3 (1 units)] 
+Working in small groups, students must demonstrate teamwork and apply engineering design principles to solve an engineering problem or develop a product from specifications.
+
+
+EEE 358: Electromagnetic Theory [2-1-0 (3 units)] 
+Review of Electrostatics. 
+Review of Magnetostatic Fields.
+Ferromagnetic media. 
+Boundary Value Problems. 
+Time Varying Electromagnetic Field. 
+Maxwell�s Equations and its Applications.
+Waves: Solution of wave equations. 
+Scattering of Waves at Boundaries.
+
+
+EEE 359: Signals and Systems [2-1-0 (3 units)] 
+Signals and systems. 
+System properties. 
+Fourier series. 
+Fourier transform. 
+Sampling o f continuous time signals. 
+Laplace transform and applications. 
+Feedback systems. 
+Z-transforms and applications.
+
+
+EEE 360: Measurement and Instrumentation [2-1-0 (3 units)] 
+Instrument Types and Performance Characteristics. 
+Errors during the Measurement Process. 
+Calibration. 
+Measurement Noise and Signal Processing. 
+Electrical Indicating and Test Instruments. 
+Variable Conversion Elements. 
+Signal Transmission. 
+Digital Computation and Intelligent Devices. 
+Display, Recording and Presentation of Measurement Data. 
+Measurement Reliability and Safety Systems.
+Measurement Sensors and Instruments.
+
+
+EEE 361 : Electric Circuit Theory [2-0-0 (2 units)] 
+Fundamentals: Kirchhoff�s Laws; Linear and nonlinear elements and
+circuits; Tellegen�s Theorem; Passive Circuits. 
+Circuit Dynamics: Order, formulation, and solution of state equations. 
+Properties in frequency Domain: Reciprocity; poles and zeros; transfer function; gain-phase relation 'sensitivity function� linear phase and group delay. 
+Impedance Function: positive real functions; impedance removal. 
+Synthesis of two element impedance: RL, RC, LC Impedances.
+
+
+EEE 362: Start-up for Electronic and Electrical Engineers [1-0-0 (3 units)] 
+Engineers as Technological Entrepreneurs. 
+Soft Skills. 
+The World of Business. 
+Intellectual Property: IP Generation and Recording; Basics of Patenting; IP Management and Global IP Protection. 
+Invention to Product: Timeline and Processes; Business Plan Fundamentals; Financial Aspects of Running a Small Business; Marketing; Feasibility Analysis and Opportunity Assessment. 
+Government Policies and Incentives for SMEs and entrepreneurs. 
+Getting Started; Exit Strategies. 
+Development of a business plan centered on Group Design I project. 
+Final presentations and report submission by students and feedback by a panel of evaluators.
+
+
+EEE 381: Electronic and Electrical Engineering Laboratory III [0-0-6 (2 units)] 
+Laboratory experiments on microelectronic device and circuits, electrical machines, computational structures, electric circuit theory, and signals and systems.
+
+
+EEE 382: Electronic and Electrical Engineering Laboratory IV [0-0-6 (2 units)] 
+Laboratory experiments on microelectronic devices and circuits, electrical machines, electromagnetic theory, and measurement and instrumentation.
+
+
+CVE 401: Technical Report Writing [2-0-0 (2 units)] 
+Role of technical reports in engineering projects. 
+Fundamental principles of technical writing. 
+Formats of different types of reports - outlines, purpose and scope, technical discussion details, role of appendix, function of figures, tables and illustrations.
+Literature search, references (citing and listing). 
+Nature of recommendations and conclusions. 
+Guides of writing memoranda, business letters. 
+Oral presentation of technical reports. (One or two team papers to be prepared on assigned work).
+
+
+EEE 451: Group Design II [0-0-3 (1 units)] 
+Working in small groups, students must demonstrate teamwork and apply engineering design principles to solve an engineering problem or develop a product from specifications.
+At this level, there must be an added emphasis on marketability and fitness for purpose of developed solutions or products.
+
+
+EEE 453: Electric Power Principles [2-1-0 (3 units)] 
+Introduction to Power Systems. 
+Properties of Three-Phase Systems.
+Energy Sources. 
+Components of Power Generating System.
+Transmission Lines and Underground Cables. 
+Design and Organization of Power Stations. 
+Economic operation of power generation.
+
+
+EEE 455: Analog Circuit Design [2-1-0 (3 units)] 
+Review of basic concepts; Synthesis of RLC Impedance. 
+ScatteringMatrix: resistive and impedance terminations; gain -bandwidth
+limitation, impedance and admittance matrix; Synthesis of transfer
+function. 
+Filter Design: filter function, Butterworth, Chebyshev, elliptic filters; loss sensitivity. 
+Frequency Transformation. 
+Circuit design by Optimization: Formulation of design problem; solution strategy - steepest descent, Newton�s method, least square�s method, Computation of gradient and Hessian Matrix; examples of design.
+All-pass Circuits: all-pass transfer function; realizations of all-pass transfer function; lumped delay line; wide-band 90 degree phase circuit; delay equalizer.
+
+
+EEE 457: Introduction to control engineering  [2-1-0 (3 units)] 
+Control concepts. 
+Review of Laplace Transforms. 
+Modelling in the frequency domain. 
+Modelling in the time domain. 
+Time response.
+Graphical modelling of control systems. 
+Stability. 
+Steady state errors.
+
+
+EEE 459: Communication Principles [2-1-0 (3 units)] 
+Basic concepts of a communication system � Source, channel and user. 
+Baseband signals and systems analysis: Fourier series, Fourier transforms Impulse response, frequency response, Distortion and Group delay. 
+Amplitude modulation and demodulation methods.
+Comparison of AM systems. 
+Angle modulation and demodulation;
+Wideband and narrowband FM, Sampling principles, theorems and techniques. 
+Quantization; Companding, Pulse modulation: PAM, PWM and PCM. 
+Delta modulation, adaptive delta modulation, differential PCM. 
+Data transmission and reception: Binary ASK, FSK, and PSK; M-Ary FSK and PSK, QAM.
+
+
+EEE 461: Applied Quantum Mechanics I [2-1-0 (3 units)] 
+Introduction. 
+Waves and quantum mechanics � Schr�dinger�s equation. 
+The time-dependent Schr�dinger equation. 
+Functions and operators. 
+Operators and quantum mechanics. 
+Angular momen tum.
+The hydrogen atom. 
+Methods for one-dimensional problems. 
+Spin.
+Identical particles. 
+Quantum information. 
+Quantum mechanical measurements and wave function collapse. 
+Quantum communication and cryptography. 
+Quantum computing. 
+Quantum teleportation.
+
+
+EEE 463: Probability and Random Processes [2-1-0 (3 units)] 
+Axiomatic probability theory. 
+Discrete and continuous random variables. 
+Functions of random variables. 
+Generating functions and transform methods. 
+Inequalities, bounds and large deviation theory.
+Convergence and limit theorems. 
+Random processes. 
+Spectral representation. 
+Gaussian processes. 
+Poisson processes. 
+Markov chains; random walk.
+
+
+EEE 481: Electronic and Electrical Engineering Laboratory V [0-0-6 (2 units)] 
+Laboratory experiments in communications engineering, control engineering, electrical machines and high voltage systems, and solid-state electronics.
+
+
+TPD 501: Industrial and Engineering Economics [2-0-0(2 units)] 
+Basic concepts, factors of productions, supply and demand, price
+elasticity analysis, business organization.  
+The business firm production functions, price system and competition. 
+Basic principles of engineering economy, cost concepts and analysis.
+Interests calculations, concept of equivalence and money-time relationships.
+Basic methods of engineering economy and their applications in valuation.
+Evaluating alternatives.  
+Depreciation, taxation and replacement studies.
+Capital Budgeting.
+
+
+TPD 502: Technology Policy [2-0-0 (2 units)] 
+The course content includes: Science, Technology and Development.  
+Technological change and industrial development, government intervention in S & T in Nigeria and other developing countries, S & T Policy formulation and implementation.  
+Policy statement, policy targets, policy instruments and strategies, monitoring devices and policy review technological capability and transfer of technology.
+
+
+TPD 503: Production / Operations Management and Industrial Law [2-0-0 (2 units)] 
+Principles of management.  
+Decision theory.  
+Basic concepts in production and operations management.  
+Plant location and facility layout.  
+Capacity management, inventory control, scheduling and network analysis.  
+Quality control, replacement problems.
+Functions of Law; Basic principles of Nigerian Law of Basic principles of Nigerian, Engineers and Law of Contract; Law of Business Associations; Trademarks and Patents.
+
+
+EEE 550: Reliability Engineering [2-0-0 (2 units)] 
+Introduction to Reliability, maintainability, availability, elementary reliability theory. 
+Application to power systems and electronic components. 
+Test characteristics of electrical and electronic components. 
+Types of fault. 
+Designing for higher reliability. 
+Packaging, mounting, ventilation.
+Protection from humidity, dust.
+
+
+EEE 551: Independent Project I [0-0-9 (3 units)] 
+Final capstone project: Each student must undertake a project under
+the supervision of a lecturer, submit a comprehensive project report
+and present a seminar at the end of the year.
+
+
+EEE 552: Independent Project II [0-0-9 (3 units)] 
+Final capstone project: Each student must undertake a project under the supervision of a lecturer, submit a comprehensive project report and present a seminar at the end of the year.
+
+
+EEE 553: Classical Control [2-1-0 (3 units)] 
+Root locus technique. 
+Frequency response analysis using Nyquist and Bode techniques. 
+Design of PID, lag, lead, controllers using root locus, Bode and Nyquist techniques. 
+Controller classification and characteristics. 
+Control of fluid systems.
+
+
+EEE 554: Digital Sig nal Processing [2-1-0 (3 units)] 
+Discrete-Time Systems and Sampling. 
+Z-Transforms. 
+Discrete Fourier Transform and Fast Fourier Transform. 
+Digital Processors.
+Digital Filters. 
+Introduction to Spectral Analysis. 
+Introduction to Adaptive Filtering. 
+Introduction to Signal Compression.
+
+
+EEE 555: Power Electronics [2-1-0 (3 units)] 
+Introduction to power semiconductor switches. 
+Power Converters: Introduction to power converters; AC -to-DC conversion
+(rectification); half-wave, full-wave single-phase and three-phase rectification; DC -to-DC conversion (Choppers) - buck, boost and bock -boost choppers; AC -to-AC conversion (cyclo-converters); DC-to-AC conversion (inversion). 
+Applications of Power Semi-Conductor Circuits: HVDC transmission link; regulated power supplies; uninterruptible power supplies; d-c and a-c drives.
+
+
+EEE 556: Electrical Services and Energy Utilization [2-0-0 (2 units)] 
+Design and organization of power supply. 
+Electrical utilization and installation in residential buildings. 
+Lighting systems and installation.
+Electrical utilization and installation in industries. 
+Regulations on installation and operation of electrical equipment. 
+Metering and tariff systems.
+
+
+
+
+EEE 557: Radio Frequency Electronics [2-1-0 (3 units)] 
+Radio spectrum. 
+ITU and spectrum management. 
+Transmission lines and scattering parameters. 
+Design of RF components (low noise amplifiers, power amplifiers, oscillators, RF power detector, active and passive mixers). 
+Properties and representation of noise. 
+Passive device design (microstrip lines). 
+Active device design (bipolar and FET). 
+Parametric amplifiers. 
+Microwave solid state components.
+TWT, klystrons and their applications.
+
+
+EEE 558: Wireless Communication Systems [2-1-0 (3 units)] 
+Analogue and digital cellular radio. 
+Techniques for increasing capacity including cell division, multiple access techniques (TDMA, CDMA), speech compression, and discontinuous transmission.
+Direct sequence and frequency hopped spread spectrum systems.
+Radio wave propagation models. 
+Intelligent antenna systems. 
+Traffic considerations for cellular radio. 
+Packet switched data access to the Internet and information services via wireless modems.
+
+
+EEE 559: Antenna System Design and Analysis [2-1-0 (3 units)] 
+Fundamentals of electromagnetic radiation from wire and aperture-type antennas.
+Applications of field equivalence principles to aperture radiation. 
+Receiving antennas and noise evaluation of communication systems. 
+Antenna test equipment and measurement techniques.
+
+
+EEE 560 : Optical Communication Systems [2-1-0 (3 units)] 
+Theory, analysis, and design of optoelectronic communication techniques. 
+Multimode and mono-mode optical fibres examined for loss, dispersion, and practical considerations. 
+Couplers and Splices.
+Optical receiver, transmitter, and repeaters presented with an introduction to optical signal processing.
+
+
+EEE 561: Computational Electromagnetics [2-1-0 (3 units)] 
+Systematic discussion of useful numerical methods in computational electromagnetics including integral equation techniques and differential equation techniques, both in the frequency and time domains. 
+Hands -on experience with numerical techniques, including the method of moments, finite element and finite-difference time-domain methods, and modern high order and spectral domain methods.
+
+
+EEE 562: Microwave Electronic Circuits [2-1-0 (3 units)] 
+Microwave circuit analysis and design techniques. 
+Properties of planar transmission lines for integrated circuits.
+Matrix and computer-aided methods for analysis and design of circuit components. Microwave Semiconductor Devices. 
+Microwave Integrated Circuits: Circuit forms, transmission lines for MICs, Materials for MIC, fabrication.
+
+
+EEE 563: Digital Communication Systems [2-1-0 (3 units)] 
+Measure of Information, entropy, and channel capacity. 
+Source coding and data compression methodology using Huffman coding.
+Digital modulation techniques. 
+Different channel coding and decoding techniques (including single error and multiple errors block codes and non-block codes). 
+Transmission over bandwidth constrained channels. 
+Signal fading and multipath effects. 
+Spread spectrum.
+Cryptography.
+
+
+EEE 564: Data Communication and Networking [2-1-0 (3 units)] 
+Introduction to digital communications, transmission media, wireless media, physical layer  interfaces, RS 232 / EIA 232/ USB.
+Communication modes, transmission modes, multiplexing, error control methods. Introduction to packet switching, types of services, network architectures; network topologies; OSI model, TCP/ IP model. 
+Internet protocols: Local area networks, Access Protocols, Access methods, Operating Modes, Wireless interconnection devices, wireless personal area network. 
+Structured cabling and specifications, network security, user access technologies. 
+Wired: xDSL, Fiber to the Home (FTTH), Cellular wireless.
+
+
+EEE 565: Satellite Communication Systems [2-1-0 (3 units)] 
+Basics and applications of satellites. 
+Orbits and launching methods.
+Antenna Look Angles, Limits of visibility, Earth Eclipse of satellite, Sun transit and Launching Orbits, Antennas. 
+Design con siderations, Lifetime and Reliability. 
+Space Craft Sub-system, Payload, Bus and TT&C. 
+Multiple Access Techniques. 
+Earth Stations including Feed and Tracking Systems. 
+LNA and HPA. 
+FSS, MSS and BSS stations.
+Non-GEO Satellite Systems for Communication. 
+Space Link (including Uplink, Downlink, Losses and Noise consideration).
+
+
+EEE 566: Applied Electromagnetic Principles [2-1-0 (3 units)] 
+Review of transmission line theory. 
+Stub matching techniques.
+Quarter wave impedance transformers. 
+Waveguides; Propagation and attenuation in rectangular waveguides; guide terminations. Resonant cavities including coupling and tuning. 
+Planar structures: microstrip circuits and microwave integrated circuits (MIC).
+
+
+
+EEE 567: Introduction to Modern Control [2-1-0 (3 units)] 
+State Space Modelling, Realizations and Analysis. 
+State Space Design. 
+Stability of Linear Systems. 
+Introduction to Optimal Control Theory and Application.
+
+
+EEE 568: Non-linear Control Systems [2-1-0 (3 units)] 
+Introduction to Nonlinear Systems and Nonlinearities.
+Modelling and Analysis of Nonlinear Systems. 
+Stability analysis of non-linear systems. 
+Nonlinear Discrete-Time Systems. 
+Introduction to Nonlinear Control System Design. 
+Feedback Linearization. 
+Sliding Control.
+
+
+EEE 569: Instrumentation Engineering [2-1-0 (3 units)] 
+Design of Measurement Systems. 
+Workplace and equipment design.
+User experience design. 
+Reliability, Availability, Maintainability & Safety (RAMS). 
+Factors affecting systems reliability. 
+Improving reliability. 
+Highly Accelerated Life Testing (HALT). 
+Miniature Instrumentation. 
+Wireless Sensor Networks. 
+Safety.
+
+
+EEE 570: Industrial Automation [2-1-0 (3 units)] 
+Basic principles and strategies of automation. 
+Overview of manufacturing operations. 
+Basic elements of an automated system.
+Overview of industrial control systems. 
+Hardware components; sensors, actuators, ADC, DAC. 
+Logic control systems.
+Programmable Logic Controllers. 
+Microcontrollers. 
+Industrial robotics. 
+NC technology. 
+Flexible manufacturing systems .
+Computer Integrated Manufacturing.
+
+
+EEE 571: Bioinstrumentation [2-1-0 (3 units)] 
+Basic concepts of medical instrumentation. 
+Basic sensors and principles.
+Amplifiers and signal processing. 
+Biopotentials. 
+Blood pressure, flow, volume, and sound. 
+Chemical biosensors. 
+Clinical laboratory instrumentation. 
+Therapeutic and prosthetic devices.
+Electrical safety.
+
+
+EEE 572: Multivariable Control [2-1-0 (3 units)] 
+Matrix Theory and Norms. 
+Introduction to Multivariable Control.
+Limitations on Performance in MIMO Systems. 
+Multivariable Control System Design. 
+Introduction to Optimization. 
+Classical Optimization Techniques.
+Handling Optimization in Control System Design (Optimal Control Theory).
+
+
+EEE 573: Introduction to Robotics [2-1-0 (3 units)] 
+Coordinate systems. 
+Affine space. 
+Polynomial trajectories. 
+Rotations and transformations. 
+Euler parameters, quaternions. 
+Forward and inverse kinematics. 
+Jacobians. 
+Inverse kinematic velocities and accelerations. 
+Statics, Dynamics. 
+Non-holonomic path planning.
+PID, force, and operational space control.
+
+
+EEE 574: Introduction to Mechatronics [2-0-3 (3 units)] 
+Mechanisms, actuators and drives. 
+Control components.
+Microcontroller hardware and programming. 
+Control Software.
+Computer Vision. 
+Tele-robotics and virtual reality. 
+Human robot interaction. 
+Class project: design of a mechatronic system, preferably an automated or robotic system.
+
+
+EEE 575: Machine Learning [2-1-0 (3 units)] 
+Introduction. 
+Probability Distributions. 
+Linear Models for Regression. 
+Linear Models for Classification. 
+Neural Networks.
+Kernel Methods. 
+Sampling. 
+Combining models.
+
+
+EEE 576: System Identification and Adaptive Control [2-1-0 (3 units)] 
+Linear, Time -Invariant Systems. 
+Simulation and Prediction. 
+Models of LTI Systems. 
+Models of Time -Varying and Nonlinear Systems.
+Non-Parametric Time and Frequency-Domain Methods. 
+Parameter Estimation Methods. 
+Convergence and Consistency. 
+Asymptotic Distribution of Parameter Estimates. 
+Computing the Estimate. 
+Model Structure Selection and Model Variation. 
+Introduction to Adaptive Control. 
+Gain-Scheduling Control. 
+Continuous-Time Model-Reference Adaptive Control. 
+Adaptive Pole Placement Control.
+
+
+EEE577: Intelligent Control [2-1-0 (3 units)] 
+Review of Classical and Modern Control. 
+Digital Control Systems.
+Hierarchical Control Architectures. 
+Fuzzy Logic and its Application in Control. 
+Neural Network and Neural Control.
+Evolutionary Algorithms. 
+Expert and planning System.
+
+
+
+EEE 578: High Voltage Engineering [2-1-0 (3 units)] 
+Switching over-voltages. 
+Propagation of surges in high voltage transmission lines and transformers. 
+Concept of breakdown in gases, vacuum, liquids and solids. 
+Preventive testing of insulation.
+
+
+EEE 579: Power System Engineering I [2-1-0 (3 units)] 
+Overhead Transmission Lines. 
+Power Flow Analysis.  
+Faults in Power Systems.
+
+
+EEE 580: Power Systems Engineering II [2-1-0 (3 units)] 
+Power System Stability. 
+Power System Protection. 
+Power System Planning.
+
+
+EEE 581: Renewable Energy I [2-1-0 (3 units)] 
+Overview of Energy Production and Usage. 
+Renewable energy systems. 
+Renewable Energy Harvesting. 
+Economics of Energy Generation and Utilization. 
+Renewable Energy Types. 
+Term Paper: Students can (a) conduct literature search on any topic of interest in renewable energy systems and write a term paper on the review, or (b) critique a paper on any topic of interest in renewable energy technology and write a term paper on it.
+
+
+EEE 582: Renewable Energy II [2-1-0 (3 units)] 
+Renewable Energy Integration and Management. 
+Challenges of renewable energy integration. 
+Introduction to Smart Energy System: Fundamentals of Smart Grid; Real-time measurement for smart grid.
+Design Project: Renewable energy software. Students will be
+expected to use available renewable energy software or develop new ones.
+
+
+EEE 583: Smart Power Systems [2-1-0 (3 units)] 
+Energy Conversion Principles. 
+Fundamentals of Smart Grid. 
+Energy System Controls. 
+Smart Energy Meters. 
+Real Time Measurement for Smart Grid. 
+Communication, Protocol, Standards, Security, and Protection of Smart Grid Devices.
+
+
+EEE 584: Machine Design [2-1-0 (3 units)] 
+A review of 3 -phase Transformers. 
+D-C Machines and speed control.
+Polyphase Induction Machines: characteristics, starting techniques and speed control schemes including static inverter drives and slip-energy recover principles. 
+Synchronous machines: cylindrical rotor machine and two-axis theory of salient pole synchronous machines and synchronizing phenomena. 
+Generalized machine theory: 3 -phase to 3-phase, 3 -phase to 2-phase orthogonal transformations. 
+Special Machines: Linear Induction machines, commutator machines, stepping.
+
+
+
+
+EEE 585: A pplied Quantum Mechanics II [2-1-0 (3 units)] 
+Review of fundamentals of Quantum Mechanics.  
+Approximation methods in quantum mechanics. 
+Time-dependent perturbation theory. 
+Quantum mechanics in crystalline materials. 
+The density matrix. 
+Harmonic oscillators and photons. 
+Fermion operators.
+Interactions of different kinds type of particles. 
+Quantum Optics.
+Many-Body Effects. 
+Magnetism. 
+Application to novel quantum devices.
+
+
+EEE 586: Introduction to Nanoelectronics [2-1-0 (3 units)] 
+Current Flow. 
+Quantum Conductance. 
+Current. 
+Charging Effect. 
+I-V Characteristics. 
+Schrodinger Equation - Basic Concepts . 
+Schrodinger Equation and Finite Difference. 
+Schrodinger Equation Separation of Variables. 
+Atomic Energy Levels. 
+Charging Energy. Single vs. Multi
+Electron Picture. 
+Law of Equilibrium. 
+Covalent Bonding. 
+Bonding.
+Basis Function. 
+Band structure. 
+Density of States. 
+Modes. 
+Reciprocal Lattice. 
+Quantum Dot, wire and well. 
+Ballistic Regime Conductance.
+Resistivity. 
+Transmission Coefficient. 
+Non-Equilibrium Green's Function (NEGF) Method. 
+Transmission. 
+Non-coherent Transport.
+Spin Valve. 
+Pauli Spin Matrices. 
+Exchange Field. 
+Thermoelectricity.
+
+
+EEE 587: Semic onductor Physics and Devices [2-1-0 (3 units)] 
+Basic Characteristics of Semiconductors. 
+Electronic energy bands.
+Electronic Impurities. 
+Semiconductor Statistics. 
+Lattice vibrations in semiconductors.
+Charge carrier scattering and transport properties. 
+Surface properties of semiconductors.  
+Optical Properties of Semiconductors. 
+Magneto-optical and electro-optical phenomena. 
+P-N junctions in Semiconductors. 
+Bipolar junction Transistor. 
+Semiconductor lasers and photo devices. 
+Phonons in Superlattices. 
+Optical properties of Heterostructures. 
+Metal-Semiconductor Devices. 
+Applications of Semiconductor Heterostructures.
+
+
+EEE 588: Principles of Optoelectronics and Photonics Devices [2-1-0 (3 units)] 
+Wave Nature of Light.
+Dielectric Waveguides and Optical Fibers.
+Semiconductor Physics and LEDs.
+Stimulated Emission Devices Lasers. 
+Photodetectors. 
+Polarization and Modulation of Light.
+
+
+EEE 589: Micro and Nanoscale Fabrication Engineering [2-1-0 (3 units)] 
+Modern CMOS Technology. 
+Crystal Growth, Wafer Fabrication and Basic Properties of Silicon Wafers. 
+Semiconductor Manufacturing�Clean Rooms, Wafer Cleaning and Gettering. 
+Lithography and Photoresists. 
+Thermal Oxidation. 
+Dopant Diffusion. 
+Ion Implantation. 
+Vacuum and Plasma Physics. 
+Thin Film Deposition: Physical and Chemical Vapour Deposition. 
+Etching. 
+Other Transistor Technologies: MESFET, MMIC, BiCMOS, TFT. 
+MEMS.
+Optoelectronics and Solar technologies.
+
+
+EEE 590: Photovoltaic Devices, Technology, and Systems [2-1-0 (3 units)] 
+Solar Energy and Resource. 
+Greenhouse effect. 
+Properties of Light.
+Blackbody Radiation. 
+Solar Radiation. 
+PN Junction. 
+Generation.
+Recombination. 
+Carrier Transport. 
+Diode equation for PV. 
+Solar Cell Operation. 
+Solar Cell Parameters. 
+Resistive and other effects. 
+Design of Silicon Cells. 
+Reducing Recombination. 
+Solar Cell Structure.
+Manufacturing   of Si Cells. 
+Processing Technologies. 
+Cell Fabrication Technologies. 
+Solar Cell Production Line. 
+Modules and Arrays. 
+Interconnection Effects. 
+Temperature  Effects. 
+Other considerations. 
+Lifetime of PV modules. 
+Characterization. 
+Other IV measurements. 
+Simulation. 
+Materials Properties. 
+Thin Film Solar Cells. 
+Economic Analysis. 
+R&D Investment & Innovation in PV.
+
+
+EEE 591: Flat Panel Display Devices [2-1-0 (3 units)] 
+Information Capacity of Displays. 
+Applications of Flat Panel Displays. 
+Human Visual System. 
+Colour Vision. 
+Grassman�s laws.
+Colour transformations. 
+Cathodoluminescence. 
+Photoluminescence.
+Light Valves. 
+Physics of Liquid Crystals. 
+Passive Matrix LCDs.
+Display Addressing and Driver Circuits. 
+Amorphous Silicon Devices. 
+Poly-Silicon TFTs.  
+Active Matrix LCDs. 
+Organic Semiconductors. 
+Reflective LCDs. 
+CMOS Micro-Displays.
+
+
+EEE 592: Design and Fabrication of Microelectromechanical Devices and Systems [2-1-0 (3 units)] 
+Introduction to MEMS. 
+Microfabrication for MEMS. 
+Fabrication for the life sciences. 
+Material properties. 
+Elasticity. 
+Structures.
+Electronics. 
+Lumped-element modeling. 
+Energy-conserving transducers. 
+Linear and Nonlinear Dynamics. 
+Thermal Energy Domain. 
+Modeling dissipative processes. 
+Fluids. 
+Mass transport in liquids. 
+Microfludics. 
+Feedback. 
+Noise. 
+Wafer Bonding and Packaging. 
+Design tradeoffs. 
+Power MEMS case study. 
+Optical MEMS case study. 
+Capacitive accelerometer case study. 
+BioMEMS.
+Lab-on-a-Chip case study. 
+Micromechanical Resonators.
+Electrostatic Actuators.
+
+
+EEE 593: Organic Electronics: Materials, Devices, and Processes [2-1-0 (3 units)] 
+Semiconductor Synthesis and Characterization. 
+Electronic Structure.
+Charge Transport.
+Organic Pho tovoltaic Devices.
+Introduction to Organic Light emitting Devices (LEDs). 
+Introduction to Flexible Electronics. Introduction to Macroelectronics.
+
+
+EEE 594: Semiconductor Power Devices and Integrated Circuits [2-1-0 (3 units)] 
+Introduction to Power Semiconductor Devices. 
+Material Properties and Transport Physics. 
+Breakdown Voltage. 
+Schottky Rectifiers. 
+P-I-N Rectifiers. 
+Power MOSFETs. 
+Bipolar Junction Transistors.
+Thyristors. 
+Insulated Gate Bipolar Transistors; Applications.
+
+
+EEE 595: Digital Integrated Circu it Design  [2-1-0 (3 units)] 
+Introduction to CMOS Design. 
+The Well. 
+The Metal Layers. 
+The Active and Poly Layers. 
+Layout of Resistors, Capacitors, MOSFETs.
+MOSFET Operation. 
+CMOS Fabrication. 
+Model for Digital Design.
+The Inverter. 
+Static Logic Gates. 
+Clocked  Circuits. 
+Dynamic Logic Circuits. 
+Dynamic Logic Gates. 
+VLSI Layout Examples. 
+Memory Circuits. 
+Sensing using Modulation. 
+Special Purpose CMOS Circuits. 
+Digital Phase-Locked Loops.
+
+
+EEE 596: Analog Integrated Circuit Design  [2-1-0 (3 units)] 
+Introduction to Technology. 
+Analog Circuit Modelling. 
+Analog Sub circuits. 
+Amplifiers. 
+Operational Transconductance Amplifiers. 
+High Performance Op Amps. 
+Comparators. 
+Switched Capacitor Circuits.
+Digital-Analog & Analog -Digital Converters.
+
+
+EEE 598: Radio Frequency Integrated Circuit Design [2-1-0 (3 units)] 
+Basic Concepts in RF Design. 
+Communication Concepts.
+Transceiver Architectures. 
+Low-Noise Amplifiers.
+Mixers. 
+Passive Devices. 
+Oscillators. 
+Phase-Locked Loops. 
+Integer-N Frequency
+Synthesizers. 
+Fractional-N Synthesizers. 
+Power Amplifiers.
+Transceiver Design Example.
+

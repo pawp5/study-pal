@@ -1,0 +1,241 @@
+CVE 202 - STRENGTH OF MATERIALS (2-0-3 = 3 units)
+Further analysis of shearing force and bending moments in beams. 
+Direct stresses due to load and temperature. 
+Loading tests of ductile and brittle 
+Elastic constants. 
+Modified young modulus.  
+Poisson's ratio.  
+Properties of beam sections. 
+Deflection of beams.
+Torsion of shafts.  
+Bending of curved bars and rigid frames. 
+Buckling of struts and columns.
+
+CVE 301 - SURVEYING I (2-0-3 = 3 units)
+Introduction - Principles of survey operations 
+	     - Classification of survey methods, instruments and their uses.  
+Theory of survey measurements - Linear measurements
+                              - Chain surveying.  
+Angular measurements - Compass survey.  
+Introduction to theodolite traversing - Levelling
+				      - Calculation of areas 
+				      - Plane table surveys, tacheometric surveys, simple triangulation and trilateration 
+				      - Introduction to Photogrammetry and Remote Sensing.
+
+CVE 302 - SURVEYING II (2-0-3 = 3 units)
+Principles of route design and route location - Levelling, cross sectioning and profiling 
+					      - Computations involving horizontal and vertical curves 
+					      - Computation of earthwork quantities 
+					      - Development of mass haul diagrams 
+					      - staking of slopes and buildings 
+					      - Methods of triangulation observation and adjustment
+					      - Photogrammetric and remote sensing techniques in highway engineering
+					      - Introduction to hydrographic surveys 
+					      - Principles of astronomy 
+					      - Map projections.  
+Introduction to Highway Engineering.
+
+CVE 303 - INTRODUCTION TO CIVIL ENGIENEERING PRACTICE (0-0-2 = 1 units)
+Civil Engineering as a profession - functions, training and responsibilities.  
+Overview of the sub-disciplines of civil engineering.  
+States of engineering project execution, including conception, feasibility studies, detailed design, preparation of Bill of Quantities and contract documents.  
+Roles of different grades of workers on a project - labourers, artisans, technologists, engineers, project planning.
+
+CVE 304 - MATERIALS FOR CIVIL ENGINEERING CONSTRUCTION (2-0-0 = 2 units)
+Concrete Technology: Physical and rheological properties of concrete.  
+Properties of components of concrete - cement, aggregate, water and admixtures, concrete mix. 
+Design methods of production of asphalt, cement, tars, bitumen and emulsion: their properties and uses.  
+Properties of timber, glass, plastics, asbestos, clay bricks and other construction materials.
+
+CVE 305 - HYDROLOGY (2-0-3 = 3 units)
+The hydrologic cycle, history of hydrology, scope and application of hydrology; climatic measurements, precipitation and precipitation analysis; analysis of hydrologic data including statistical inferences; infiltration, evaporation and evapotranspiration; Runoff and hydrograph analysis; stream and reservoir routing; Groundwater analysis including well hydraulics; Design criteria for hydraulic projects.
+
+CVE 306 -  STRUCTURAL ANALYSIS I (2-1-0 = 3 units)
+Reactions, shears, moments and deflections in beams, trusses and frames under fixed and moveable 
+loads, influence lines and loading criteria, analysis of simple statically indeterminate structures.
+
+CVE 308 - DESIGN OF CONCRETE STRUCTURES I (2-0-3 = 3 units)
+Limit State design - general assumptions, code BS:8110: Material and loads.  
+Serviceability limit states.
+Rules for arrangement of reinforcement.  
+Singly reinforced beams - rectangular and flanged sections. 
+Doubly reinforced beams.  Curtailment of reinforcement.  
+Shear in beams; torsion and shear.  
+Columns - interaction of bending and compression.  
+One-way spanning slabs.
+One-way ribbed slabs, Student project.
+
+CVE 310 -  BASIC CIVIL ENGINEERING (For non-civil engineers)(2-0-0 = 2 units)
+Relevance of the course to non-civil engineers.  
+Principles of surveying, elements of soil mechanics timber, steel and reinforced concrete structures, concrete mixes.  
+Outline of structural design in concrete and steel structures.  
+Design of foundations or concrete pads for equipment.
+
+CVE 394 - MATERIALS FOR CIVIL ENGINEERING CONSTRUCTION LABORATORY (0-0-3 = 1 units)
+Determination of the specific gravity of cement powder, standard consistency of cement paste; initial setting time and final setting time of Portland cement.  Evaluation of the soundness of Portland cement.  
+Conduction of the grading analysis of fine aggregates.  
+Determination of the aggregate crushing value of coarse aggregates; workability of fresh concrete by the slump test and compacting factor; modulus of rupture for plain concrete specimen by conducting a bending test; moisture content of a given timber specimen and its dry density; modulus of rupture of timber specimen; specific gravity of bituminous materials; consistency, durability and temperature susceptibility of asphalt cement.  
+Preparation of highway surfacing material
+
+CVE 401 -  TECHNICAL REPORT WRITING (2-0-0 = 2 units)
+Role of technical reports in engineering projects.  
+Fundamental principles of technical writing.  
+Formats of different types of reports - outlines, purpose and scope, technical discussion details, role of appendix, function of figures, tables and illustrations.  Literature search, references (citing and listing).  
+Nature of recommendations and conclusions.  
+Guides of writing memoranda, business letters.  
+Oral presentation of technical reports.  
+(One or two team papers to be prepared on assigned work).
+
+CVE 403 - HYDRAULIC ENGINEERING (2-0-0 = 2 units)
+Fundamental principles of Flow.  Hydraulic similitude.  
+Flow measurement, Flow in closed conduits - steady and unsteady flows.  
+Flow in open channels.  
+Flow through hydraulic structures including river and coastal hydraulics.  
+Hydraulic machinery - pumps and turbines.
+
+CVE 493 - HYDRAULIC ENGINEERING LABORATORY (0-0-3 = 1 units)
+Study of Laminar flow, flow measurements in open channel, hydraulic jump
+
+CVE 405 - ENVIRONMENTAL ENGINEERING I (2-0-0 = 2 units)
+Role of the Engineer in the control of the environment in relation to water-related diseases.  
+Examination of water and wastewater.  
+Collection, treatment, protection and distribution of water.  
+Collection, treatment and disposal of wastewaters.  
+Fundamentals of solid waste management and air pollution control field trip.
+
+CVE 495 -  ENVIRONMENTAL ENGINEERING I LABORATORY (0-0-3 = 1 units)
+Determination of alkalinity, acidity and pH in water.  
+Jar test experiment, (coagulation) for determination of optimum dosage of alum, lime, speeds of slow mixing and rapid mixing etc. 
+Bacteriological examination of water.  
+Determination of solids concentrations (suspended solids, dissolved solids, total solids, volatile suspended solids).  
+Determination of chlorine, dissolved oxygen in water.
+
+CVE 407 - GEOTECHNICAL ENGINEERING I (2-0-0 = 2 units)
+Role of the Geotechnical engineer in construction, Physical properties of soils; Factors governing soil formation, Soil classification.  
+Introduction to permeability Seepage and filter requirements; Soil compaction, Principle of effective stress; Consolidation and settlement calculations; Shear strength of soils, bearing capacity.
+
+
+CVE 409 - DESIGN OF CONCRETE STRUCTURES II (2-0-3 = 3 units)
+Two-way slabs - design and detailing of one span and continuous slabs.  
+Two-way ribbed and flat slabs.  
+Reinforcement in foundations - pads and strip footings, slabs grids etc.  
+Portal frames, beams and columns system.  
+Retaining walls - cantilever and counterfort types.  
+Liquid retaining structures; under and on-ground overhead tanks.  
+Bunkers and silos. 
+Precast concrete members and structures-rules of use and examples.  
+Introduction to finite element.  
+Student project.
+
+CVE 411 - STRUCTURAL ANALYSIS II (2-1-0 = 3 units)
+Analysis of statically indeterminate structures using various methods, moment-area, slope deflections, moment distribution, column analogy, compatibility and flexibility coefficients.  
+Introduction to plastic analysis of structures.
+
+CVE 413 - TRANSPORTATION ENGINEERING I (2-0-3 = 3 units)
+Traffic Engineering: human and vehicular characteristics related to traffic, highway capacity, traffic studies and traffic data collection and analysis: 
+- Principles of traffic planning and fore-casting 
+- Principles of network planning 
+- mass transit planning 
+- traffic controls on highway and urban roads 
+- One-way streets, signals, signs, smoking, lighting and canalization, traffic regulations regarding speed, zoning.
+
+CVE 497 - GEOTECHNICAL ENGINEERING I LABORATORY (0-0-3 = 1 units)
+Moisture content determination, Liquid and Plastic limits of soil, shrinkage limit, Particle size distribution:
+- mechanical method, Particle size distribution 
+- hydrometer method; Specific gravity of soils.  
+Unconfined compression test; California bearing ratio (CBR) test, Triaxial test - Without pore pressure measurement, Direct shear test, Consolidation test.
+
+CVE 501 - ENVIRONMENTAL ENGINEERING II (2-0-3 = 3 units)
+Introduction to the theory, design, construction operations and maintenance of facilities for treatment, pumping, storage distribution of water; and for collection, treatment and disposal of wastewaters.
+
+CVE 502 - CONSTRUCTION ENGINEERING (2-0-3 = 3 units)
+Planning of construction operation, including scheduling (bar charts, CPM, PERT, etc.)  
+Selection of construction equipment. 
+Factors affecting equipment output, Studies of tractors, excavators, trucks, etc.  
+Introduction to various construction methods such as for drilling, rock blasting and tunnelling.  
+Practical exercises include staking out of buildings and roads.  
+Site visits and report-writing on same are also included.
+
+CVE 503 - GEOTECHNICAL ENGINEERING II (2-0-3 = 3 units)
+Earth retaining structures to include cantilever and anchored sheet pile walls, strutted excavations.  
+Design of shallow foundations to include strips and rafts.  
+Deep foundations to include piles, piers and caissons.  
+Slope stability and Earth dams.  
+Introduction to site investigation to include location of suitable highway subgrade materials.
+
+CVE 504 - ENGINEERING CONTRACTS AND SPECIFICATIONS (2-1-0 = 3 units)
+Legal and professional relations in engineering preparation of specifications and Bill of Quantities.  
+Contract laws, including essential elements of a valid contract. 
+Labour laws, advertising.  
+Contract documents.  
+Legal aspects of construction supervision.
+
+CVE 505 - DESIGN OF STEEL STRUCTURES (2-0-3 = 3 units)
+Structural Steels - production, properties and shapes.  
+Assumption of standard BS 5950.  
+Connections - riveted, bolted and welded.  
+Leads and their external and internal effects.  
+Simple steel beams.  
+Stanchions. 
+Trusses.  
+Plate girders.  
+Example of the steel structure of industrial building.  
+Student project.
+
+CVE 506 - ARCHITECTURAL AND STRUCTURAL DETAILING (0-0-3 = 1 units)
+Review of dimensional awareness, techniques in drafting of engineering drawings, plan and profile. 
+Preparation of structural drawings from architectural drawings.  
+Structural detailing; reinforcement schedule; structural working drawings of Civil Engineering structures.
+
+CVE 509 - TRANSPORTATION ENGINEERING II (2-0-3 = 3 units)
+Principles of highway location - design and economics 
+			       - Earth-work volume computations and development of mass haul diagrams. 
+			       - Principles and design of Asphaltic Concrete, subgrade, sub-base surfacing and drainage for highways and airports 
+			       - Construction and maintenance of pavements.  
+Analysis, classification, and use of base materials - Compacted and stabilised soils.  
+Highway safety - Introduction to Traffic.
+
+CVE 510 - ENGINEERING SYSTEMS ANALYSIS (2-1-0 = 3 units)
+Systems approach to planning, design and operation of large-scale physical systems; economic and engineering concepts; linear programming; network analysis; decision analysis; concepts of problem formulation, synthesis and analysis.  
+Application to transportation, construction, water resources, building and other engineering problems.
+
+CVE 520 - STRUCTURAL ANALYSIS III (2-1-0 = 3 units)
+Structural analysis of deflections and other structural characteristics using methods of matrix algebra, including flexibility and stiffness methods.  
+Limit analysis of plan frames.  
+Principles governing design of special structures such as somas, shells, suspension bridges, etc.
+
+CVE 530 - APPLIED HYDROLOGY (2-0-2 = 3 units)
+Systems analysis applied to river basin planning and development; statistical concepts in hydrology; flood forecasting; flood risks and return periods.  
+Introduction to Remote Sensing techniques.
+
+CVE 540 - TRANSPORTATION ENGINEERING III (2-1-0 = 3 units)
+Traffic controls and signals.  
+Planning, design and maintenance of railways; airports and harbours.  
+Urban mass transportation.  
+Design and maintenance of bridges and tunnels.
+
+CVE 550 - ENVIRONMENTAL ENGINEERING III (2-0-2 = 3 units)
+Advanced treatment of the chemistry and microbiology of water and wastewater.  
+Investigation and planning activities used for evaluating existing water and wastewater facilities, and for design and operation of new ones.  
+Design of component parts of water and wastewater treatment units, including troughs, Parshall flumes, overflow weirs, etc.
+
+CVE 560 - GEOTECHNICAL ENGINEERING III (2-1-0 = 3 units)
+Further principles of site investigation to include bore holing for disturbed and undisturbed soils samples and for groundwater exploitation; soil reclamation.  Tunnelling practice.  
+Elastic theories and soil deformation.  
+Introduction to design of machine foundation.  
+Review of recent developments in geotechnical engineering practice to include use of clay soil for containment of hazardous waste and in slurring trench cut-off use of geotextiles and reinforced earth.
+
+CVE 570 - SOLID WASTE MANAGEMENT AND AIR POLLUTION CONTROL (2-1-0 = 3 units)
+Problems of urban refuse, garbage and other solid wastes.  
+Methods of collection and disposal including incineration, composition, landfill, etc.  
+Sources of air pollution, factors affecting movement of air pollutants.  
+Quantitative and qualitative aspects of pollutants.  
+Air pollution control methods.
+
+CVE 580 - DESIGN OF CONCRETE STRUCTURES III (2-1-0 = 3 units)
+Selected problems of RC. 
+structures; deep beams; brackets and corbels; beam-column joints in skeletons arch, shell and folded roofs; general problems of modern wall and skeleton buildings.
+Prestressed concrete structures: materials.
+Methods of prestressing: systems of tendons and anchorages, losses of prestressing, analysis of PC section.
+Design of Prestressed beams: development of PC structures.
+

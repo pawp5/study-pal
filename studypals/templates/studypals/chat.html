@@ -1,66 +1,51 @@
-{% extends 'studypals/base.html' %}
+<!DOCTYPE html>
+<!-- {% load static %} -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'studypals/css/chat.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&family=Coiny&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Salsa&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <title>DASHBOARD</title>
+    <script>
+      const csrfToken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+    </script>
+</head>
+<body>
+ <!-- side bar -->
+ <div class="sidebar">
+  <button class="hide-sidebar">
+    <span id="close-btn" class="material-symbols-rounded">close</span>
+  </button>
+  <div class="chatbot"></div>
+  <ul class="list">
+    <div class="Add"><span id="Add-btn" class="material-symbols-rounded" class="Add-span">Add</span><p>New Chat</p></div>
+    <div class="history"><span id="history-btn" class="material-symbols-rounded" class="history-span">history</span><p>Assist with user History.</p></div>
+      <div class="Logout"><span id="Logout-btn" class="material-symbols-rounded" class="Logout-span">Logout</span><p><a href="{% url 'users:logout' %}">Log Out.</a></p></div>
+      <hr>
+  </ul>
+</div>
+<!-- Chats container -->
+<div class="bot">
+  <button class="show-sidebar">
+    <span id="menu-btn" class="material-symbols-rounded">menu</span>
+  </button>
+<div class="chat-container"></div>
 
-
-{% block content %}
-
-  <!-- {% if response %}
-    <div>
-      <ul>
-      {% for i in response %}
-        
-          <li>
-            <p>{{ i }}</p>
-          </li>
-        
-      {% endfor %}
-    </ul>
-    </div>
-  {% endif %} -->
-
-  <!-- side bar -->
-  <div class="sidebar">
-    <button class="hide-sidebar">
-      <span id="close-btn" class="material-symbols-rounded">close</span>
-    </button>
-    <div class="chatbot"></div>
-    <ul class="list">
-      <div class="chat">
-        <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em"  style="color: #CACCCE">
-          <line x1="12" y1="5" x2="12" y2="19"></line>
-          <line x1="5" y1="12" x2="19" y2="12"></line>
-        </svg>
-        <p>New Chat</p>
-      </div>
-
-      <!-- History Area -->
-
-    </ul>
-  </div>
-  <!-- Chats container -->
-  <div class="chat-block">
-    <button class="show-sidebar">
-      <span id="menu-btn" class="material-symbols-rounded">menu</span>
-    </button>
-    <div class="chat-container"></div>
-    
-    <!-- Typing container -->
-    <div class="typing-container">
+<!-- Typing container -->
+<div class="typing-container">
       <div class="typing-content">
-        <div class="typing-textarea">
-          <input id="chat-input" spellcheck="false" placeholder="Type In Your Message" required />
-            <span id="send-btn" style="cursor: pointer;" class="material-symbols-rounded">send</span>
-        </div>
-      </div>
+    <div class="typing-textarea">
+      <input id="chat-input" spellcheck="" placeholder="Type In Your Message" required />
+        <span id="send-btn" style="cursor: pointer;" class="material-symbols-rounded">send</span>
     </div>
-  </div>
+</div>
+</div>
+</div>
 
-
-
-  <!-- <form action="{% url 'studypals:chat' %}" method="post">
-    {% csrf_token %}
-    {{ form.as_p }}
-    <input type="submit" value="Submit" class="btn btn-secondary">
-
-  </form> -->
-
-{% endblock content %}
+<script src="{% static 'studypals/js/chat.js' %}"></script>
+</body>
+</html>
